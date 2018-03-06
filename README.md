@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 DOWNLOAD
 ========
 
@@ -99,3 +100,7 @@ information or see http://opensource.org/licenses/MIT.
 
 
 
+=======
+# urkoin
+Urkoin cryptocurrency
+>>>>>>> adbd92448b661e09273147f9ed57a2f065772df5
