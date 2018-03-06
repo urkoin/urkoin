@@ -2,20 +2,20 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Acerca de Cryply Core</translation>
+        <source>About Urkoin Core</source>
+        <translation>Acerca de Urkoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply Core&lt;/b&gt; versión</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin Core&lt;/b&gt; versión</translation>
     </message>
     <message>
         <source>Copyright</source>
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Los desarrolladores de Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Los desarrolladores de Urkoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -89,12 +89,12 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones de Cryply para enviar pagos. Siempre revise la cantidad y la dirección receptora antes de enviar monedas</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones de Urkoin para enviar pagos. Siempre revise la cantidad y la dirección receptora antes de enviar monedas</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Estas son tus direcciones Cryply para recibir pagos. Es recomendado usar una nueva dirección receptora para cada transacción.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Estas son tus direcciones Urkoin para recibir pagos. Es recomendado usar una nueva dirección receptora para cada transacción.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -203,8 +203,8 @@
         <translation>Cartera encriptada</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply se cerrará para finalizar el proceso de encriptación. Recuerda que encriptar tu cartera no protege completamente a tus cryplies de ser robadas por malware infectando tu computadora.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin se cerrará para finalizar el proceso de encriptación. Recuerda que encriptar tu cartera no protege completamente a tus cryplies de ser robadas por malware infectando tu computadora.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -274,8 +274,8 @@
         <translation>Salir de la aplicación</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Mostrar información acerca de Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Mostrar información acerca de Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -322,12 +322,12 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Enviar monedas a una dirección Cryply</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Enviar monedas a una dirección Urkoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Modificar las opciones de configuración de Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Modificar las opciones de configuración de Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -366,20 +366,20 @@
         <translation>Pestañas</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>nucleo Cryply</translation>
+        <source>Urkoin Core</source>
+        <translation>nucleo Urkoin</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>opciones de la &amp;Linea de comandos</translation>
     </message>
     <message>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
-        <translation>Mostrar mensaje de ayuda del nucleo de Cryply para optener una lista con los posibles comandos  de Cryply</translation>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
+        <translation>Mostrar mensaje de ayuda del nucleo de Urkoin para optener una lista con los posibles comandos  de Urkoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n Activar conexión a la red de Cryply</numerusform><numerusform>%n Activar conexiones a la red de Cryply</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n Activar conexión a la red de Urkoin</numerusform><numerusform>%n Activar conexiones a la red de Urkoin</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -533,12 +533,12 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core - Command-line options</source>
-        <translation>Opciones de lineas de comando del nucleo de Cryply</translation>
+        <source>Urkoin Core - Command-line options</source>
+        <translation>Opciones de lineas de comando del nucleo de Urkoin</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>nucleo Cryply</translation>
+        <source>Urkoin Core</source>
+        <translation>nucleo Urkoin</translation>
     </message>
     <message>
         <source>version</source>
@@ -615,8 +615,8 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ingrese una direccion Cryply (ejem. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ingrese una direccion Urkoin (ejem. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -632,8 +632,8 @@
         <translation>&amp;Etiqueta</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Cryply network.</source>
-        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Cryply.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Urkoin network.</source>
+        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Urkoin.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -773,8 +773,8 @@
         <translation>¡La transación fue rechazada! Esto puede ocurrir si algunas de tus monedas en tu cartera han sido gastadas, al igual que si usas una cartera copiada y la monedas fueron gastadas en la copia pero no se marcaron como gastadas.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>Advertencia: Dirección de Cryply invalida</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>Advertencia: Dirección de Urkoin invalida</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -843,8 +843,8 @@
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>Apagando el nucleo de Cryply...</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>Apagando el nucleo de Urkoin...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -866,19 +866,19 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Ingrese una direccion Cryply (ejem. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Ingrese una direccion Urkoin (ejem. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     </context>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>nucleo Cryply</translation>
+        <source>Urkoin Core</source>
+        <translation>nucleo Urkoin</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>El nucleo de Cryply de desarrolladores</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>El nucleo de Urkoin de desarrolladores</translation>
     </message>
     </context>
 <context>

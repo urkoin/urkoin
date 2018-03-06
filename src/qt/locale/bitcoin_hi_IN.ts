@@ -1,4 +1,4 @@
-<TS language="hi_IN" version="2.1">
+﻿<TS language="hi_IN" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -167,7 +167,7 @@
         <translation>अप्लिकेशन से बाहर निकलना !</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
+        <source>Show information about Urkoin</source>
         <translation>बीटकोइन के बारे में जानकारी !</translation>
     </message>
     <message>
@@ -183,7 +183,7 @@
         <translation>पहचान शब्द/अक्षर जो वॉलेट एनक्रिपशन के लिए इस्तेमाल किया है उसे बदलिए!</translation>
     </message>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>बीटकोइन</translation>
     </message>
     <message>
@@ -211,7 +211,7 @@
         <translation>[टेस्टनेट]</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation><numerusform>%n सक्रिया संपर्क बीटकोइन नेटवर्क से</numerusform><numerusform>%n सक्रिया संपर्क बीटकोइन नेटवर्क से</numerusform></translation>
     </message>
     <message numerus="yes">
@@ -376,7 +376,7 @@ Address: %4
 <context>
     <name>Intro</name>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>बीटकोइन</translation>
     </message>
     <message>
@@ -423,12 +423,12 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>बीटकोइन</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply एड्रेस लिखें (उदाहरण: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Urkoin एड्रेस लिखें (उदाहरण: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -587,8 +587,8 @@ Address: %4
         <translation>हस्ताक्षर</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply एड्रेस लिखें (उदाहरण: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Urkoin एड्रेस लिखें (उदाहरण: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     </context>
 <context>
@@ -897,12 +897,12 @@ Address: %4
         <translation>विकल्प:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>configuraion की फाइल का विवरण दें (default: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>configuraion की फाइल का विवरण दें (default: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>pid फाइल का विवरण दें (default: cryply.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>pid फाइल का विवरण दें (default: urkoin.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>

@@ -52,7 +52,7 @@ void RPCRunLater(const std::string& name, boost::function<void(void)> func, int6
 
 typedef json_spirit::Value(*rpcfn_type)(const json_spirit::Array& params, bool fHelp);
 
-class CRPCCommand
+class URKCCommand
 {
 public:
     std::string name;
@@ -65,13 +65,13 @@ public:
 /**
  * Bitcoin RPC command dispatcher.
  */
-class CRPCTable
+class URKCTable
 {
 private:
-    std::map<std::string, const CRPCCommand*> mapCommands;
+    std::map<std::string, const URKCCommand*> mapCommands;
 public:
-    CRPCTable();
-    const CRPCCommand* operator[](std::string name) const;
+    URKCTable();
+    const URKCCommand* operator[](std::string name) const;
     std::string help(std::string name) const;
 
     /**
@@ -84,7 +84,7 @@ public:
     json_spirit::Value execute(const std::string &method, const json_spirit::Array &params) const;
 };
 
-extern const CRPCTable tableRPC;
+extern const URKCTable tableRPC;
 
 //
 // Utilities: convert hex-encoded Values

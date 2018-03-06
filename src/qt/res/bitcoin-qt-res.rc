@@ -8,7 +8,7 @@ IDI_ICON2 ICON DISCARDABLE "icons/bitcoin_testnet.ico"
 #define VER_PRODUCTVERSION_STR STRINGIZE(CLIENT_VERSION_MAJOR) "." STRINGIZE(CLIENT_VERSION_MINOR) "." STRINGIZE(CLIENT_VERSION_REVISION) "." STRINGIZE(CLIENT_VERSION_BUILD)
 #define VER_FILEVERSION        VER_PRODUCTVERSION
 #define VER_FILEVERSION_STR    VER_PRODUCTVERSION_STR
-#define COPYRIGHT_STR          "199X-" STRINGIZE(COPYRIGHT_YEAR) " The Cryply developers"
+#define COPYRIGHT_STR          "199X-" STRINGIZE(COPYRIGHT_YEAR) " The Urkoin developers"
 
 VS_VERSION_INFO VERSIONINFO
 FILEVERSION     VER_FILEVERSION
@@ -20,14 +20,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Cryply"
-            VALUE "FileDescription",    "Cryply Core (OSS GUI client for Cryply)"
+            VALUE "CompanyName",        "Urkoin"
+            VALUE "FileDescription",    "Urkoin Core (OSS GUI client for Urkoin)"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "cryply-qt"
+            VALUE "InternalName",       "urkoin-qt"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT/X11 software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "cryply-qt.exe"
-            VALUE "ProductName",        "Cryply Core"
+            VALUE "OriginalFilename",   "urkoin-qt.exe"
+            VALUE "ProductName",        "Urkoin Core"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

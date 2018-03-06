@@ -1,12 +1,12 @@
-<TS language="zh_CN" version="2.1">
+﻿<TS language="zh_CN" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
+        <source>About Urkoin Core</source>
         <translation>关于比特币核心</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
         <translation>&lt;b&gt;比特币核心&lt;/b&gt; 版本</translation>
     </message>
     <message>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>版权</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Core 的开发者</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Core 的开发者</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,11 +103,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>正在接收地址</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
         <translation>这是您用来付款的比特币地址。在付款前，请总是核实付款金额和收款地址。</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>这些都是您的比特币地址，可用于收款。建议对每笔交易都使用一个新的地址。</translation>
     </message>
     <message>
@@ -225,7 +225,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>钱包已加密</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
         <translation>比特币客户端将关闭软件以完成加密过程。请您谨记：钱包加密并不是万能的，电脑中毒等原因仍可能导致您的比特币意外丢失。</translation>
     </message>
     <message>
@@ -296,7 +296,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>退出程序</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
+        <source>Show information about Urkoin</source>
         <translation>显示比特币的相关信息</translation>
     </message>
     <message>
@@ -344,11 +344,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>正在为数据块建立索引...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
+        <source>Send coins to a Urkoin address</source>
         <translation>向一个比特币地址发送比特币</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
+        <source>Modify configuration options for Urkoin</source>
         <translation>设置选项</translation>
     </message>
     <message>
@@ -372,7 +372,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>验证消息(&amp;V)...</translation>
     </message>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>比特币</translation>
     </message>
     <message>
@@ -400,11 +400,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>对钱包中的私钥加密</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
         <translation>用比特币地址关联的私钥为消息签名，以证明您拥有这个比特币地址</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
         <translation>校验消息，确保该消息是由指定的比特币地址所有者签名的</translation>
     </message>
     <message>
@@ -428,15 +428,15 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[测试网络]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
+        <source>Urkoin Core</source>
         <translation>比特币核心</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>请求支付（生成二维码和 cryply: URI）</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>请求支付（生成二维码和 urkoin: URI）</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
+        <source>&amp;About urkoin Core</source>
         <translation>关于比特币核心(&amp;A)</translation>
     </message>
     <message>
@@ -448,7 +448,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>显示用过的接收地址和标签的列表</translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
+        <source>Open a urkoin: URI or payment request</source>
         <translation>打开一个比特币：URI 或支付请求</translation>
     </message>
     <message>
@@ -456,15 +456,15 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;命令行 选项</translation>
     </message>
     <message>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
         <translation>显示比特币核心 程序帮助信息，获取可用的命令行选项 </translation>
     </message>
     <message>
-        <source>Cryply client</source>
+        <source>Urkoin client</source>
         <translation>比特币客户端</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation><numerusform>%n条到比特币网络的活动连接</numerusform></translation>
     </message>
     <message>
@@ -560,7 +560,7 @@ Address: %4
         <translation>钱包已被&lt;b&gt;加密&lt;/b&gt;，当前为&lt;b&gt;锁定&lt;/b&gt;状态</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
         <translation>发生严重错误。</translation>
     </message>
 </context>
@@ -845,7 +845,7 @@ Address: %4
         <translation>输入的地址“%1”已经存在于地址簿中。</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
         <translation>您输入的“%1”不是有效的比特币地址。</translation>
     </message>
     <message>
@@ -883,11 +883,11 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core - Command-line options</source>
+        <source>Urkoin Core - Command-line options</source>
         <translation>比特币核心程序 - 命令行选项</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
+        <source>Urkoin Core</source>
         <translation>比特币核心</translation>
     </message>
     <message>
@@ -935,15 +935,15 @@ Address: %4
         <translation>欢迎</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
+        <source>Welcome to Urkoin Core.</source>
         <translation>欢迎使用 比特币核心 程序。</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
         <translation>由于这是第一次运行 比特币核心 程序，您可以选择数据存储目录。</translation>
     </message>
     <message>
-        <source>Cryply Core will download and store a copy of the Cryply block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Urkoin Core will download and store a copy of the Urkoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation>比特币核心 程序会下载储存一份数据块链(blockchain)。至少需要 %1 GB的存储空间，随着时间推移会需要更多的存储空间。钱包文件也储存在该目录。</translation>
     </message>
     <message>
@@ -955,7 +955,7 @@ Address: %4
         <translation>使用自定义的数据目录：</translation>
     </message>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>比特币</translation>
     </message>
     <message>
@@ -1017,11 +1017,11 @@ Address: %4
         <translation>支付交易费用(&amp;F)</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
+        <source>Automatically start Urkoin after logging in to the system.</source>
         <translation>登录系统后自动开启比特币客户端</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
+        <source>&amp;Start Urkoin on system login</source>
         <translation>系统启动时运行(&amp;S)</translation>
     </message>
     <message>
@@ -1037,7 +1037,7 @@ Address: %4
         <translation>脚本&amp;验证 进程数 </translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
         <translation>通过 SOCKS 代理连接到比特币网络。</translation>
     </message>
     <message>
@@ -1097,7 +1097,7 @@ Address: %4
         <translation>&amp;选择未经确认的花费</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>自动在路由器中打开比特币端口。只有当您的路由器开启了 UPnP 选项时此功能才有效。</translation>
     </message>
     <message>
@@ -1153,7 +1153,7 @@ Address: %4
         <translation>用户界面语言(&amp;L)：</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
         <translation>在这里设置用户界面的语言。设置将在客户端重启后生效。</translation>
     </message>
     <message>
@@ -1165,7 +1165,7 @@ Address: %4
         <translation>选择比特币单位。</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
         <translation>是否需要在交易清单中显示比特币地址。</translation>
     </message>
     <message>
@@ -1220,7 +1220,7 @@ Address: %4
         <translation>表单</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
         <translation>现在显示的消息可能是过期的. 在连接上比特币网络节点后，您的钱包将自动与网络同步，但是这个过程还没有完成。</translation>
     </message>
     <message>
@@ -1275,7 +1275,7 @@ Address: %4
         <translation>URI 处理</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
         <translation>URI无法解析！原因可能是比特币地址不正确，或者URI参数错误。</translation>
     </message>
     <message>
@@ -1287,7 +1287,7 @@ Address: %4
         <translation>支付请求出错</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
+        <source>Cannot start urkoin: click-to-pay handler</source>
         <translation>暂时无法启动比特币：点击支付功能</translation>
     </message>
     <message>
@@ -1342,7 +1342,7 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>比特币</translation>
     </message>
     <message>
@@ -1358,11 +1358,11 @@ Address: %4
         <translation>错误：无效的 -regtest 与 -testnet 结合体。</translation>
     </message>
     <message>
-        <source>Cryply Core didn't yet exit safely...</source>
+        <source>Urkoin Core didn't yet exit safely...</source>
         <translation>比特币核心钱包没有安全退出....</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>请输入比特币地址（例如: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L）</translation>
     </message>
 </context>
@@ -1484,7 +1484,7 @@ Address: %4
         <translation>调试日志文件</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>打开当前目录中的调试日志文件。日志文件大的话可能要等上几秒钟。</translation>
     </message>
     <message>
@@ -1492,7 +1492,7 @@ Address: %4
         <translation>清空控制台</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
+        <source>Welcome to the Urkoin RPC console.</source>
         <translation>欢迎来到 RPC 控制台。</translation>
     </message>
     <message>
@@ -1555,7 +1555,7 @@ Address: %4
         <translation>重用现有的接收地址（不推荐）</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Cryply network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Urkoin network.</source>
         <translation>可在付款请求上备注一条信息，在打开付款请求时可以看到。注意：该消息不是通过比特币网络传送。</translation>
     </message>
     <message>
@@ -1868,7 +1868,7 @@ Address: %4
         <translation>错误：该交易被拒绝！发生这种错误的原因可能是：钱包中的比特币已经被用掉，有可能您复制了wallet.dat钱包文件，然后用复制的钱包文件支付了比特币，但是这个钱包文件中没有记录。</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
+        <source>Warning: Invalid Urkoin address</source>
         <translation>警告：无效的比特币地址</translation>
     </message>
     <message>
@@ -1955,8 +1955,8 @@ Address: %4
         <translation>请为此地址输入一个标签以将它加入用过的地址列表</translation>
     </message>
     <message>
-        <source>A message that was attached to the cryply: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the cryply network.</source>
-        <translation>cryply:URI 附带的备注信息，将会和交易一起存储，备查。 注意：该消息不会通过比特币网络传输。</translation>
+        <source>A message that was attached to the urkoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the urkoin network.</source>
+        <translation>urkoin:URI 附带的备注信息，将会和交易一起存储，备查。 注意：该消息不会通过比特币网络传输。</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1974,7 +1974,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
+        <source>Urkoin Core is shutting down...</source>
         <translation>比特币核心正在关机...</translation>
     </message>
     <message>
@@ -2029,7 +2029,7 @@ Address: %4
         <translation>复制当前签名至剪切板</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
+        <source>Sign the message to prove you own this Urkoin address</source>
         <translation>签名消息，证明这个地址属于您。</translation>
     </message>
     <message>
@@ -2057,7 +2057,7 @@ Address: %4
         <translation>用于签名消息的地址(例如: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
         <translation>验证消息，确保消息是由指定的比特币地址签名过的。</translation>
     </message>
     <message>
@@ -2069,7 +2069,7 @@ Address: %4
         <translation>清空所有验证消息栏</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>请输入比特币地址 (例如: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -2128,12 +2128,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
+        <source>Urkoin Core</source>
         <translation>比特币核心</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Core 的开发者</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Core 的开发者</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2614,13 +2614,13 @@ Address: %4
 </translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>指定配置文件 (默认为 cryply.conf)
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>指定配置文件 (默认为 urkoin.conf)
 </translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>指定 pid 文件 (默认为 cryplyd.pid)
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>指定 pid 文件 (默认为 urkoind.pid)
 </translation>
     </message>
     <message>
@@ -2666,7 +2666,7 @@ Address: %4
 </translation>
     </message>
     <message>
-        <source>Cryply Core RPC client version</source>
+        <source>Urkoin Core RPC client version</source>
         <translation>比特币核心钱包RPC客户端版本</translation>
     </message>
     <message>
@@ -2688,24 +2688,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s, 您必须在配置文件设置rpcpassword:
  %s
 建议您使用下面的随机密码:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (您无需记住此密码)
 用户名和密码 必! 须! 不一样。
 如果配置文件不存在，请自行建立一个只有所有者拥有只读权限的文件。
 推荐您开启提示通知以便收到错误通知，
-像这样: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+像这样: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2777,7 +2777,7 @@ rpcpassword=%s
         <translation>这是测试用的预发布版本 - 请谨慎使用 - 不要用来挖矿，或者在正式商用环境下使用</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Cryply Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Urkoin Core is probably already running.</source>
         <translation>无法 %s的绑定到电脑上，比特币核心钱包可能已经在运行。</translation>
     </message>
     <message>
@@ -2789,7 +2789,7 @@ rpcpassword=%s
         <translation>警告：-paytxfee 交易费设置得太高了！每笔交易都将支付交易费。</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
         <translation>警告：请检查电脑的日期时间设置是否正确！时间错误可能会导致比特币客户端运行异常。</translation>
     </message>
     <message>
@@ -2825,7 +2825,7 @@ rpcpassword=%s
         <translation>尝试从损坏的钱包文件wallet.dat中恢复私钥</translation>
     </message>
     <message>
-        <source>Cryply Core Daemon</source>
+        <source>Urkoin Core Daemon</source>
         <translation>比特币核心 守护程序</translation>
     </message>
     <message>
@@ -3033,8 +3033,8 @@ rpcpassword=%s
         <translation>这是用于回归测试和应用开发目的。</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use cryply-cli):</source>
-        <translation>用法（不推荐，请使用 cryply-cli）：</translation>
+        <source>Usage (deprecated, use urkoin-cli):</source>
+        <translation>用法（不推荐，请使用 urkoin-cli）：</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -3069,7 +3069,7 @@ rpcpassword=%s
         <translation>从blk000??.dat文件导入数据块</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Cryply Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Urkoin Core is probably already running.</source>
         <translation>无法获取数据目录的 %s. 比特币核心钱包可能已经在运行.</translation>
     </message>
     <message>
@@ -3133,7 +3133,7 @@ rpcpassword=%s
         <translation>启动时打印区块树 (默认值: 0)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
         <translation>RPC SSL选项：(见有关比特币设置用于SSL说明的维基百科)</translation>
     </message>
     <message>
@@ -3153,11 +3153,11 @@ rpcpassword=%s
         <translation>运行一个程序，定时清理钱包 (默认值：1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL选项：(参见Cryply Wiki关于SSL设置栏目)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL选项：(参见Urkoin Wiki关于SSL设置栏目)</translation>
     </message>
     <message>
-        <source>Send command to Cryply Core</source>
+        <source>Send command to Urkoin Core</source>
         <translation>发送指令到比特币核心钱包</translation>
     </message>
     <message>
@@ -3193,7 +3193,7 @@ rpcpassword=%s
         <translation>设置连接超时时间(缺省：5000毫秒)</translation>
     </message>
     <message>
-        <source>Start Cryply Core Daemon</source>
+        <source>Start Urkoin Core Daemon</source>
         <translation>开启比特币核心钱包守护进程</translation>
     </message>
     <message>
@@ -3314,12 +3314,12 @@ rpcpassword=%s
         <translation>wallet.dat 钱包文件加载出错：钱包损坏</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>wallet.dat 钱包文件加载错误：请升级到最新版Cryply客户端</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>wallet.dat 钱包文件加载错误：请升级到最新版Urkoin客户端</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>钱包文件需要被重写：请退出并重新启动Cryply客户端</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>钱包文件需要被重写：请退出并重新启动Urkoin客户端</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

@@ -165,7 +165,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Портфейлът е криптиран</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
         <translation>Биткоин ще се затоври сега за да завърши процеса на криптиране. Запомнете, че криптирането на вашия портефейл не може напълно да предпази вашите Бит-монети от кражба чрез зловреден софтуер, инфектирал вашия компютър</translation>
     </message>
     <message>
@@ -232,7 +232,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Изход от приложението</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
+        <source>Show information about Urkoin</source>
         <translation>Информация за Биткоин</translation>
     </message>
     <message>
@@ -260,7 +260,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Смяна на паролата...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
+        <source>Send coins to a Urkoin address</source>
         <translation>Изпращане към Биткоин адрес</translation>
     </message>
     <message>
@@ -272,7 +272,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Проверка на съобщение...</translation>
     </message>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -312,7 +312,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation><numerusform>%n връзка към Биткоин мрежата</numerusform><numerusform>%n връзки към Биткоин мрежата</numerusform></translation>
     </message>
     <message numerus="yes">
@@ -372,7 +372,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Портфейлът е &lt;b&gt;криптиран&lt;/b&gt; и &lt;b&gt;заключен&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
         <translation>Възникна фатална грешка. Биткойн не може да продължи безопасно и ще се изключи.</translation>
     </message>
 </context>
@@ -485,7 +485,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Вече има адрес "%1" в списъка с адреси.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
         <translation>"%1" не е валиден Биткоин адрес.</translation>
     </message>
     <message>
@@ -534,7 +534,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Добре дошли</translation>
     </message>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
@@ -560,7 +560,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Такса за изходяща трансакция</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
+        <source>&amp;Start Urkoin on system login</source>
         <translation>&amp;Пускане на Биткоин при вход в системата</translation>
     </message>
     <message>
@@ -568,8 +568,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Мрежа</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Автоматично отваряне на входящия Cryply порт. Работи само с рутери поддържащи UPnP.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Автоматично отваряне на входящия Urkoin порт. Работи само с рутери поддържащи UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -624,7 +624,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Език:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
         <translation>Промяната на езика ще влезе в сила след рестартиране на Биткоин.</translation>
     </message>
     <message>
@@ -636,7 +636,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Изберете единиците, показвани по подразбиране в интерфейса.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
         <translation>Ще се показват адресите в списъка с трансакции независимо от наличието на кратко име.</translation>
     </message>
     <message>
@@ -705,11 +705,11 @@ This product includes software developed by the OpenSSL Project for use in the O
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>Биткоин</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Въведете Биткоин адрес (например CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -767,7 +767,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Общо:</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Отворете Биткой дебъг лог файла от настоящата Data папка. Може да отнеме няколко секунди при по - големи лог файлове.</translation>
     </message>
     <message>
@@ -1040,7 +1040,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Копиране на текущия подпис</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
+        <source>Sign the message to prove you own this Urkoin address</source>
         <translation>Подпишете съобщение като доказателство, че притежавате определен адрес</translation>
     </message>
     <message>
@@ -1060,11 +1060,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Адресът, с който е подписано съобщението (например CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
         <translation>Проверете съобщение, за да сте сигурни че е подписано с определен Биткоин адрес</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Въведете Биткоин адрес (например CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -1514,8 +1514,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Опции:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Задаване на файл с настройки (по подразбиране cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Задаване на файл с настройки (по подразбиране urkoin.conf)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1538,7 +1538,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Внимание: -paytxfee има голяма стойност! Това е таксата за транзакциите, която ще платите ако направите транзакция.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
         <translation>Внимание: Моля проверете дали датата и часът на вашият компютър са верни! Ако часовникът ви не е сверен, Биткойн няма да работи правилно.</translation>
     </message>
     <message>
@@ -1690,8 +1690,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Грешка при зареждане на wallet.dat: портфейлът е повреден</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Грешка при зареждане на  wallet.dat: портфейлът изисква по-нова версия на Cryply</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Грешка при зареждане на  wallet.dat: портфейлът изисква по-нова версия на Urkoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

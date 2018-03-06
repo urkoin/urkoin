@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Cryply Core ҳақида</translation>
+        <source>About Urkoin Core</source>
+        <translation>Urkoin Core ҳақида</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply Core&lt;/b&gt; версияси</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin Core&lt;/b&gt; версияси</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ MIT/X11 дастурий таъминот лицензияси остида та
         <translation>Муаллифлик ҳуқуқи</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Core дастурчилари</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Core дастурчилари</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ MIT/X11 дастурий таъминот лицензияси остида та
         <translation>Қабул қилинадиган манзиллар</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Улар тўловларни жўнатиш учун сизнинг Cryply манзилларингиз. Доимо тангаларни жўнатишдан олдин сумма ва қабул қилувчи манзилни текшириб кўринг. </translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Улар тўловларни жўнатиш учун сизнинг Urkoin манзилларингиз. Доимо тангаларни жўнатишдан олдин сумма ва қабул қилувчи манзилни текшириб кўринг. </translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Улар тўловларни қабул қилиш учун сизнинг Cryply манзилларингиз. Ҳар бир ўтказма учун янги қабул қилувчи манзилдан фойдаланиш тавсия қилинади.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Улар тўловларни қабул қилиш учун сизнинг Urkoin манзилларингиз. Ҳар бир ўтказма учун янги қабул қилувчи манзилдан фойдаланиш тавсия қилинади.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -264,8 +264,8 @@ MIT/X11 дастурий таъминот лицензияси остида та
         <translation>Иловадан чиқиш</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Cryply ҳақидаги маълумотларни кўрсатиш</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Urkoin ҳақидаги маълумотларни кўрсатиш</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -308,12 +308,12 @@ MIT/X11 дастурий таъминот лицензияси остида та
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply мижози</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin мижози</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n та Cryply тармоғига фаол уланиш мавжуд</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n та Urkoin тармоғига фаол уланиш мавжуд</numerusform></translation>
     </message>
     <message>
         <source>Processed %1 blocks of transaction history.</source>
@@ -647,8 +647,8 @@ MIT/X11 дастурий таъминот лицензияси остида та
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Core дастурчилари</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Core дастурчилари</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -938,12 +938,12 @@ MIT/X11 дастурий таъминот лицензияси остида та
         <translation>Танламалар:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Мослаш файлини кўрсатинг (default: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Мослаш файлини кўрсатинг (default: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>pid файлини кўрсатинг (default: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>pid файлини кўрсатинг (default: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>

@@ -38,9 +38,9 @@ QString BitcoinUnits::name(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("CRP");
-    case mBTC: return QString("mCRP");
-    case uBTC: return QString::fromUtf8("μCRP");
+    case BTC: return QString("URK");
+    case mBTC: return QString("mURK");
+    case uBTC: return QString::fromUtf8("μURK");
     default: return QString("???");
     }
 }
@@ -49,9 +49,9 @@ QString BitcoinUnits::description(int unit)
 {
     switch(unit)
     {
-    case BTC: return QString("Cryplys");
-    case mBTC: return QString("Milli-Cryplys (1 / 1,000)");
-    case uBTC: return QString("Micro-Cryplys (1 / 1,000,000)");
+    case BTC: return QString("Urkoins");
+    case mBTC: return QString("Milli-Urkoins (1 / 1,000)");
+    case uBTC: return QString("Micro-Urkoins (1 / 1,000,000)");
     default: return QString("???");
     }
 }

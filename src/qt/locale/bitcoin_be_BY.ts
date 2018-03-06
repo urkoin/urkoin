@@ -99,8 +99,8 @@
         <translation>Гаманец зашыфраваны</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply зачыняецца дзеля завяршэння працэсса шыфравання. Памятайце, што шыфраванне гаманца цалкам абараняе вашыя сродкі ад скрадання шкоднымі праграмамі якія могуць пранікнуць у ваш камп'ютар.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin зачыняецца дзеля завяршэння працэсса шыфравання. Памятайце, што шыфраванне гаманца цалкам абараняе вашыя сродкі ад скрадання шкоднымі праграмамі якія могуць пранікнуць у ваш камп'ютар.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -158,7 +158,7 @@
         <translation>Выйсці з праграмы</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
+        <source>Show information about Urkoin</source>
         <translation>Паказаць звесткі пра Біткойн</translation>
     </message>
     <message>
@@ -206,12 +206,12 @@
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply кліент</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin кліент</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n актыўнае злучэнне з Cryply-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Cryply-сецівам</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n актыўнае злучэнне з Urkoin-сецівам</numerusform><numerusform>%n актыўных злучэнняў з Urkoin-сецівам</numerusform></translation>
     </message>
     <message>
         <source>Error</source>
@@ -383,7 +383,7 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Увядзіце Біткойн-адрас (ўзор CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -526,7 +526,7 @@ Address: %4
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Увядзіце Біткойн-адрас (ўзор CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     </context>
@@ -812,12 +812,12 @@ Address: %4
         <translation>Опцыі:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Вызначыць канфігурацыйны файл (зыходна: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Вызначыць канфігурацыйны файл (зыходна: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Вызначыць pid-файл (зыходна: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Вызначыць pid-файл (зыходна: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -908,12 +908,12 @@ Address: %4
         <translation>Памылка загрузкі wallet.dat: гаманец пашкоджаны</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Памылка загрузкі wallet.dat: гаманец патрабуе новую версію Cryply</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Памылка загрузкі wallet.dat: гаманец патрабуе новую версію Urkoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Гаманец мае быць перазапісаны: патрэбны перазапуск Cryply для выканання</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Гаманец мае быць перазапісаны: патрэбны перазапуск Urkoin для выканання</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

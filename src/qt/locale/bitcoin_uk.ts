@@ -59,12 +59,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Обрати</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Це ваші Cryply адреси для відправки платежів. Перед відправкою монети Завжди перевіряйте суму та адресу прийому.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Це ваші Urkoin адреси для відправки платежів. Перед відправкою монети Завжди перевіряйте суму та адресу прийому.</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Це ваша нова Cryply адреса для отримування платежів. Рекомендовано використовувати нову адресу для кожної транзакції.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Це ваша нова Urkoin адреса для отримування платежів. Рекомендовано використовувати нову адресу для кожної транзакції.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -173,7 +173,7 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Гаманець зашифровано</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
         <translation>Біткоін-клієнт буде закрито для завершення процесу шифрування. Пам'ятайте, що шифрування гаманця не може повністю захистити ваші біткоіни від крадіжки, у випадку якщо ваш комп'ютер буде інфіковано шкідливими програмами.</translation>
     </message>
     <message>
@@ -240,8 +240,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Вийти</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Показати інформацію про Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Показати інформацію про Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -288,11 +288,11 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Переіндексація блоків на диску ...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
+        <source>Send coins to a Urkoin address</source>
         <translation>Відправити монети на вказану адресу</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
+        <source>Modify configuration options for Urkoin</source>
         <translation>Редагувати параметри</translation>
     </message>
     <message>
@@ -316,8 +316,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Перевірити повідомлення...</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -344,12 +344,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Шифрування закритих ключів, які належать вашому гаманці</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Cryply-адресою </translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Підтвердіть, що Ви є власником повідомлення підписавши його Вашою Urkoin-адресою </translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Cryply-адресою</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Urkoin-адресою</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -372,19 +372,19 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[тестова мережа]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Ядро</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Ядро</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Параметри командного рядка</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply-клієнт</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin-клієнт</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation><numerusform>%n активне з'єднання з мережею</numerusform><numerusform>%n активні з'єднання з мережею</numerusform><numerusform>%n активних з'єднань з мережею</numerusform></translation>
     </message>
     <message>
@@ -460,8 +460,8 @@ Address: %4
         <translation>&lt;b&gt;Зашифрований&lt;/b&gt; гаманець &lt;b&gt;заблоковано&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Сталася фатальна помилка. Cryply більше не може продовжувати безпечно і піде.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Сталася фатальна помилка. Urkoin більше не може продовжувати безпечно і піде.</translation>
     </message>
 </context>
 <context>
@@ -649,8 +649,8 @@ Address: %4
         <translation>Введена адреса «%1» вже присутня в адресній книзі.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Введена адреса «%1» не є коректною адресою в мережі Cryply.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Введена адреса «%1» не є коректною адресою в мережі Urkoin.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -687,8 +687,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Ядро</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Ядро</translation>
     </message>
     <message>
         <source>version</source>
@@ -730,16 +730,16 @@ Address: %4
         <translation>Вітання</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Ласкаво просимо в Cryply Core.</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Ласкаво просимо в Urkoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
-        <translation>Оскільки це перший запуск програми, ви можете обрати де Cryply Core буде зберігати дані.</translation>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
+        <translation>Оскільки це перший запуск програми, ви можете обрати де Urkoin Core буде зберігати дані.</translation>
     </message>
     <message>
-        <source>Cryply Core will download and store a copy of the Cryply block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Cryply Core завантажить та збереже копію ланцюга Cryply блоків. Щонайменше %1Gb даних буде збережено в цьому каталозі. Гаманець теж буде збережено в цьому каталозі.</translation>
+        <source>Urkoin Core will download and store a copy of the Urkoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Urkoin Core завантажить та збереже копію ланцюга Urkoin блоків. Щонайменше %1Gb даних буде збережено в цьому каталозі. Гаманець теж буде збережено в цьому каталозі.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -750,8 +750,8 @@ Address: %4
         <translation>Використовувати свій каталог даних:</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -796,11 +796,11 @@ Address: %4
         <translation>Заплатити комісі&amp;ю</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
+        <source>Automatically start Urkoin after logging in to the system.</source>
         <translation>Автоматично запускати гаманець при вході до системи.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
+        <source>&amp;Start Urkoin on system login</source>
         <translation>&amp;Запускати гаманець при вході в систему</translation>
     </message>
     <message>
@@ -816,7 +816,7 @@ Address: %4
         <translation>&amp;Мережа</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
         <translation>Автоматично відкривати порт для клієнту біткоін на роутері. Працює лише якщо ваш роутер підтримує UPnP і ця функція увімкнена.</translation>
     </message>
     <message>
@@ -872,8 +872,8 @@ Address: %4
         <translation>Мова інтерфейсу користувача:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску Cryply.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Встановлює мову інтерфейсу. Зміни набудуть чинності після перезапуску Urkoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -884,8 +884,8 @@ Address: %4
         <translation>Виберіть одиницю вимірювання монет, яка буде відображатись в гаманці та при відправленні.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Незалежно від того, щоб показати Cryply адреси в списку транзакцій чи ні.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Незалежно від того, щоб показати Urkoin адреси в списку транзакцій чи ні.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -919,8 +919,8 @@ Address: %4
         <translation>Форма</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Cryply після встановлення підключення, але цей процес ще не завершено.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Показана інформація вже може бути застарілою. Ваш гаманець буде автоматично синхронізовано з мережею Urkoin після встановлення підключення, але цей процес ще не завершено.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -966,19 +966,19 @@ Address: %4
         <translation>Обробка URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>Неможливо обробити URI! Це може бути викликано неправильною Cryply-адресою, чи невірними параметрами URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>Неможливо обробити URI! Це може бути викликано неправильною Urkoin-адресою, чи невірними параметрами URI.</translation>
     </message>
     </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Cryply (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введіть адресу Urkoin (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1075,16 +1075,16 @@ Address: %4
         <translation>Файл звіту зневадження</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Відкрийте налагодження файл журналу Cryply з поточного каталогу даних. Це може зайняти кілька секунд для великих файлів журналів.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Відкрийте налагодження файл журналу Urkoin з поточного каталогу даних. Це може зайняти кілька секунд для великих файлів журналів.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Очистити консоль</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Вітаємо у консолі Cryply RPC.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Вітаємо у консолі Urkoin RPC.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1393,7 +1393,7 @@ Address: %4
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Cryply (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Введіть адресу Urkoin (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1424,7 +1424,7 @@ Address: %4
         <translation>Копіювати поточну сигнатуру до системного буферу обміну</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
+        <source>Sign the message to prove you own this Urkoin address</source>
         <translation>Підпишіть повідомлення щоб довести, що ви є власником цієї адреси</translation>
     </message>
     <message>
@@ -1449,11 +1449,11 @@ Address: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Cryply (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Введіть адресу Urkoin (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Cryply-адресою</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Перевірте повідомлення для впевненості, що воно підписано вказаною Urkoin-адресою</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1464,8 +1464,8 @@ Address: %4
         <translation>Скинути всі поля перевірки повідомлення</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Введіть адресу Cryply (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Введіть адресу Urkoin (наприклад CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1523,8 +1523,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Ядро</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Ядро</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1922,12 +1922,12 @@ Address: %4
         <translation>Параметри:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Вкажіть файл конфігурації (типово: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Вкажіть файл конфігурації (типово: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Вкажіть pid-файл (типово: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Вкажіть pid-файл (типово: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1998,8 +1998,8 @@ Address: %4
         <translation>Увага: встановлено занадто велику комісію (-paytxfee). Комісія зніматиметься кожен раз коли ви проводитимете транзакції.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Увага: будь ласка, перевірте дату і час на своєму комп'ютері. Якщо ваш годинник йде неправильно, Cryply може працювати некоректно.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Увага: будь ласка, перевірте дату і час на своєму комп'ютері. Якщо ваш годинник йде неправильно, Urkoin може працювати некоректно.</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
@@ -2126,8 +2126,8 @@ Address: %4
         <translation>Встановити число потоків до дзвінків служба RPC (за замовчуванням: 4)</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use cryply-cli):</source>
-        <translation>Використання (застаріле, використовуйте cryply-cli):</translation>
+        <source>Usage (deprecated, use urkoin-cli):</source>
+        <translation>Використання (застаріле, використовуйте urkoin-cli):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -2166,8 +2166,8 @@ Address: %4
         <translation>Підключити тільки до вузлів в мережі &lt;net&gt; (IPv4, IPv6 або Tor)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>Параметри SSL: (див. Cryply Wiki для налаштування SSL)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>Параметри SSL: (див. Urkoin Wiki для налаштування SSL)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2294,11 +2294,11 @@ Address: %4
         <translation>Помилка при завантаженні wallet.dat: Гаманець пошкоджено</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
         <translation>Помилка при завантаженні wallet.dat: Гаманець потребує новішої версії Біткоін-клієнта</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
         <translation>Потрібно перезаписати гаманець: перезапустіть Біткоін-клієнт для завершення</translation>
     </message>
     <message>

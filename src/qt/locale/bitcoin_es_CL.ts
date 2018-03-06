@@ -148,8 +148,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Billetera codificada</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus cryplies de ser robados por malware que infecte su computador</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin se cerrará para finalizar el proceso de encriptación. Recuerde que encriptar su billetera no protegera completatamente sus cryplies de ser robados por malware que infecte su computador</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -215,8 +215,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Salir del programa</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Muestra información acerca de Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Muestra información acerca de Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -247,12 +247,12 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Cargando el index de bloques...</translation>
     </message>
     <message>
-        <source>Send coins to a cryply address</source>
-        <translation>Enviar monedas a una dirección cryply</translation>
+        <source>Send coins to a urkoin address</source>
+        <translation>Enviar monedas a una dirección urkoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for cryply</source>
-        <translation>Modifica las opciones de configuración de cryply</translation>
+        <source>Modify configuration options for urkoin</source>
+        <translation>Modifica las opciones de configuración de urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -271,8 +271,8 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>Abre consola de depuración y diagnóstico</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -287,7 +287,7 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>&amp;Mostrar/Ocultar</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
         <translation>Firmar un mensaje para provar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -311,12 +311,12 @@ Eric Young (eay@cryptsoft.com) y UPnP software escrito por Thomas Bernard.</tran
         <translation>[red-de-pruebas]</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cliente Cryply</translation>
+        <source>Urkoin client</source>
+        <translation>Cliente Urkoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n conexión activa hacia la red Cryply</numerusform><numerusform>%n conexiones activas hacia la red Cryply</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n conexión activa hacia la red Urkoin</numerusform><numerusform>%n conexiones activas hacia la red Urkoin</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -459,8 +459,8 @@ Dirección: %4</translation>
         <translation>La dirección introducida "%1" ya esta guardada en la libreta de direcciones.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>La dirección introducida "%1" no es una dirección Cryply valida.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>La dirección introducida "%1" no es una dirección Urkoin valida.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -501,8 +501,8 @@ Dirección: %4</translation>
 <context>
     <name>Intro</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -527,12 +527,12 @@ Dirección: %4</translation>
         <translation>Comisión de &amp;transacciónes</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Inicia Cryply automáticamente despues de encender el computador</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Inicia Urkoin automáticamente despues de encender el computador</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;Inicia Cryply al iniciar el sistema</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;Inicia Urkoin al iniciar el sistema</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -543,8 +543,8 @@ Dirección: %4</translation>
         <translation>&amp;Red</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Abre automáticamente el puerto del cliente Cryply en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Abre automáticamente el puerto del cliente Urkoin en el router. Esto funciona solo cuando tu router es compatible con UPnP y está habilitado.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -644,12 +644,12 @@ Dirección: %4</translation>
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Cryply (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduce una dirección Urkoin (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -908,7 +908,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Cryply (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Introduce una dirección Urkoin (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -931,7 +931,7 @@ Dirección: %4</translation>
         <translation>Firma</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
+        <source>Sign the message to prove you own this Urkoin address</source>
         <translation>Firmar un mensjage para probar que usted es dueño de esta dirección</translation>
     </message>
     <message>
@@ -948,15 +948,15 @@ Dirección: %4</translation>
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Cryply (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Introduce una dirección Urkoin (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
         <translation>&amp;Firmar Mensaje</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduce una dirección Cryply (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduce una dirección Urkoin (ej. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -964,7 +964,7 @@ Dirección: %4</translation>
     </message>
     <message>
         <source>Please check the address and try again.</source>
-        <translation>Por favor, revise la dirección Cryply e inténtelo denuevo</translation>
+        <translation>Por favor, revise la dirección Urkoin e inténtelo denuevo</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
@@ -1356,13 +1356,13 @@ Dirección: %4</translation>
 </translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Especifica archivo de configuración (predeterminado: cryply.conf)
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Especifica archivo de configuración (predeterminado: urkoin.conf)
 </translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Especifica archivo pid (predeterminado: cryply.pid)
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Especifica archivo pid (predeterminado: urkoin.pid)
 </translation>
     </message>
     <message>
@@ -1406,8 +1406,8 @@ Dirección: %4</translation>
         <translation>Precaución: -paytxfee es muy alta. Esta es la comisión que pagarás si envias una transacción.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado Cryply no funcionará correctamente.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Precaución: Por favor revise que la fecha y hora de tu ordenador son correctas. Si tu reloj está mal configurado Urkoin no funcionará correctamente.</translation>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
@@ -1463,8 +1463,8 @@ Dirección: %4</translation>
         <translation>Información</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>Opciones SSL: (ver la Cryply Wiki para instrucciones de configuración SSL)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>Opciones SSL: (ver la Urkoin Wiki para instrucciones de configuración SSL)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -1578,12 +1578,12 @@ Dirección: %4</translation>
         <translation>Error cargando wallet.dat: Billetera corrupta</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de Cryply</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Error cargando wallet.dat: Billetera necesita una vercion reciente de Urkoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>La billetera necesita ser reescrita: reinicie Cryply para completar</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>La billetera necesita ser reescrita: reinicie Urkoin para completar</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

@@ -146,8 +146,8 @@
         <translation>Salir de la aplicacion </translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Mostrar informacion sobre Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Mostrar informacion sobre Urkoin</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -178,8 +178,8 @@
         <translation>[prueba_de_red]</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n conexión activa a la red Cryply </numerusform><numerusform>%n conexiones activas a la red Cryply</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n conexión activa a la red Urkoin </numerusform><numerusform>%n conexiones activas a la red Urkoin</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>

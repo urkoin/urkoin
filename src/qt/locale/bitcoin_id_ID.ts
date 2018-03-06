@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Mengenai Cryply Core</translation>
+        <source>About Urkoin Core</source>
+        <translation>Mengenai Urkoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>versi &lt;b&gt;Cryply Core&lt;/b&gt;</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>versi &lt;b&gt;Urkoin Core&lt;/b&gt;</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Pembangun Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Pembangun Urkoin Core</translation>
     </message>
     </context>
 <context>
@@ -99,11 +99,11 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Alamat-alamat menerima</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Alamat-alamat Anda supaya mengirim pembayaran. Periksalah jumlah dan alamat penerima setiap kali Anda mengirim Cryply.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Alamat-alamat Anda supaya mengirim pembayaran. Periksalah jumlah dan alamat penerima setiap kali Anda mengirim Urkoin.</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation>Alamat-alamat Anda supaya menerima pembayaran. Dianjurkan agar Anda menggunakan alamat menerima yang baru untuk setiap transaksi.</translation>
     </message>
     <message>
@@ -217,8 +217,8 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Dompet terenkripsi</translation>
     </message>
     <message>
-        <source>cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>cryply akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi cryply Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
+        <source>urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>urkoin akan menutup untuk menyelesaikan proses enkripsi. Ingat bahwa dengan mengenkripsi dompet Anda tidak sepenuhnya melindungi urkoin Anda dari perangkat lunak berbahaya yang menginfeksi komputer Anda.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -288,8 +288,8 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Keluar dari aplikasi</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Tampilkan informasi mengenai Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Tampilkan informasi mengenai Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -332,12 +332,12 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Mengindex ulang block di harddisk...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Kirim koin ke alamat Cryply</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Kirim koin ke alamat Urkoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Ubah pilihan konfigurasi untuk Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Ubah pilihan konfigurasi untuk Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -360,8 +360,8 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>&amp;Verifikasi pesan...</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -388,12 +388,12 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Mengenkripsi kunci-kunci pribadi yang dipunyai dompetmu</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Tandalah pesanan dengan alamat-alamat Cryply Anda supaya membuktikan pesanan itu dikirim oleh Anda</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Tandalah pesanan dengan alamat-alamat Urkoin Anda supaya membuktikan pesanan itu dikirim oleh Anda</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Periksakan pesan-pesan supaya menjaminkan ditandatangani oleh alamat Cryply yang terperinci</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Periksakan pesan-pesan supaya menjaminkan ditandatangani oleh alamat Urkoin yang terperinci</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -416,16 +416,16 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>urkoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>Permintaan pembayaran (membangkitkan kode QR dan cryply: URIs)</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>Permintaan pembayaran (membangkitkan kode QR dan urkoin: URIs)</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
-        <translation>&amp;Mengenai Cryply Core</translation>
+        <source>&amp;About urkoin Core</source>
+        <translation>&amp;Mengenai Urkoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -436,24 +436,24 @@ Produk ini termasuk software yang dibangun oleh Proyek OpenSSL untuk Toolkit Ope
         <translation>Tampilkan daftar alamat dan label yang diterima</translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
-        <translation>Buka URI cryply: atau permintaan pembayaran</translation>
+        <source>Open a urkoin: URI or payment request</source>
+        <translation>Buka URI urkoin: atau permintaan pembayaran</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;pilihan Perintah-baris</translation>
     </message>
     <message>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
-        <translation>Tampilkan pesan bantuan Cryply Core untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Cryply</translation>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
+        <translation>Tampilkan pesan bantuan Urkoin Core untuk memberikan daftar pilihan perintah-baris yang memungkinkan dalam aplikasi Urkoin</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Klien Cryply</translation>
+        <source>Urkoin client</source>
+        <translation>Klien Urkoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n hubungan aktif ke jaringan Cryply</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n hubungan aktif ke jaringan Urkoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -544,8 +544,8 @@ Alamat: %4
         <translation>Dompet saat ini &lt;b&gt;terenkripsi&lt;/b&gt; dan &lt;b&gt;terkunci&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Terjadi kesalahan fatal. Cryply tidak bisa lagi meneruskan dengan aman dan akan berhenti.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Terjadi kesalahan fatal. Urkoin tidak bisa lagi meneruskan dengan aman dan akan berhenti.</translation>
     </message>
 </context>
 <context>
@@ -829,8 +829,8 @@ Alamat: %4
         <translation>Alamat yang dimasukkan "%1" sudah ada di dalam buku alamat.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Alamat yang dimasukkan "%1" bukan alamat Cryply yang benar.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Alamat yang dimasukkan "%1" bukan alamat Urkoin yang benar.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -867,12 +867,12 @@ Alamat: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core - Command-line options</source>
-        <translation>Cryply Core - pilihan Perintah-baris</translation>
+        <source>Urkoin Core - Command-line options</source>
+        <translation>Urkoin Core - pilihan Perintah-baris</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -910,8 +910,8 @@ Alamat: %4
         <translation>Selamat Datang</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Selamat Datang ke Cryply Core</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Selamat Datang ke Urkoin Core</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -922,8 +922,8 @@ Alamat: %4
         <translation>Menggunakan direktori data yang dipilih Anda:</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -984,20 +984,20 @@ Alamat: %4
         <translation>Bayar &amp;biaya transaksi</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Menyalakan Cryply secara otomatis setelah masuk ke dalam sistem.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Menyalakan Urkoin secara otomatis setelah masuk ke dalam sistem.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;Menyalakan Cryply pada login sistem</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;Menyalakan Urkoin pada login sistem</translation>
     </message>
     <message>
         <source>MB</source>
         <translation>MB</translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
-        <translation>Menghubungkan jaringan Cryply lewat proxy SOCKS.</translation>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
+        <translation>Menghubungkan jaringan Urkoin lewat proxy SOCKS.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1048,8 +1048,8 @@ Alamat: %4
         <translation>&amp;Perubahan saldo untuk transaksi yang belum dikonfirmasi</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Otomatis membuka port client Cryply di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Otomatis membuka port client Urkoin di router. Hanya berjalan apabila router anda mendukung UPnP dan di-enable.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1104,8 +1104,8 @@ Alamat: %4
         <translation>&amp;Bahasa Antarmuka Pengguna:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Tampilan bahasa pengguna dapat diatur disini. Pengaturan ini akan berpengaruh setelah memulai kembali aplikasi Cryply.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Tampilan bahasa pengguna dapat diatur disini. Pengaturan ini akan berpengaruh setelah memulai kembali aplikasi Urkoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1116,8 +1116,8 @@ Alamat: %4
         <translation>Pilihan standar unit yang ingin ditampilkan pada layar aplikasi dan saat mengirim koin.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Apakah menampilkan alamat-alamat Cryply dalam daftar transaksi atau tidak.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Apakah menampilkan alamat-alamat Urkoin dalam daftar transaksi atau tidak.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1171,8 +1171,8 @@ Alamat: %4
         <translation>Formulir</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Cryply ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informasi terlampir mungkin sudah kedaluwarsa. Dompet Anda secara otomatis mensinkronisasi dengan jaringan Urkoin ketika sebuah hubungan terbentuk, namun proses ini belum selesai.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1226,8 +1226,8 @@ Alamat: %4
         <translation>Penanganan URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>URI tidak bisa dimengerti! Biasanya oleh karena alamat Cryply yang tidak sah atau persoalan tentang parameter-parameter URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>URI tidak bisa dimengerti! Biasanya oleh karena alamat Urkoin yang tidak sah atau persoalan tentang parameter-parameter URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1265,8 +1265,8 @@ Alamat: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1281,12 +1281,12 @@ Alamat: %4
         <translation>Gagal: Gabungan -regtest dan -testnet salah</translation>
     </message>
     <message>
-        <source>Cryply Core didn't yet exit safely...</source>
-        <translation>Inti Cryply belum keluar dengan sempurna...</translation>
+        <source>Urkoin Core didn't yet exit safely...</source>
+        <translation>Inti Urkoin belum keluar dengan sempurna...</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Masukkan alamat Cryply (cth. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Masukkan alamat Urkoin (cth. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1407,16 +1407,16 @@ Alamat: %4
         <translation>Berkas catatan debug</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Buka berkas catatan debug Cryply dari direktori data sekarang. Hal ini dapat memakan waktu beberapa detik untuk berkas catatan yang besar.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Buka berkas catatan debug Urkoin dari direktori data sekarang. Hal ini dapat memakan waktu beberapa detik untuk berkas catatan yang besar.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Bersihkan konsol</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Selamat datang ke konsol RPC Cryply.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Selamat datang ke konsol RPC Urkoin.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1779,8 +1779,8 @@ Alamat: %4
         <translation>Gagal: Transaksi ditolak. Ini mungkin terjadi jika beberapa dari koin dalam dompet Anda telah digunakan, seperti ketika Anda menggunakan salinan wallet.dat dan beberapa koin telah dibelanjakan dalam salinan tersebut tetapi disini tidak tertandai sebagai terpakai.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>Awas: Alamat Cryply tidak sah</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>Awas: Alamat Urkoin tidak sah</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1877,8 +1877,8 @@ Alamat: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>Cryply Core sementara dimatikan...</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>Urkoin Core sementara dimatikan...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1928,8 +1928,8 @@ Alamat: %4
         <translation>Salin tanda tangan terpilih ke sistem klipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Cryply ini</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Tandai pesan untuk menyetujui kamu pemiliki alamat Urkoin ini</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1952,8 +1952,8 @@ Alamat: %4
         <translation>Hapus semua bidang verifikasi pesan</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Masukkan alamat Cryply (cth. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Masukkan alamat Urkoin (cth. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -2011,12 +2011,12 @@ Alamat: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Pembangun Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Pembangun Urkoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2482,12 +2482,12 @@ Alamat: %4
         <translation>Pilihan:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Tentukan berkas konfigurasi (standar: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Tentukan berkas konfigurasi (standar: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Tentukan berkas pid (standar: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Tentukan berkas pid (standar: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2522,8 +2522,8 @@ Alamat: %4
         <translation>Menerima perintah baris perintah dan JSON-RPC</translation>
     </message>
     <message>
-        <source>Cryply Core RPC client version</source>
-        <translation>Versi klien RPC Inti Cryply </translation>
+        <source>Urkoin Core RPC client version</source>
+        <translation>Versi klien RPC Inti Urkoin </translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2550,8 +2550,8 @@ Alamat: %4
         <translation>Jalankan perintah ketika perubahan transaksi dompet (%s di cmd digantikan oleh TxID)</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Cryply Core is probably already running.</source>
-        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Cryply Core sudah mulai.</translation>
+        <source>Unable to bind to %s on this computer. Urkoin Core is probably already running.</source>
+        <translation>Tidak bisa mengikat dengan %s di computer ini. Kemungkinan Urkoin Core sudah mulai.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2562,8 +2562,8 @@ Alamat: %4
         <translation>Peringatan: -paytxfee sangat besar! Ini adalah biaya pengiriman yang akan dibayar oleh Anda jika transaksi terkirim.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Perhatian: Mohon diperiksa pengaturan tanggal dan waktu komputer anda apakah sudah benar! Jika pengaturan waktu salah aplikasi Cryply tidak akan berjalan dengan tepat.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Perhatian: Mohon diperiksa pengaturan tanggal dan waktu komputer anda apakah sudah benar! Jika pengaturan waktu salah aplikasi Urkoin tidak akan berjalan dengan tepat.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2590,8 +2590,8 @@ Alamat: %4
         <translation>Coba memulihkan kunci-kunci pribadi dari wallet.dat yang rusak</translation>
     </message>
     <message>
-        <source>Cryply Core Daemon</source>
-        <translation>Daemon Cryply Core</translation>
+        <source>Urkoin Core Daemon</source>
+        <translation>Daemon Urkoin Core</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2778,8 +2778,8 @@ Alamat: %4
         <translation>Impor blok dari eksternal berkas blk000???.dat</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Cryply Core is probably already running.</source>
-        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Cryply Core sudah mulai.</translation>
+        <source>Cannot obtain a lock on data directory %s. Urkoin Core is probably already running.</source>
+        <translation>Tidak bisa mengunci data directory %s. Kemungkinan Urkoin Core sudah mulai.</translation>
     </message>
     <message>
         <source>Information</source>
@@ -2806,8 +2806,8 @@ Alamat: %4
         <translation>Opsi server RPC:</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>Pilihan SSL: (petunjuk pengaturan SSL lihat dalam Cryply Wiki)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>Pilihan SSL: (petunjuk pengaturan SSL lihat dalam Urkoin Wiki)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2830,8 +2830,8 @@ Alamat: %4
         <translation>Menetapkan waktu berakhir koneksi di milidetik (biasanya: 5000)</translation>
     </message>
     <message>
-        <source>Start Cryply Core Daemon</source>
-        <translation>Memulai Cryply Core Daemon</translation>
+        <source>Start Urkoin Core Daemon</source>
+        <translation>Memulai Urkoin Core Daemon</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -2934,12 +2934,12 @@ Alamat: %4
         <translation>Gagal memuat wallet.dat: Dompet rusak</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Gagal memuat wallet.dat: Dompet memerlukan versi Cryply yang terbaru</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Gagal memuat wallet.dat: Dompet memerlukan versi Urkoin yang terbaru</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Dompet diperlukan untuk disimpan-ulang: nyala-ulangkan Cryply untuk menyelesaikan</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Dompet diperlukan untuk disimpan-ulang: nyala-ulangkan Urkoin untuk menyelesaikan</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

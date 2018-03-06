@@ -150,8 +150,8 @@
         <translation>Irten aplikaziotik</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Erakutsi Cryply-i buruzko informazioa</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Erakutsi Urkoin-i buruzko informazioa</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -159,7 +159,7 @@
     </message>
     <message>
         <source>Show information about Qt</source>
-        <translation>Erakutsi Cryply-i buruzko informazioa</translation>
+        <translation>Erakutsi Urkoin-i buruzko informazioa</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -190,8 +190,8 @@
         <translation>[testnet]</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>Konexio aktibo %n Cryply-en sarera</numerusform><numerusform>%n konexio aktibo Cryply-en sarera</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>Konexio aktibo %n Urkoin-en sarera</numerusform><numerusform>%n konexio aktibo Urkoin-en sarera</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>
@@ -331,7 +331,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Sartu Bitocin helbide bat (adb.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L) </translation>
     </message>
 </context>
@@ -474,7 +474,7 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Sartu Bitocin helbide bat (adb.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L) </translation>
     </message>
     </context>
@@ -724,12 +724,12 @@
         <translation>Aukerak</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Ezarpen fitxategia aukeratu (berezkoa: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Ezarpen fitxategia aukeratu (berezkoa: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>pid fitxategia aukeratu (berezkoa: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>pid fitxategia aukeratu (berezkoa: urkoind.pid)</translation>
     </message>
     <message>
         <source>This help message</source>

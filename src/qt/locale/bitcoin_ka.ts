@@ -1,13 +1,13 @@
-<TS language="ka" version="2.1">
+﻿<TS language="ka" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Cryply Core-ს შესახებ</translation>
+        <source>About Urkoin Core</source>
+        <translation>Urkoin Core-ს შესახებ</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply Core&lt;/b&gt;-ს ვერსია</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin Core&lt;/b&gt;-ს ვერსია</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>საავტორო უფლებები</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Core-ს ავტორები</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Core-ს ავტორები</translation>
     </message>
     </context>
 <context>
@@ -99,12 +99,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>მიღების მისამართი</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>ეს არის თქვენი Cryply-მისამართები გადახდების შესასრულებლად. მონეტების გაგზავნამდე ყოველთვის შეამოწმეთ თანხა და მიმღების მისამართი.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>ეს არის თქვენი Urkoin-მისამართები გადახდების შესასრულებლად. მონეტების გაგზავნამდე ყოველთვის შეამოწმეთ თანხა და მიმღების მისამართი.</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>ეს არის თქვენი Cryply-მისამართები გადახდების მისაღებად. რეკომენდებულია ყოველი ტრანსაქციისათვის ახალი მიღების მისამართის გამოყენება.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>ეს არის თქვენი Urkoin-მისამართები გადახდების მისაღებად. რეკომენდებულია ყოველი ტრანსაქციისათვის ახალი მიღების მისამართის გამოყენება.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -221,8 +221,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>საფულე დაშიფრულია</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>ახლა Cryply დაიხურება დაშიფრვის პროცესის დასასრულებლად. გაითვალისწინეთ, რომ დაშიფრვა სრულად ვერ დაიცავს თქვენს ბითქოინებს თქვენს კომპიუტერში შემოპარული მავნე პროგრამების საშუალებით დატაცებისაგან.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>ახლა Urkoin დაიხურება დაშიფრვის პროცესის დასასრულებლად. გაითვალისწინეთ, რომ დაშიფრვა სრულად ვერ დაიცავს თქვენს ბითქოინებს თქვენს კომპიუტერში შემოპარული მავნე პროგრამების საშუალებით დატაცებისაგან.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -292,8 +292,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>გასვლა</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>ინფორმაცია Cryply-ის შესახებ</translation>
+        <source>Show information about Urkoin</source>
+        <translation>ინფორმაცია Urkoin-ის შესახებ</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -340,12 +340,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>დისკზე ბლოკების რეინდექსაცია...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>მონეტების გაგზავნა Cryply-მისამართზე</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>მონეტების გაგზავნა Urkoin-მისამართზე</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Cryply-ის საკონფიგურაციო პარამეტრების ცვლილება</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Urkoin-ის საკონფიგურაციო პარამეტრების ცვლილება</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -368,8 +368,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;ვერიფიკაცია</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -396,12 +396,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>თქვენი საფულის პირადი გასაღებების დაშიფრვა</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>მესიჯებზე ხელმოწერა თქვენი Cryply-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>მესიჯებზე ხელმოწერა თქვენი Urkoin-მისამართებით იმის დასტურად, რომ ის თქვენია</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული Cryply-მისამართით</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>შეამოწმეთ, რომ მესიჯები ხელმოწერილია მითითებული Urkoin-მისამართით</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -424,16 +424,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>urkoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და cryply: ბმულები)</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>გადახდის მოთხოვნა (შეიქმნება QR-კოდები და urkoin: ბმულები)</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
-        <translation>Cryply Core-ს შეს&amp;ახებ</translation>
+        <source>&amp;About urkoin Core</source>
+        <translation>Urkoin Core-ს შეს&amp;ახებ</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -444,23 +444,23 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>გამოყენებული მიღების მისამართებისა და ნიშნულების სიის ჩვენება</translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
-        <translation>cryply: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
+        <source>Open a urkoin: URI or payment request</source>
+        <translation>urkoin: URI-ის ან გადახდის მოთხოვნის გახსნა</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>საკომანდო სტრიქონის ოპ&amp;ციები</translation>
     </message>
     <message>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
-        <translation>Cryply Core-ს დახმარების ჩვენება Cryply-ის საკომანდო სტრიქონის დასაშვები ოპციების სანახავად</translation>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
+        <translation>Urkoin Core-ს დახმარების ჩვენება Urkoin-ის საკომანდო სტრიქონის დასაშვები ოპციების სანახავად</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply-კლიენტი</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin-კლიენტი</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation><numerusform>აქტიური მიერთებები ბითქოინის ქსელთან: %n</numerusform></translation>
     </message>
     <message>
@@ -556,8 +556,8 @@ Address: %4
         <translation>საფულე &lt;b&gt;დაშიფრულია&lt;/b&gt; და ამჟამად &lt;b&gt;დაბლოკილია&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>ფატალური შეცდომა. Cryply ვერ უზრუნველყოფს უსაფრთხო გაგრძელებას, ამიტომ იხურება.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>ფატალური შეცდომა. Urkoin ვერ უზრუნველყოფს უსაფრთხო გაგრძელებას, ამიტომ იხურება.</translation>
     </message>
 </context>
 <context>
@@ -841,8 +841,8 @@ Address: %4
         <translation>მისამართი "%1" უკვე არის მისამართების წიგნში.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>შეყვანილი მისამართი "%1" არ არის ვალიდური Cryply-მისამართი.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>შეყვანილი მისამართი "%1" არ არის ვალიდური Urkoin-მისამართი.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -879,12 +879,12 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core - Command-line options</source>
-        <translation>Cryply Core - საკომანდო სტრიქონის ოპციები</translation>
+        <source>Urkoin Core - Command-line options</source>
+        <translation>Urkoin Core - საკომანდო სტრიქონის ოპციები</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -926,12 +926,12 @@ Address: %4
         <translation>მოგესალმებით</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>მოგესალმებათ Cryply Core.</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>მოგესალმებათ Urkoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
-        <translation>ეს პროგრამის პირველი გაშვებაა; შეგიძლიათ მიუთითოთ, სად შეინახოს მონაცემები Cryply Core-მ.</translation>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
+        <translation>ეს პროგრამის პირველი გაშვებაა; შეგიძლიათ მიუთითოთ, სად შეინახოს მონაცემები Urkoin Core-მ.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -942,8 +942,8 @@ Address: %4
         <translation>მითითებული კატალოგის გამოყენება:</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -1004,11 +1004,11 @@ Address: %4
         <translation>ტრანსაქციის სა&amp;ფასურის გადახდა</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>სისტემაში შესვლის შემდეგ Cryply-ის ავტომატური გაშვება.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>სისტემაში შესვლის შემდეგ Urkoin-ის ავტომატური გაშვება.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
+        <source>&amp;Start Urkoin on system login</source>
         <translation>&amp;სისტემაში შესვლისას გაშვება</translation>
     </message>
     <message>
@@ -1024,8 +1024,8 @@ Address: %4
         <translation>სკრიპტის &amp;ვერიფიცირების ნაკადების რაოდენობა</translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
-        <translation>Cryply-ქსელზე მიერთება SOCKS-პროქსით.</translation>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
+        <translation>Urkoin-ქსელზე მიერთება SOCKS-პროქსით.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1060,8 +1060,8 @@ Address: %4
         <translation>დაუდასტურებელი ხურდის გამოყენების აკრძალვის შემდეგ მათი გამოყენება შეუძლებელი იქნება, სანამ ტრანსაქციას არ ექნება ერთი დასტური მაინც. ეს აისახება თქვენი ნაშთის დათვლაზეც.</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>როუტერში Cryply-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>როუტერში Urkoin-კლიენტის პორტის ავტომატური გახსნა. მუშაობს, თუ თქვენს როუტერს ჩართული აქვს UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1116,8 +1116,8 @@ Address: %4
         <translation>სამომხმარებ&amp;ლო ენა:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>აქ შეგიძლიათ აირჩიოთ სამომხმარებლო ენა. ძალაში შევა Cryply-ის რესტარტის შემდეგ.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>აქ შეგიძლიათ აირჩიოთ სამომხმარებლო ენა. ძალაში შევა Urkoin-ის რესტარტის შემდეგ.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1128,8 +1128,8 @@ Address: %4
         <translation>აირჩიეთ გასაგზავნი თანხის ნაგულისხმევი ერთეული.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>ტრანსაქციების სიაში იყოს თუ არა ნაჩვენები Cryply-მისამართები.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>ტრანსაქციების სიაში იყოს თუ არა ნაჩვენები Urkoin-მისამართები.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1183,8 +1183,8 @@ Address: %4
         <translation>ფორმა</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება Cryply-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>ნაჩვენები ინფორმაცია შეიძლება მოძველებული იყოს. თქვენი საფულე ავტომატურად სინქრონიზდება Urkoin-ის ქსელთან კავშირის დამყარების შემდეგ, ეს პროცესი ჯერ არ არის დასრულებული.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1238,8 +1238,8 @@ Address: %4
         <translation>URI-ების დამუშავება</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>URI-ის დამუშავება ვერ მოხერხდა. შესაძლოა არასწორია Cryply-მისამართი ან  URI-ის პარამეტრები.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>URI-ის დამუშავება ვერ მოხერხდა. შესაძლოა არასწორია Urkoin-მისამართი ან  URI-ის პარამეტრები.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1250,8 +1250,8 @@ Address: %4
         <translation>გადახდის მოთხოვნის შეცდომა</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
-        <translation>ვერ გაიშვა cryply: click-to-pay</translation>
+        <source>Cannot start urkoin: click-to-pay handler</source>
+        <translation>ვერ გაიშვა urkoin: click-to-pay</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1305,8 +1305,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1317,7 +1317,7 @@ Address: %4
         <translation>შეცდომა: -regtest-ისა და -testnet-ის დაუშვებელი კომბინაცია.</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>შეიყვანეთ ბიტკოინ-მისამართი (მაგ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -1439,16 +1439,16 @@ Address: %4
         <translation>დახვეწის ლოგ-ფაილი</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>გახსენით Cryply-ის დახვეწის ლოგ-ფაილი მიმდინარე კატალოგიდან. დიდი ლოგ-ფაილის შემთხვევაში ამას შეიძლება რამდენიმე წამი მოუნდეს.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>გახსენით Urkoin-ის დახვეწის ლოგ-ფაილი მიმდინარე კატალოგიდან. დიდი ლოგ-ფაილის შემთხვევაში ამას შეიძლება რამდენიმე წამი მოუნდეს.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>კონსოლის გასუფთავება</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>მოგესალმებათ Cryply-ის RPC კონსოლი.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>მოგესალმებათ Urkoin-ის RPC კონსოლი.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1510,7 +1510,7 @@ Address: %4
         <translation>ად&amp;რე გამოყენებული მიღების მისამართის გამოყენება (არ არის რეკომენდებული)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Cryply network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Urkoin network.</source>
         <translation>არააუცილებელი მესიჯი, რომელიც ერთვის გადახდის მოთხოვნას და ნაჩვენები იქნება მოთხოვნის გახსნისას. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1819,8 +1819,8 @@ Address: %4
         <translation>ტრანსაქცია უარყოფილია! შესაძლოა მონეტების ნაწილი თქვენი საფულიდან უკვე გამოყენებულია, რაც შეიძლება მოხდეს wallet.dat-ის ასლის გამოყენებისას, როცა მონეტები გაიგზავნა სხვა ასლიდან, აქ კი არ არის გაგზავნილად მონიშნული.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>ყურადღება: არასწორია Cryply-მისამართი</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>ყურადღება: არასწორია Urkoin-მისამართი</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1906,7 +1906,7 @@ Address: %4
         <translation>შეიყვანეთ ამ მისამართის ნიშნული გამოყენებული მისამართების სიაში დასამატებლად</translation>
     </message>
     <message>
-        <source>A message that was attached to the cryply: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the cryply network.</source>
+        <source>A message that was attached to the urkoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the urkoin network.</source>
         <translation>მესიჯი, რომელიც თან ერთვის მონეტებს:  URI, რომელიც შეინახება ტრანსაქციასთან ერთად თქვენთვის. შენიშვნა: მესიჯი არ გაყვება გადახდას ბითქოინის ქსელში.</translation>
     </message>
     <message>
@@ -1925,8 +1925,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>Cryply Core იხურება...</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>Urkoin Core იხურება...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1980,7 +1980,7 @@ Address: %4
         <translation>მიმდინარე ხელმოწერის კოპირება კლიპბორდში</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
+        <source>Sign the message to prove you own this Urkoin address</source>
         <translation>მოაწერეთ ხელი იმის დასადასტურებლად, რომ ეს მისამართი თქვენია</translation>
     </message>
     <message>
@@ -2008,8 +2008,8 @@ Address: %4
         <translation>მისამართი, რომლითაც ხელმოწერილია მესიჯი (მაგ.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული Cryply-მისამართით</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>შეამოწმეთ, რომ მესიჯი ხელმოწერილია მითითებული Urkoin-მისამართით</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2020,7 +2020,7 @@ Address: %4
         <translation>ვერიფიკაციის ყველა ველის წაშლა</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>შეიყვანეთ ბიტკოინ-მისამართი (მაგ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
@@ -2079,12 +2079,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Core-ს ავტორები</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Core-ს ავტორები</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2562,12 +2562,12 @@ Address: %4
         <translation>ოპციები:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>მიუთითეთ საკონფიგურაციო ფაილი (ნაგულისხმევია: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>მიუთითეთ საკონფიგურაციო ფაილი (ნაგულისხმევია: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>მიუთითეთ pid ფაილი (ნაგულისხმევია: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>მიუთითეთ pid ფაილი (ნაგულისხმევია: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2625,24 +2625,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s, მიუთითეთ rpcpassword საკონფიგურაციო ფაილში:
 %s
 რეკომენდებულია შემდეგი შემთხვევითი პაროლი:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (ამის დამახსოვრება არ გჭირდებათ)
 სახელი და პაროლი ერთმანეთს არ უნდა ემთხვეოდეს.
 თუ ფაილი არ არსებობს, შექმენით იგი უფლებებით owner-readable-only.
 ასევე რეკომენდებულია დააყენოთ alertnotify რათა მიიღოთ შეტყობინებები პრობლემების შესახებ;
-მაგალითად: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+მაგალითად: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2690,8 +2690,8 @@ rpcpassword=%s
         <translation>ყურადღება:  ძალიან მაღალია -paytxfee - საკომისო, რომელსაც თქვენ გადაიხდით ამ ტრანსაქციის გაგზავნის საფასურად.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>ყურადღება: შეამოწმეთ თქვენი კომპიუტერის სისტემური თარიღი და დრო! თუ ისინი არასწორია, Cryply ვერ იმუშავებს კორექტულად.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>ყურადღება: შეამოწმეთ თქვენი კომპიუტერის სისტემური თარიღი და დრო! თუ ისინი არასწორია, Urkoin ვერ იმუშავებს კორექტულად.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2718,8 +2718,8 @@ rpcpassword=%s
         <translation>პირადი გასაღებების აღდგენის მცდელობა wallet.dat-იდან</translation>
     </message>
     <message>
-        <source>Cryply Core Daemon</source>
-        <translation>Cryply Core დემონი</translation>
+        <source>Urkoin Core Daemon</source>
+        <translation>Urkoin Core დემონი</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2898,8 +2898,8 @@ rpcpassword=%s
         <translation>გამოიყენება რეგრესული ტესტირების ინსტრუმენტებისა და პროგრამების შემუშავებისას.</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use cryply-cli):</source>
-        <translation>გამოყენება (მოძველებულია, გამოიყენეთ cryply-cli):</translation>
+        <source>Usage (deprecated, use urkoin-cli):</source>
+        <translation>გამოყენება (მოძველებულია, გამოიყენეთ urkoin-cli):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -2978,8 +2978,8 @@ rpcpassword=%s
         <translation>შეერთება მხოლოდ &lt;net&gt; ქსელის კვანძებთან (IPv4, IPv6 ან Tor)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL ოპციები: (იხილე Cryply Wiki-ში  SSL-ს მოწყობის ინსტრუქციები)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL ოპციები: (იხილე Urkoin Wiki-ში  SSL-ს მოწყობის ინსტრუქციები)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3110,12 +3110,12 @@ rpcpassword=%s
         <translation>არ იტვირთება wallet.dat: საფულე დაზიანებულია</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>არ იტვირთება wallet.dat: საფულეს სჭირდება Cryply-ის ახალი ვერსია</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>არ იტვირთება wallet.dat: საფულეს სჭირდება Urkoin-ის ახალი ვერსია</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>საჭიროა საფულის აღდგენა: დაარესტარტეთ Cryply </translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>საჭიროა საფულის აღდგენა: დაარესტარტეთ Urkoin </translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

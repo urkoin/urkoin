@@ -51,8 +51,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>&amp;Kustuta</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Need on sinu Cryplyi aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Need on sinu Urkoini aadressid maksete saatmiseks. Müntide saatmisel kontrolli alati summat ning saaja aadressi.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -157,8 +157,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Rahakott krüpteeritud</translation>
     </message>
     <message>
-        <source>cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>cryply sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista cryplyide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
+        <source>urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>urkoin sulgub krüpteeringu lõpetamiseks. Pea meeles, et rahakoti krüpteerimine ei välista urkoinide vargust, kui sinu arvuti on nakatunud pahavaraga.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -224,8 +224,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Väljumine</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Kuva info Cryplyi kohta</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Kuva info Urkoini kohta</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -260,12 +260,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Kettal olevate blokkide re-indekseerimine...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Saada münte Cryplyi aadressile</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Saada münte Urkoini aadressile</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Muuda Cryplyi seadeid</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Muuda Urkoini seadeid</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -288,8 +288,8 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>&amp;Kontrolli sõnumit...</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -316,12 +316,12 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>Krüpteeri oma rahakoti privaatvõtmed</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Cryplyi aadressiga</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Omandi tõestamiseks allkirjasta sõnumid oma Urkoini aadressiga</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Cryplyi aadressiga</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Kinnita sõnumid kindlustamaks et need allkirjastati määratud Urkoini aadressiga</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -344,16 +344,16 @@ Toode sisaldab OpenSSL Projekti all toodetud tarkvara, mis on kasutamiseks OpenS
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryplyi tuumik</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoini tuumik</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryplyi klient</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoini klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n aktiivne ühendus Cryplyi võrku</numerusform><numerusform>%n aktiivset ühendust Cryplyi võrku</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n aktiivne ühendus Urkoini võrku</numerusform><numerusform>%n aktiivset ühendust Urkoini võrku</numerusform></translation>
     </message>
     <message>
         <source>Processed %1 of %2 (estimated) blocks of transaction history.</source>
@@ -435,8 +435,8 @@ Aadress: %4⏎</translation>
         <translation>Rahakott on &lt;b&gt;krüpteeritud&lt;/b&gt; ning hetkel &lt;b&gt;suletud&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Ilmnes kriitiline tõrge. Cryply suletakse turvakaalutluste tõttu.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Ilmnes kriitiline tõrge. Urkoin suletakse turvakaalutluste tõttu.</translation>
     </message>
 </context>
 <context>
@@ -524,8 +524,8 @@ Aadress: %4⏎</translation>
         <translation>Selline aadress on juba olemas: "%1"</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Sisestatud aadress "%1" ei ole Cryplyis kehtiv.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Sisestatud aadress "%1" ei ole Urkoinis kehtiv.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -542,8 +542,8 @@ Aadress: %4⏎</translation>
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryplyi tuumik</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoini tuumik</translation>
     </message>
     <message>
         <source>version</source>
@@ -577,8 +577,8 @@ Aadress: %4⏎</translation>
 <context>
     <name>Intro</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -599,12 +599,12 @@ Aadress: %4⏎</translation>
         <translation>Tasu tehingu &amp;fee</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Käivita Cryply süsteemi logimisel.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Käivita Urkoin süsteemi logimisel.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;Start Cryply sisselogimisel</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;Start Urkoin sisselogimisel</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -619,8 +619,8 @@ Aadress: %4⏎</translation>
         <translation>&amp;Võrk</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Cryplyi kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Urkoini kliendi pordi automaatne avamine ruuteris. Toimib, kui sinu ruuter aktsepteerib UPnP ühendust.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -675,8 +675,8 @@ Aadress: %4⏎</translation>
         <translation>Kasutajaliidese &amp;keel:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Cryplyi käivitamisel.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Kasutajaliidese keele valimise koht. Valik rakendub Urkoini käivitamisel.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -687,8 +687,8 @@ Aadress: %4⏎</translation>
         <translation>Vali liideses ning müntide saatmisel kuvatav vaikimisi alajaotus.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Kuvada Cryplyi aadress tehingute loetelus või mitte.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Kuvada Urkoini aadress tehingute loetelus või mitte.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -722,7 +722,7 @@ Aadress: %4⏎</translation>
         <translation>Vorm</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Kuvatav info ei pruugi olla ajakohane. Ühenduse loomisel süngitakse sinu rahakott automaatselt Bitconi võrgustikuga, kuid see toiming on hetkel lõpetamata.</translation>
     </message>
     <message>
@@ -753,23 +753,23 @@ Aadress: %4⏎</translation>
         <translation>URI käsitsemine</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu cryplyi aadress või vigased URI parameetrid.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>URI ei suudeta parsida. Põhjuseks võib olla kehtetu urkoini aadress või vigased URI parameetrid.</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
-        <translation>cryply ei käivitu: vajuta-maksa toiming</translation>
+        <source>Cannot start urkoin: click-to-pay handler</source>
+        <translation>urkoin ei käivitu: vajuta-maksa toiming</translation>
     </message>
     </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Sisesta Cryplyi aadress (nt: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Sisesta Urkoini aadress (nt: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -846,16 +846,16 @@ Aadress: %4⏎</translation>
         <translation>Debugimise logifail</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ava Cryplyi logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ava Urkoini logifail praegusest andmekaustast. Toiminguks võib kuluda kuni mõni sekund.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Puhasta konsool</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Teretulemast Cryplyi RPC konsooli.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Teretulemast Urkoini RPC konsooli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1083,8 +1083,8 @@ Aadress: %4⏎</translation>
         <translation>Kopeeri praegune signatuur vahemällu</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Allkirjasta sõnum Cryplyi aadressi sulle kuulumise tõestamiseks</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Allkirjasta sõnum Urkoini aadressi sulle kuulumise tõestamiseks</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1111,8 +1111,8 @@ Aadress: %4⏎</translation>
         <translation>Aadress, millega sõnum allkirjastati (nt: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Cryplyi aadressiga.</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Kinnita sõnum tõestamaks selle allkirjastatust määratud Urkoini aadressiga.</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1123,8 +1123,8 @@ Aadress: %4⏎</translation>
         <translation>Tühjenda kõik sõnumi kinnitamise väljad</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Sisesta Cryplyi aadress (nt: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Sisesta Urkoini aadress (nt: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1182,8 +1182,8 @@ Aadress: %4⏎</translation>
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryplyi tuumik</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoini tuumik</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1585,12 +1585,12 @@ Aadress: %4⏎</translation>
         <translation>Valikud:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Täpsusta sätete fail (vaikimisi: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Täpsusta sätete fail (vaikimisi: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Täpsusta PID fail (vaikimisi: cryply.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Täpsusta PID fail (vaikimisi: urkoin.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1648,24 +1648,24 @@ Aadress: %4⏎</translation>
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s, sul tuleb rpcpassword määrata seadete failis:
 %s
 Soovitatav on kasutada järgmist juhuslikku parooli:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (seda parooli ei pea meeles pidama)
 Kasutajanimi ning parool EI TOHI kattuda.
 Kui faili ei leita, loo see ainult-omaniku-loetavas failiõigustes .
 Soovitatav on seadistada tõrgete puhul teavitus;
-nt: alertnotify=echo %%s | email -s "Cryply Alert" admin@foo.com
+nt: alertnotify=echo %%s | email -s "Urkoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -1697,8 +1697,8 @@ nt: alertnotify=echo %%s | email -s "Cryply Alert" admin@foo.com
         <translation>Hoiatus: -paytxfee on seatud väga kõrgeks! See on sinu poolt makstav tehingu lisatasu.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Cryply ei tööta korralikult</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Hoiatus: Palun kontrolli oma arvuti kuupäeva/kellaaega! Kui arvuti kell on vale, siis Urkoin ei tööta korralikult</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
@@ -1857,8 +1857,8 @@ nt: alertnotify=echo %%s | email -s "Cryply Alert" admin@foo.com
         <translation>Ühenda ainult node'idega &lt;net&gt; võrgus (IPv4, IPv6 või Tor)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL valikud: (vaata Cryplyi Wikist või SSL sätete juhendist)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL valikud: (vaata Urkoini Wikist või SSL sätete juhendist)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -1969,12 +1969,12 @@ nt: alertnotify=echo %%s | email -s "Cryply Alert" admin@foo.com
         <translation>Viga wallet.dat käivitamisel. Vigane rahakkott</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Cryplyi uusimat versiooni</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Viga wallet.dat käivitamisel: Rahakott nõuab Urkoini uusimat versiooni</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Cryply</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Rahakott tuli ümberkirjutada: toimingu lõpetamiseks taaskäivita Urkoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

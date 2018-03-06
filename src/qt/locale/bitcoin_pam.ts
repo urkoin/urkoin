@@ -45,8 +45,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>&amp;Ilako</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Reni reng kekang Cryply address king pamagpadalang kabayaran. Lawan mulang masalese reng alaga ampo ing address na ning tumanggap bayu ka magpadalang barya.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Reni reng kekang Urkoin address king pamagpadalang kabayaran. Lawan mulang masalese reng alaga ampo ing address na ning tumanggap bayu ka magpadalang barya.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -151,8 +151,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>Me-encrypt ne ing wallet</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Ing Cryply ngeni magsara ya ban ayari ing proseso ning pamag-encrypt. Tandanan yu king pamag-encrypt wallet, ali nala aprotektan king kabuuan reng cryplies yu kareng malware a kasalunsungan atiu kareng computer yu.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Ing Urkoin ngeni magsara ya ban ayari ing proseso ning pamag-encrypt. Tandanan yu king pamag-encrypt wallet, ali nala aprotektan king kabuuan reng cryplies yu kareng malware a kasalunsungan atiu kareng computer yu.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -218,8 +218,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>Tuknangan ing aplikasyon</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Ipakit ing impormasyun tungkul king Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Ipakit ing impormasyun tungkul king Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -246,12 +246,12 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>&amp;Alilan ing Passphrase...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Magpadalang barya king Cryply address</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Magpadalang barya king Urkoin address</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Alilan ing pipamilian konpigurasion para keng Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Alilan ing pipamilian konpigurasion para keng Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -274,8 +274,8 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>&amp;Beripikan ing message...</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -310,16 +310,16 @@ Ing produktung ini atin yang makayabeng software a gewa dareng OpenSSL Project p
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Kapilubluban ning Cryply</translation>
+        <source>Urkoin Core</source>
+        <translation>Kapilubluban ning Urkoin</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply client</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n ya ing aktibong koneksion keng Cryply network</numerusform><numerusform>%n lareng aktibong koneksion keng Cryply network</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n ya ing aktibong koneksion keng Urkoin network</numerusform><numerusform>%n lareng aktibong koneksion keng Urkoin network</numerusform></translation>
     </message>
     <message>
         <source>Processed %1 of %2 (estimated) blocks of transaction history.</source>
@@ -394,8 +394,8 @@ Address: %4
         <translation>Maka-&lt;b&gt;encrypt&lt;/b&gt; ya ing wallet at kasalukuyan yang maka-&lt;b&gt;locked&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Atin kamalian a milyari. Ali ne magsilbing sumulung pa ing Cryply at kailangan na ng tuknang.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Atin kamalian a milyari. Ali ne magsilbing sumulung pa ing Urkoin at kailangan na ng tuknang.</translation>
     </message>
 </context>
 <context>
@@ -475,8 +475,8 @@ Address: %4
         <translation>Ing pepalub yung address "%1" ati na yu king aklat dareng address</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Ing pepalub yung address "%1" ali ya katanggap-tanggap a Cryply address.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Ing pepalub yung address "%1" ali ya katanggap-tanggap a Urkoin address.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -493,8 +493,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Kapilubluban ning Cryply</translation>
+        <source>Urkoin Core</source>
+        <translation>Kapilubluban ning Urkoin</translation>
     </message>
     <message>
         <source>version</source>
@@ -532,8 +532,8 @@ Address: %4
         <translation>Malaus ka</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -558,20 +558,20 @@ Address: %4
         <translation>Mamayad &amp;bayad para king transaksion </translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Umpisan yang antimu ing Cryply kaibat mekapag-log in king sistema.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Umpisan yang antimu ing Urkoin kaibat mekapag-log in king sistema.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;Umpisan ya ing Cryply king pamag-log-in na ning sistema.</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;Umpisan ya ing Urkoin king pamag-log-in na ning sistema.</translation>
     </message>
     <message>
         <source>&amp;Network</source>
         <translation>&amp;Network</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Ibuklat yang antimanu ing Cryply client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Ibuklat yang antimanu ing Urkoin client port king router. Gagana yamu ini istung ing router mu susuporta yang UPnP at magsilbi ya.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -626,8 +626,8 @@ Address: %4
         <translation>Amanu na ning user interface:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Ing amanu na ning user interface maliari yang i-ayus o ilage keni. Ing ayus a ini magsilbi yamu istung pesibayuan meng pasibayu ing Cryply.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Ing amanu na ning user interface maliari yang i-ayus o ilage keni. Ing ayus a ini magsilbi yamu istung pesibayuan meng pasibayu ing Urkoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -638,8 +638,8 @@ Address: %4
         <translation>Pilinan ing default subdivision unit a ipalto o ipakit king interface at istung magpadala kang barya.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Ipakit man ing Cryply address king listahan naning transaksion o ali.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Ipakit man ing Urkoin address king listahan naning transaksion o ali.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -669,8 +669,8 @@ Address: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Cryply network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Ing makaltong impormasion mapalyaring luma ne. Ing kekang wallet otomatiku yang mag-synchronize keng Urkoin network istung mekakonekta ne king network, oneng ing prosesung ini ali ya pa kumpletu.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -715,12 +715,12 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Magpalub kang Cryply address(e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Magpalub kang Urkoin address(e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -797,16 +797,16 @@ Address: %4
         <translation>Debug log file</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Ibuklat ing Cryply debug log file menibat king kasalungsungan data directory. Magluat ya ining pilan segundu para kareng mamaragul a log files.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Ibuklat ing Urkoin debug log file menibat king kasalungsungan data directory. Magluat ya ining pilan segundu para kareng mamaragul a log files.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>I-Clear ing console</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Malaus kayu king Cryply RPC console.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Malaus kayu king Urkoin RPC console.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1018,8 +1018,8 @@ Address: %4
         <translation>Kopyan ing kasalungsungan pirma king system clipboard</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Pirman ing mensayi ban patune na keka ya ining Cryply address</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Pirman ing mensayi ban patune na keka ya ining Urkoin address</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1042,8 +1042,8 @@ Address: %4
         <translation>Ing address na ning mensayi nung nokarin me pirma ya ini (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Cryply address</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Beripikan ing mensayi ban asiguradu a me pirma ya ini gamit ing mepiling Urkoin address</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1054,8 +1054,8 @@ Address: %4
         <translation>Ibalik king dati reng ngan fields na ning pamag beripikang mensayi</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Magpalub kang Cryply address(e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Magpalub kang Urkoin address(e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1113,8 +1113,8 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Kapilubluban ning Cryply</translation>
+        <source>Urkoin Core</source>
+        <translation>Kapilubluban ning Urkoin</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1476,12 +1476,12 @@ Address: %4
         <translation>Pipamilian:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Pilinan ing configuration file(default: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Pilinan ing configuration file(default: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Pilinan ing pid file(default: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Pilinan ing pid file(default: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1536,8 +1536,8 @@ Address: %4
         <translation>Kapabaluan: Sobra ya katas ing makalage king -paytxfee. Ini ing maging bayad mu para king bayad na ning transaksion istung pepadala me ing transaksion a ini.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Kapabaluan: Maliaring pakilawe ing oras at aldo a makalage king kekayung kompyuter nung istu la! Istung ing oras yu mali ya ali ya gumanang masalese ing Cryply.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Kapabaluan: Maliaring pakilawe ing oras at aldo a makalage king kekayung kompyuter nung istu la! Istung ing oras yu mali ya ali ya gumanang masalese ing Urkoin.</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -1632,8 +1632,8 @@ Address: %4
         <translation>&amp;Impormasion</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>Pipamilian ning SSL: (lawen ye ing Cryply Wiki para king SSL setup instructions)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>Pipamilian ning SSL: (lawen ye ing Urkoin Wiki para king SSL setup instructions)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -1728,12 +1728,12 @@ Address: %4
         <translation>Me-mali ya ing pamag-load king wallet.dat: Me-corrupt ya ing wallet</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Me-mali ya ing pamag-load na ning wallet.dat: Ing wallet mangailangan yang bayung bersion na ning Cryply</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Me-mali ya ing pamag-load na ning wallet.dat: Ing wallet mangailangan yang bayung bersion na ning Urkoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Ing wallet mangailangan yang misulat pasibayu: Umpisan yang pasibayu ing Cryply ban ma-kumpleto ya</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Ing wallet mangailangan yang misulat pasibayu: Umpisan yang pasibayu ing Urkoin ban ma-kumpleto ya</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

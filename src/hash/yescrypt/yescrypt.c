@@ -29,7 +29,7 @@
 
 #ifdef __clang__
 
-static int yescrypt_cryply(const uint8_t *passwd, size_t passwdlen,
+static int yescrypt_urkoin(const uint8_t *passwd, size_t passwdlen,
                             const uint8_t *salt, size_t saltlen,
                             uint8_t *buf, size_t buflen)
 {
@@ -59,7 +59,7 @@ static int yescrypt_cryply(const uint8_t *passwd, size_t passwdlen,
 
 #else
 
-static int yescrypt_cryply(const uint8_t *passwd, size_t passwdlen,
+static int yescrypt_urkoin(const uint8_t *passwd, size_t passwdlen,
                             const uint8_t *salt, size_t saltlen,
                             uint8_t *buf, size_t buflen)
 {
@@ -102,7 +102,7 @@ static int yescrypt_cryply(const uint8_t *passwd, size_t passwdlen,
 
 void yescrypt_hash(const char *input, char *output)
 {
-    yescrypt_cryply((const uint8_t *) input, 80,
+    yescrypt_urkoin((const uint8_t *) input, 80,
                      (const uint8_t *) input, 80,
                      (uint8_t *) output, 32);
 }

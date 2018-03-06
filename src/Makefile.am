@@ -13,11 +13,11 @@ endif
 bin_PROGRAMS =
 
 if BUILD_BITCOIND
-  bin_PROGRAMS += cryplyd
+  bin_PROGRAMS += urkoind
 endif
 
 if BUILD_BITCOIN_CLI
-  bin_PROGRAMS += cryply-cli
+  bin_PROGRAMS += urkoin-cli
 endif
 
 BITCOIN_INCLUDES=-I$(builddir) $(BDB_CPPFLAGS) $(BOOST_CPPFLAGS) $(LEVELDB_CPPFLAGS) $(CRYPTO_CFLAGS) $(SSL_CFLAGS)
@@ -170,41 +170,41 @@ nodist_libbitcoin_common_a_SOURCES = $(top_srcdir)/src/obj/build.h
 #
 
 # bitcoind binary #
-cryplyd_LDADD = \
+urkoind_LDADD = \
   libbitcoin_server.a \
   libbitcoin_cli.a \
   libbitcoin_common.a \
   $(LIBLEVELDB) \
   $(LIBMEMENV)
 if ENABLE_WALLET
-cryplyd_LDADD += libbitcoin_wallet.a
+urkoind_LDADD += libbitcoin_wallet.a
 endif
-cryplyd_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-cryplyd_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-cryplyd_SOURCES = bitcoind.cpp
+urkoind_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+urkoind_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+urkoind_SOURCES = bitcoind.cpp
 #
 
 if TARGET_WINDOWS
-cryplyd_SOURCES += bitcoind-res.rc
+urkoind_SOURCES += bitcoind-res.rc
 endif
 
 AM_CPPFLAGS += $(BDB_CPPFLAGS)
-cryplyd_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS)
+urkoind_LDADD += $(BOOST_LIBS) $(BDB_LIBS) $(SSL_LIBS) $(CRYPTO_LIBS)
 
 # bitcoin-cli binary #
-cryply_cli_LDADD = \
+urkoin_cli_LDADD = \
   libbitcoin_cli.a \
   libbitcoin_common.a \
   $(LIBLEVELDB) \
   $(LIBMEMENV) \
   $(BOOST_LIBS)
-cryply_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
-cryply_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
-cryply_cli_SOURCES = bitcoin-cli.cpp
+urkoin_cli_CPPFLAGS = $(AM_CPPFLAGS) $(BITCOIN_INCLUDES)
+urkoin_cli_CXXFLAGS = $(AM_CXXFLAGS) $(PIE_FLAGS)
+urkoin_cli_SOURCES = bitcoin-cli.cpp
 #
 
 if TARGET_WINDOWS
-cryply_cli_SOURCES += bitcoin-cli-res.rc
+urkoin_cli_SOURCES += bitcoin-cli-res.rc
 endif
 
 # NOTE: This dependency is not strictly necessary, but without it make may try to build both in parallel, which breaks the LevelDB build system in a race

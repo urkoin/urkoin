@@ -47,10 +47,10 @@
 using namespace boost;
 
 const int BITCOIN_IPC_CONNECT_TIMEOUT = 1000; // milliseconds
-const QString BITCOIN_IPC_PREFIX("cryply:");
-const char* BITCOIN_REQUEST_MIMETYPE = "application/cryply-paymentrequest";
-const char* BITCOIN_PAYMENTACK_MIMETYPE = "application/cryply-paymentack";
-const char* BITCOIN_PAYMENTACK_CONTENTTYPE = "application/cryply-payment";
+const QString BITCOIN_IPC_PREFIX("urkoin:");
+const char* BITCOIN_REQUEST_MIMETYPE = "application/urkoin-paymentrequest";
+const char* BITCOIN_PAYMENTACK_MIMETYPE = "application/urkoin-paymentack";
+const char* BITCOIN_PAYMENTACK_CONTENTTYPE = "application/urkoin-payment";
 
 X509_STORE* PaymentServer::certStore = NULL;
 void PaymentServer::freeCertStore()
@@ -69,7 +69,7 @@ void PaymentServer::freeCertStore()
 //
 static QString ipcServerName()
 {
-    QString name("CryplyQt");
+    QString name("UrkoinQt");
 
     // Append a simple hash of the datadir
     // Note that GetDataDir(true) returns a different path
@@ -290,7 +290,7 @@ PaymentServer::PaymentServer(QObject* parent, bool startLocalServer) :
         if (!uriServer->listen(name)) {
             // constructor is called early in init, so don't use "emit message()" here
             QMessageBox::critical(0, tr("Payment request error"),
-                tr("Cannot start cryply: click-to-pay handler"));
+                tr("Cannot start urkoin: click-to-pay handler"));
         }
         else {
             connect(uriServer, SIGNAL(newConnection()), this, SLOT(handleURIConnection()));
@@ -414,7 +414,7 @@ void PaymentServer::handleURIOrFile(const QString& s)
                 emit receivedPaymentRequest(recipient);
             else
                 emit message(tr("URI handling"),
-                    tr("URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters."),
+                    tr("URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters."),
                     CClientUIInterface::ICON_WARNING);
 
             return;

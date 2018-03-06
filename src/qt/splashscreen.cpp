@@ -29,9 +29,9 @@ SplashScreen::SplashScreen(const QPixmap &pixmap, Qt::WindowFlags f, bool isTest
     float fontFactor            = 1.0;
 
     // define text to place
-    QString titleText       = tr("Cryply Core");
+    QString titleText       = tr("Urkoin Core");
     QString versionText     = QString("Version %1").arg(QString::fromStdString(FormatFullVersion()));
-    QString copyrightText   = QChar(0xA9)+QString(" 199X-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Cryply Core developers"));
+    QString copyrightText   = QChar(0xA9)+QString(" 199X-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Urkoin Core developers"));
     QString copyrightTextBTC= QChar(0xA9)+QString(" 2009-%1 ").arg(COPYRIGHT_YEAR) + QString(tr("The Bitcoin Core developers"));
     QString testnetAddText  = QString(tr("[testnet]")); // define text to place as single text object
 

@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Despre Nucleul Cryply</translation>
+        <source>About Urkoin Core</source>
+        <translation>Despre Nucleul Urkoin</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Nucleul Cryply &lt;/b&gt; versiune</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Nucleul Urkoin &lt;/b&gt; versiune</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>Drepturi de autor</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Dezvoltatorii Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Dezvoltatorii Urkoin Core</translation>
     </message>
     </context>
 <context>
@@ -99,12 +99,12 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>Adresa pe care primiti</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Acestea sunt adresele dumneavoastra Cryply care pot fi folosite la trimiterea platilor. Verificati totdeauna cantitatea si adresa de primire inainte de a trimite monezi.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Acestea sunt adresele dumneavoastra Urkoin care pot fi folosite la trimiterea platilor. Verificati totdeauna cantitatea si adresa de primire inainte de a trimite monezi.</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Acestea sunt adresele dumneavoastra Cryply folosite pentru a primi plati. Este recomandat sa folositi cate o adresa noua de primire pentru fiecare tranzactie in parte.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Acestea sunt adresele dumneavoastra Urkoin folosite pentru a primi plati. Este recomandat sa folositi cate o adresa noua de primire pentru fiecare tranzactie in parte.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -221,8 +221,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>Portofel criptat</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply se va închide acum pentru a termina procesul de criptare. Ține minte că criptarea portofelului nu te poate proteja în totalitate de furtul monedelor de către programe dăunătoare care îți infectează calculatorul.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin se va închide acum pentru a termina procesul de criptare. Ține minte că criptarea portofelului nu te poate proteja în totalitate de furtul monedelor de către programe dăunătoare care îți infectează calculatorul.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -292,8 +292,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>Închide aplicația</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Arată informații despre Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Arată informații despre Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -332,12 +332,12 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>Se reindexează blocurile pe disc...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Trimite monede către o adresă Cryply</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Trimite monede către o adresă Urkoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Modifică opțiunile de configurare pentru Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Modifică opțiunile de configurare pentru Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -360,8 +360,8 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>&amp;Verifică mesajul...</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -388,12 +388,12 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>Criptează cheile private ale portofelului tău</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Semnează mesaje cu adresa ta Cryply pentru a dovedi că îți aparțin</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Semnează mesaje cu adresa ta Urkoin pentru a dovedi că îți aparțin</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Verifică mesaje pentru a te asigura că au fost semnate cu adresa Cryply specificată</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Verifică mesaje pentru a te asigura că au fost semnate cu adresa Urkoin specificată</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -416,16 +416,16 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>urkoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>Cereti plati (genereaza coduri QR si cryply-uri: URls)</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>Cereti plati (genereaza coduri QR si urkoin-uri: URls)</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
-        <translation>&amp;Despre Nucleul Cryply</translation>
+        <source>&amp;About urkoin Core</source>
+        <translation>&amp;Despre Nucleul Urkoin</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -436,20 +436,20 @@ Acest produs include programe dezvoltate de către OpenSSL Project pentru a fi f
         <translation>Aratati lista de adrese pentru primire si etichete </translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
-        <translation>Deschideti un cryply: o adresa URI sau o cerere de plata</translation>
+        <source>Open a urkoin: URI or payment request</source>
+        <translation>Deschideti un urkoin: o adresa URI sau o cerere de plata</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Command-line setări</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Client Cryply</translation>
+        <source>Urkoin client</source>
+        <translation>Client Urkoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n conexiune activă către rețeaua Cryply</numerusform><numerusform>%n conexiuni active către rețeaua Cryply</numerusform><numerusform>%n de conexiuni active către rețeaua Cryply</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n conexiune activă către rețeaua Urkoin</numerusform><numerusform>%n conexiuni active către rețeaua Urkoin</numerusform><numerusform>%n de conexiuni active către rețeaua Urkoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -540,8 +540,8 @@ Adresa: %4
         <translation>Portofelul este &lt;b&gt;criptat&lt;/b&gt; iar în momentul de față este &lt;b&gt;blocat&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>A survenit o eroare fatala. Cryply nu mai poate continua in siguranta si se va opri.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>A survenit o eroare fatala. Urkoin nu mai poate continua in siguranta si se va opri.</translation>
     </message>
 </context>
 <context>
@@ -805,8 +805,8 @@ Adresa: %4
         <translation>Adresa introdusă "%1" se află deja în lista de adrese.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid cryply address.</source>
-        <translation>Adresa introdusă "%1" nu este o adresă cryply validă.</translation>
+        <source>The entered address "%1" is not a valid urkoin address.</source>
+        <translation>Adresa introdusă "%1" nu este o adresă urkoin validă.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -843,12 +843,12 @@ Adresa: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core - Command-line options</source>
-        <translation>Cryply Core - Opţiuni Linie de comandă</translation>
+        <source>Urkoin Core - Command-line options</source>
+        <translation>Urkoin Core - Opţiuni Linie de comandă</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -890,12 +890,12 @@ Adresa: %4
         <translation>Bun venit</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Bine Aţi Venit la Nucleul Cryply.</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Bine Aţi Venit la Nucleul Urkoin.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
-        <translation>Dacă aceasta este prima dată când programul este lansat, puteţi alege unde Nucleul Cryply va stoca datele. </translation>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
+        <translation>Dacă aceasta este prima dată când programul este lansat, puteţi alege unde Nucleul Urkoin va stoca datele. </translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -906,8 +906,8 @@ Adresa: %4
         <translation>Folosește un dosar de date personalizat:</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -968,20 +968,20 @@ Adresa: %4
         <translation>Plăteşte comision pentru tranzacţie &amp;f</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Porneşte automat programul Cryply la pornirea computerului.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Porneşte automat programul Urkoin la pornirea computerului.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;S Porneşte Cryply la pornirea sistemului</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;S Porneşte Urkoin la pornirea sistemului</translation>
     </message>
     <message>
         <source>MB</source>
         <translation>MB</translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
-        <translation>Conecteaza-te la reteaua Cryply printr-un proxy SOCKS</translation>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
+        <translation>Conecteaza-te la reteaua Urkoin printr-un proxy SOCKS</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -1000,8 +1000,8 @@ Adresa: %4
         <translation>expert</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Deschide automat în router portul aferent clientului Cryply. Funcţionează doar în cazul în care routerul e compatibil UPnP şi opţiunea e activată.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Deschide automat în router portul aferent clientului Urkoin. Funcţionează doar în cazul în care routerul e compatibil UPnP şi opţiunea e activată.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1056,8 +1056,8 @@ Adresa: %4
         <translation>Interfata &amp; limba userului</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Limba interfeței utilizatorului poate fi setat aici. Această setare va avea efect după repornirea Cryply.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Limba interfeței utilizatorului poate fi setat aici. Această setare va avea efect după repornirea Urkoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1065,11 +1065,11 @@ Adresa: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Alege subdiviziunea folosită la afişarea interfeţei şi la trimiterea de cryply.</translation>
+        <translation>Alege subdiviziunea folosită la afişarea interfeţei şi la trimiterea de urkoin.</translation>
     </message>
     <message>
-        <source>Whether to show cryply addresses in the transaction list or not.</source>
-        <translation>Vezi dacă adresele Cryply sunt în lista de tranzacție sau nu</translation>
+        <source>Whether to show urkoin addresses in the transaction list or not.</source>
+        <translation>Vezi dacă adresele Urkoin sunt în lista de tranzacție sau nu</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1113,7 +1113,7 @@ Adresa: %4
     </message>
     <message>
         <source>The supplied proxy address is invalid.</source>
-        <translation>Adresa cryply pe care a-ti specificat-o este invalida</translation>
+        <translation>Adresa urkoin pe care a-ti specificat-o este invalida</translation>
     </message>
 </context>
 <context>
@@ -1123,8 +1123,8 @@ Adresa: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Informațiile afișate pot neactualizate. Portofelul tău se sincronizează automat cu rețeaua Cryply după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Informațiile afișate pot neactualizate. Portofelul tău se sincronizează automat cu rețeaua Urkoin după ce o conexiune este stabilită, dar acest proces nu a fost finalizat încă.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1178,8 +1178,8 @@ Adresa: %4
         <translation>Gestionare URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresa Cryply invalida sau parametri deformati URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>URI nu poate fi analizat! Acest lucru poate fi cauzat de o adresa Urkoin invalida sau parametri deformati URI.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1190,8 +1190,8 @@ Adresa: %4
         <translation>Eroare la cererea de plată</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
-        <translation>Nu poate porni cryply: regula clic-pentru-plata</translation>
+        <source>Cannot start urkoin: click-to-pay handler</source>
+        <translation>Nu poate porni urkoin: regula clic-pentru-plata</translation>
     </message>
     <message>
         <source>Unverified payment requests to custom payment scripts are unsupported.</source>
@@ -1221,8 +1221,8 @@ Adresa: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1233,8 +1233,8 @@ Adresa: %4
         <translation>Eroare: combinație nevalidă de -regtest și -testnet.</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introdu o adresă Cryply (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introdu o adresă Urkoin (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1355,7 +1355,7 @@ Adresa: %4
         <translation>Loguri debug</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Deschide logurile debug din directorul curent. Aceasta poate dura cateva secunde pentru fisierele mai mari</translation>
     </message>
     <message>
@@ -1363,8 +1363,8 @@ Adresa: %4
         <translation>Curăță consola</translation>
     </message>
     <message>
-        <source>Welcome to the cryply RPC console.</source>
-        <translation>Bun venit la consola cryply RPC</translation>
+        <source>Welcome to the urkoin RPC console.</source>
+        <translation>Bun venit la consola urkoin RPC</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1711,8 +1711,8 @@ Adresa: %4
         <translation>Tranzactia a fost respinsa! Acest lucru se poate intampla daca o parte din monedele tale din portofel au fost deja cheltuite, la fel ca si cum ai fi folosit o copie a wallet.dat si monedele au fost cheltuite in copie, dar nu au fost marcate si si cheltuite si aici.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>Atentie: Adresa Cryply invalida!</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>Atentie: Adresa Urkoin invalida!</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1813,8 +1813,8 @@ Adresa: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>Cryply Core se închide...</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>Urkoin Core se închide...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1837,7 +1837,7 @@ Adresa: %4
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduceţi o adresă Cryply (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Introduceţi o adresă Urkoin (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1868,8 +1868,8 @@ Adresa: %4
         <translation>Copiaza semnatura curenta in clipboard-ul sistemului</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Semneaza mesajul pentru a dovedi ca detii acesta adresa Cryply</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Semneaza mesajul pentru a dovedi ca detii acesta adresa Urkoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1893,11 +1893,11 @@ Adresa: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduceţi o adresă Cryply (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Introduceţi o adresă Urkoin (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Verifica mesajul pentru a fi sigur ca a fost semnat cu adresa Cryply specifica</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Verifica mesajul pentru a fi sigur ca a fost semnat cu adresa Urkoin specifica</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1908,8 +1908,8 @@ Adresa: %4
         <translation>Reseteaza toate spatiile mesajelor semnate.</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Introduceţi o adresă Cryply (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Introduceţi o adresă Urkoin (de exemplu: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1967,12 +1967,12 @@ Adresa: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Dezvoltatorii Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Dezvoltatorii Urkoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2373,7 +2373,7 @@ Adresa: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Trimite Cryply</translation>
+        <translation>Trimite Urkoin</translation>
     </message>
 </context>
 <context>
@@ -2430,12 +2430,12 @@ Adresa: %4
         <translation>Setări:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Specifică fișierul de configurare (implicit: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Specifică fișierul de configurare (implicit: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Specifică fișierul pid (implicit cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Specifică fișierul pid (implicit urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2493,24 +2493,24 @@ Adresa: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s trebuie sa setezi o parola rpc in fisierul de configurare
 %s
 Este recomandat sa folosesti aceasta parola aleatorie:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 parola rpc=%s
 (nu este necesar ca sa iti amintesti aceasta parola)
 Numele de utilizator si parola NU trebuie sa fie la fel.
 Daca fisierul nu exista, creaza-l cu fisier de citit permis doar proprietarului.
 Este de asemenea recomandat sa setezi alerta de notificare ca sa primesti notificari ale problemelor;
-spre exemplu: alertnotify=echo %%s | mail -s "Alerta Cryply" admin@foo.com
+spre exemplu: alertnotify=echo %%s | mail -s "Alerta Urkoin" admin@foo.com
 
 </translation>
     </message>
@@ -2559,8 +2559,8 @@ spre exemplu: alertnotify=echo %%s | mail -s "Alerta Cryply" admin@foo.com
         <translation>Atentie: setarea -paytxfee este foarte ridicata! Aceasta este taxa tranzactiei pe care o vei plati daca trimiti o tranzactie.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Atentie: Va rugam verificati daca data/timpul computerului dumneavoastra sunt corecte! Daca ceasul computerului este decalat, Cryply nu va functiona corect.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Atentie: Va rugam verificati daca data/timpul computerului dumneavoastra sunt corecte! Daca ceasul computerului este decalat, Urkoin nu va functiona corect.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2587,8 +2587,8 @@ spre exemplu: alertnotify=echo %%s | mail -s "Alerta Cryply" admin@foo.com
         <translation>Încearcă recuperarea cheilor private dintr-un wallet.dat corupt</translation>
     </message>
     <message>
-        <source>Cryply Core Daemon</source>
-        <translation>Daemon-ul Cryply Core</translation>
+        <source>Urkoin Core Daemon</source>
+        <translation>Daemon-ul Urkoin Core</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2747,8 +2747,8 @@ spre exemplu: alertnotify=echo %%s | mail -s "Alerta Cryply" admin@foo.com
         <translation>Este folosita pentru programe de testare a regresiei in algoritmi si  dezvoltare de alte aplicatii. </translation>
     </message>
     <message>
-        <source>Usage (deprecated, use cryply-cli):</source>
-        <translation>Utilizare (învechită, folositi cryply-cli):</translation>
+        <source>Usage (deprecated, use urkoin-cli):</source>
+        <translation>Utilizare (învechită, folositi urkoin-cli):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -2823,12 +2823,12 @@ spre exemplu: alertnotify=echo %%s | mail -s "Alerta Cryply" admin@foo.com
         <translation>Publicare arbore blocuri la pornire (prestabilit: 0)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>Optiuni SSl (vezi Cryply wiki pentru intructiunile de instalare)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>Optiuni SSl (vezi Urkoin wiki pentru intructiunile de instalare)</translation>
     </message>
     <message>
-        <source>Send command to Cryply Core</source>
-        <translation>Trimitere comenzi catre Cryply Core</translation>
+        <source>Send command to Urkoin Core</source>
+        <translation>Trimitere comenzi catre Urkoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2959,12 +2959,12 @@ spre exemplu: alertnotify=echo %%s | mail -s "Alerta Cryply" admin@foo.com
         <translation>Eroare la încărcarea wallet.dat: Portofel corupt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Eroare la încărcarea wallet.dat: Portofelul are nevoie de o versiune Cryply mai nouă</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Eroare la încărcarea wallet.dat: Portofelul are nevoie de o versiune Urkoin mai nouă</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Portofelul trebuie rescris: repornește Cryply pentru finalizare</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Portofelul trebuie rescris: repornește Urkoin pentru finalizare</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

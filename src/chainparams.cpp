@@ -67,15 +67,15 @@ public:
 
 //        vFixedSeeds.clear();
         vSeeds.clear();
-        vSeeds.push_back(CDNSSeedData("cryply1.club", "cryply1.club"));
-        vSeeds.push_back(CDNSSeedData("cryply2.club", "cryply2.club"));
-        vSeeds.push_back(CDNSSeedData("cryply3.club", "cryply3.club"));
-        vSeeds.push_back(CDNSSeedData("cryply4.club", "cryply4.club"));
-        vSeeds.push_back(CDNSSeedData("cryply5.club", "cryply5.club"));
-        vSeeds.push_back(CDNSSeedData("cryply6.club", "cryply6.club"));
-        vSeeds.push_back(CDNSSeedData("cryply7.club", "cryply7.club"));
-        vSeeds.push_back(CDNSSeedData("cryply8.club", "cryply8.club"));
-        vSeeds.push_back(CDNSSeedData("luckypool.org", "cryply.luckypool.org"));
+        vSeeds.push_back(CDNSSeedData("urkoin1.club", "urkoin1.club"));
+        vSeeds.push_back(CDNSSeedData("urkoin2.club", "urkoin2.club"));
+        vSeeds.push_back(CDNSSeedData("urkoin3.club", "urkoin3.club"));
+        vSeeds.push_back(CDNSSeedData("urkoin4.club", "urkoin4.club"));
+        vSeeds.push_back(CDNSSeedData("urkoin5.club", "urkoin5.club"));
+        vSeeds.push_back(CDNSSeedData("urkoin6.club", "urkoin6.club"));
+        vSeeds.push_back(CDNSSeedData("urkoin7.club", "urkoin7.club"));
+        vSeeds.push_back(CDNSSeedData("urkoin8.club", "urkoin8.club"));
+        vSeeds.push_back(CDNSSeedData("luckypool.org", "urkoin.luckypool.org"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1,28);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1,10);

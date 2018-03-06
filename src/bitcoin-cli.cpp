@@ -42,11 +42,11 @@ static bool AppInitRPC(int argc, char* argv[])
     if (argc<2 || mapArgs.count("-?") || mapArgs.count("--help"))
     {
         // First part of help message is specific to RPC client
-        std::string strUsage = _("Cryply Core RPC client version") + " " + FormatFullVersion() + "\n\n" +
+        std::string strUsage = _("Urkoin Core RPC client version") + " " + FormatFullVersion() + "\n\n" +
             _("Usage:") + "\n" +
-              "  cryply-cli [options] <command> [params]  " + _("Send command to Cryply Core") + "\n" +
-              "  cryply-cli [options] help                " + _("List commands") + "\n" +
-              "  cryply-cli [options] help <command>      " + _("Get help for a command") + "\n";
+              "  urkoin-cli [options] <command> [params]  " + _("Send command to Urkoin Core") + "\n" +
+              "  urkoin-cli [options] help                " + _("List commands") + "\n" +
+              "  urkoin-cli [options] help <command>      " + _("Get help for a command") + "\n";
 
         strUsage += "\n" + HelpMessageCli(true);
 

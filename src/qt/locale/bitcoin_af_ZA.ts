@@ -146,8 +146,8 @@
         <translation>Sluit af</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Wys inligting oor Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Wys inligting oor Urkoin</translation>
     </message>
     <message>
         <source>Show information about Qt</source>
@@ -158,8 +158,8 @@
         <translation>&amp;Opsies</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -182,8 +182,8 @@
         <translation>Blad nutsbalk</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply klient</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin klient</translation>
     </message>
     <message>
         <source>%1 behind</source>
@@ -272,8 +272,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -311,11 +311,11 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Die adres waarheen die betaling gestuur moet word (b.v. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -438,7 +438,7 @@
         <translation>Teken &amp;Boodskap</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Die adres waarheen die betaling gestuur moet word (b.v. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     </context>

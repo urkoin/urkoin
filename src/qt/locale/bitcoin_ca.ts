@@ -146,8 +146,8 @@
         <translation>Sortir de l'aplicació</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Informació sobre Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Informació sobre Urkoin</translation>
     </message>
     <message>
         <source>&amp;Options...</source>

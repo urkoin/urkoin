@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Σχετικά με το Cryply Core</translation>
+        <source>About Urkoin Core</source>
+        <translation>Σχετικά με το Urkoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply Core&lt;/b&gt; έκδοση</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin Core&lt;/b&gt; έκδοση</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Πνευματική ιδιοκτησία </translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Οι προγραμματιστές του Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Οι προγραμματιστές του Urkoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -99,8 +99,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Διευθύνσεις λήψης</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Αυτές είναι οι Cryply διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Αυτές είναι οι Urkoin διευθύνσεις σας για να λαμβάνετε πληρωμές. Δίνοντας μία ξεχωριστή διεύθυνση σε κάθε αποστολέα, θα μπορείτε να ελέγχετε ποιος σας πληρώνει.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -218,8 +218,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Κρυπτογραφημενο πορτοφολι</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Το Cryply θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα cryplies σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Το Urkoin θα κλεισει τώρα για να τελειώσει την διαδικασία κρυπτογραφησης. Θυμησου ότι κρυπτογραφώντας το πορτοφολι σου δεν μπορείς να προστατέψεις πλήρως τα cryplies σου από κλοπή στην περίπτωση όπου μολυνθεί ο υπολογιστής σου με κακόβουλο λογισμικό.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -285,8 +285,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Εξοδος από την εφαρμογή</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Εμφάνιση πληροφοριών σχετικά με το Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Εμφάνιση πληροφοριών σχετικά με το Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -321,12 +321,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Φόρτωση ευρετηρίου μπλοκ στον σκληρο δισκο...</translation>
     </message>
     <message>
-        <source>Send coins to a cryply address</source>
-        <translation>Στείλε νομίσματα σε μια διεύθυνση cryply</translation>
+        <source>Send coins to a urkoin address</source>
+        <translation>Στείλε νομίσματα σε μια διεύθυνση urkoin</translation>
     </message>
     <message>
-        <source>Modify configuration options for cryply</source>
-        <translation>Επεργασία  ρυθμισεων επιλογών για το Cryply</translation>
+        <source>Modify configuration options for urkoin</source>
+        <translation>Επεργασία  ρυθμισεων επιλογών για το Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -349,8 +349,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>&amp;Επιβεβαίωση μηνύματος</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -377,12 +377,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Κρυπτογραφήστε τα ιδιωτικά κλειδιά που ανήκουν στο πορτοφόλι σας </translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
         <translation>Υπογράψτε ένα μήνυμα για να βεβαιώσετε πως είστε ο κάτοχος αυτής της διεύθυνσης</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Cryply</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως ανήκει μια συγκεκριμένη διεύθυνση Urkoin</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -405,16 +405,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>urkoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις cryply: )</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>Αίτηση πληρωμών (δημιουργεί QR codes και διευθύνσεις urkoin: )</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
-        <translation>&amp;Σχετικά με το Cryply Core</translation>
+        <source>&amp;About urkoin Core</source>
+        <translation>&amp;Σχετικά με το Urkoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -425,12 +425,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Προβολή της λίστας των χρησιμοποιημένων διευθύνσεων και ετικετών λήψεως</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Πελάτης Cryply</translation>
+        <source>Urkoin client</source>
+        <translation>Πελάτης Urkoin</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο Cryply</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Βitcoin</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n ενεργή σύνδεση στο δίκτυο Urkoin</numerusform><numerusform>%n ενεργές συνδέσεις στο δίκτυο Βitcoin</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -525,8 +525,8 @@ Address: %4
         <translation>Το πορτοφόλι είναι &lt;b&gt;κρυπτογραφημένο&lt;/b&gt; και &lt;b&gt;κλειδωμένο&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Παρουσιάστηκε ανεπανόρθωτο σφάλμα. Το Cryply δεν μπορεί πλέον να συνεχίσει με ασφάλεια και θα τερματισθει.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Παρουσιάστηκε ανεπανόρθωτο σφάλμα. Το Urkoin δεν μπορεί πλέον να συνεχίσει με ασφάλεια και θα τερματισθει.</translation>
     </message>
 </context>
 <context>
@@ -723,8 +723,8 @@ Address: %4
         <translation>Η διεύθυνση "%1" βρίσκεται ήδη στο βιβλίο διευθύνσεων.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Η διεύθυνση "%1" δεν είναι έγκυρη Cryply διεύθυνση.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Η διεύθυνση "%1" δεν είναι έγκυρη Urkoin διεύθυνση.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -753,8 +753,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -792,12 +792,12 @@ Address: %4
         <translation>Καλώς ήρθατε</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Καλώς ήρθατε στο Cryply Core.</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Καλώς ήρθατε στο Urkoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
-        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Cryply Core τα δεδομένα του.</translation>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
+        <translation>Καθώς αυτή είναι η πρώτη φορά που εκκινείται το πρόγραμμα, μπορείτε να διαλέξετε πού θα αποθηκεύει το Urkoin Core τα δεδομένα του.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -808,8 +808,8 @@ Address: %4
         <translation>Προσαρμογή του φακέλου δεδομένων: </translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -850,11 +850,11 @@ Address: %4
         <translation>Αμοιβή &amp;συναλλαγής</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Αυτόματη εκκίνηση του Cryply μετά την εισαγωγή στο σύστημα</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Αυτόματη εκκίνηση του Urkoin μετά την εισαγωγή στο σύστημα</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
+        <source>&amp;Start Urkoin on system login</source>
         <translation>&amp;Έναρξη του Βιtcoin κατά την εκκίνηση του συστήματος</translation>
     </message>
     <message>
@@ -878,8 +878,8 @@ Address: %4
         <translation>Έμπειρος</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Αυτόματο άνοιγμα των θυρών Cryply στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Αυτόματο άνοιγμα των θυρών Urkoin στον δρομολογητή. Λειτουργεί μόνο αν ο δρομολογητής σας υποστηρίζει τη λειτουργία UPnP.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -934,8 +934,8 @@ Address: %4
         <translation>Γλώσσα περιβάλλοντος εργασίας: </translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Εδώ μπορεί να ρυθμιστεί η γλώσσα διεπαφής χρήστη. Αυτή η ρύθμιση θα ισχύσει μετά την επανεκκίνηση του Cryply.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Εδώ μπορεί να ρυθμιστεί η γλώσσα διεπαφής χρήστη. Αυτή η ρύθμιση θα ισχύσει μετά την επανεκκίνηση του Urkoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -946,8 +946,8 @@ Address: %4
         <translation>Διαλέξτε την προεπιλεγμένη υποδιαίρεση που θα εμφανίζεται όταν στέλνετε νομίσματα.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Επιλέξτε αν θέλετε να εμφανίζονται οι διευθύνσεις Cryply στη λίστα συναλλαγών.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Επιλέξτε αν θέλετε να εμφανίζονται οι διευθύνσεις Urkoin στη λίστα συναλλαγών.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -989,8 +989,8 @@ Address: %4
         <translation>Φόρμα</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο Cryply μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Οι πληροφορίες που εμφανίζονται μπορεί να είναι ξεπερασμένες. Το πορτοφόλι σας συγχρονίζεται αυτόματα με το δίκτυο Urkoin μετά από μια σύνδεση, αλλά αυτή η διαδικασία δεν έχει ακόμη ολοκληρωθεί. </translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1040,16 +1040,16 @@ Address: %4
         <translation>Χειρισμός URI</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>Το URI δεν μπορεί να αναλυθεί! Αυτό μπορεί να προκληθεί από μια μη έγκυρη διεύθυνση Cryply ή ακατάλληλη παραμέτρο URI.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>Το URI δεν μπορεί να αναλυθεί! Αυτό μπορεί να προκληθεί από μια μη έγκυρη διεύθυνση Urkoin ή ακατάλληλη παραμέτρο URI.</translation>
     </message>
     <message>
         <source>Payment request error</source>
         <translation>Σφάλμα αιτήματος πληρωμής</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
-        <translation>Δεν είναι δυνατή η εκκίνηση του cryply: click-to-pay handler</translation>
+        <source>Cannot start urkoin: click-to-pay handler</source>
+        <translation>Δεν είναι δυνατή η εκκίνηση του urkoin: click-to-pay handler</translation>
     </message>
     <message>
         <source>Payment acknowledged</source>
@@ -1063,8 +1063,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1075,8 +1075,8 @@ Address: %4
         <translation>Σφάλμα: Άκυρος συνδυασμός των -regtest και -testnet</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Εισάγετε μια διεύθυνση Cryply (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Εισάγετε μια διεύθυνση Urkoin (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1197,7 @@ Address: %4
         <translation>Αρχείο καταγραφής εντοπισμού σφαλμάτων </translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
         <translation>Ανοίξτε το αρχείο καταγραφής εντοπισμού σφαλμάτων από τον τρέχοντα κατάλογο δεδομένων. Αυτό μπορεί να πάρει μερικά δευτερόλεπτα για τα μεγάλα αρχεία καταγραφής. </translation>
     </message>
     <message>
@@ -1205,8 +1205,8 @@ Address: %4
         <translation>Καθαρισμός κονσόλας</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Καλώς ήρθατε στην Cryply RPC κονσόλα.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Καλώς ήρθατε στην Urkoin RPC κονσόλα.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1485,8 +1485,8 @@ Address: %4
         <translation>Η δημιουργία της συναλλαγής απέτυχε!</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>Προειδοποίηση: Μη έγκυρη διεύθυνση Cryply</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>Προειδοποίηση: Μη έγκυρη διεύθυνση Urkoin</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1567,8 +1567,8 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>Το Cryply Core τερματίζεται...</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>Το Urkoin Core τερματίζεται...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1591,7 +1591,7 @@ Address: %4
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Εισάγετε μια διεύθυνση Cryply (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Εισάγετε μια διεύθυνση Urkoin (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -1622,8 +1622,8 @@ Address: %4
         <translation>Αντέγραφη της επιλεγμενης διεύθυνσης στο πρόχειρο του συστηματος</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση Cryply</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως σας ανήκει μια συγκεκριμένη διεύθυνση Urkoin</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1647,11 +1647,11 @@ Address: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Εισάγετε μια διεύθυνση Cryply (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Εισάγετε μια διεύθυνση Urkoin (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση Cryply</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Υπογράψτε ένα μήνυμα για ν' αποδείξετε πως υπογραφθηκε απο μια συγκεκριμένη διεύθυνση Urkoin</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1662,8 +1662,8 @@ Address: %4
         <translation>Επαναφορά όλων επαλήθευμενων πεδίων μήνυματος </translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Εισάγετε μια διεύθυνση Cryply (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Εισάγετε μια διεύθυνση Urkoin (π.χ. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1721,12 +1721,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Οι προγραμματιστές του Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Οι προγραμματιστές του Urkoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2176,12 +2176,12 @@ Address: %4
         <translation>Επιλογές:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Ορίστε αρχείο ρυθμίσεων (προεπιλογή: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Ορίστε αρχείο ρυθμίσεων (προεπιλογή: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Ορίστε αρχείο pid (προεπιλογή: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Ορίστε αρχείο pid (προεπιλογή: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2239,24 +2239,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2289,8 +2289,8 @@ for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Προειδοποίηση: Η παράμετρος -paytxfee είναι πολύ υψηλή. Πρόκειται για την αμοιβή που θα πληρώνετε για κάθε συναλλαγή που θα στέλνετε.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Προειδοποίηση: Παρακαλώ βεβαιωθείτε πως η ημερομηνία κι ώρα του συστήματός σας είναι σωστές. Αν το ρολόι του υπολογιστή σας πάει λάθος, ενδέχεται να μη λειτουργεί σωστά το Cryply.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Προειδοποίηση: Παρακαλώ βεβαιωθείτε πως η ημερομηνία κι ώρα του συστήματός σας είναι σωστές. Αν το ρολόι του υπολογιστή σας πάει λάθος, ενδέχεται να μη λειτουργεί σωστά το Urkoin.</translation>
     </message>
     <message>
         <source>Warning: error reading wallet.dat! All keys read correctly, but transaction data or address book entries might be missing or incorrect.</source>
@@ -2489,8 +2489,8 @@ for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation> Συνδέση μόνο σε κόμβους του δικτύου &lt;net&gt; (IPv4, IPv6 ή Tor) </translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο Cryply Wiki για οδηγίες ρυθμίσεων SSL)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>Ρυθμίσεις SSL: (ανατρέξτε στο Urkoin Wiki για οδηγίες ρυθμίσεων SSL)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2621,12 +2621,12 @@ for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Σφάλμα φόρτωσης wallet.dat: Κατεστραμμένο Πορτοφόλι</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του Cryply</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Σφάλμα φόρτωσης wallet.dat: Το Πορτοφόλι απαιτεί μια νεότερη έκδοση του Urkoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Απαιτείται η επανεγγραφή του Πορτοφολιού, η οποία θα ολοκληρωθεί στην επανεκκίνηση του Cryply</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Απαιτείται η επανεγγραφή του Πορτοφολιού, η οποία θα ολοκληρωθεί στην επανεκκίνηση του Urkoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

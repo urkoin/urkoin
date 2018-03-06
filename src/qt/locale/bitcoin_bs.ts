@@ -14,12 +14,12 @@
 <context>
     <name>BitcoinGUI</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Jezrga</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Jezrga</translation>
     </message>
     </context>
 <context>
@@ -37,15 +37,15 @@
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Jezrga</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Jezrga</translation>
     </message>
     </context>
 <context>
     <name>Intro</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     </context>
 <context>
@@ -63,8 +63,8 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     </context>
 <context>
@@ -113,8 +113,8 @@
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Jezrga</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Jezrga</translation>
     </message>
     </context>
 <context>

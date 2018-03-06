@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>O jedru Cryplya</translation>
+        <source>About Urkoin Core</source>
+        <translation>O jedru Urkoina</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Jedro Cryplya&lt;/b&gt; različica</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Jedro Urkoina&lt;/b&gt; različica</translation>
     </message>
     </context>
 <context>
@@ -77,12 +77,12 @@
         <translation>Prejemati naslovi</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>To so Cryply naslovi za pošiljanje plačilnih čekov. Vedno preveri količino in naslov za prejemanje pred pošiljanjem kovancev.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>To so Urkoin naslovi za pošiljanje plačilnih čekov. Vedno preveri količino in naslov za prejemanje pred pošiljanjem kovancev.</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>To so vaši Cryply naslovi za prejemanje plačil. Priporočljivo je uporabljati nov prejemni naslov za vsako izmed transakcij.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>To so vaši Urkoin naslovi za prejemanje plačil. Priporočljivo je uporabljati nov prejemni naslov za vsako izmed transakcij.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -191,8 +191,8 @@
         <translation>Denarnica šifrirana</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply se bo zaprl, da bi dokončal proces šifriranja. Zapomnite si, da šifriranje vaše denarnice ne more popolnoma zaščititi pred krajami zlonamernih programov, ki bi lahko bili nameščeni na vašem računalniku.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin se bo zaprl, da bi dokončal proces šifriranja. Zapomnite si, da šifriranje vaše denarnice ne more popolnoma zaščititi pred krajami zlonamernih programov, ki bi lahko bili nameščeni na vašem računalniku.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -254,8 +254,8 @@
         <translation>Izhod iz aplikacije</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Pokaži informacije o Cryplyu</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Pokaži informacije o Urkoinu</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -302,12 +302,12 @@
         <translation>Poustvarjam kazalo blokov na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Pošlji kovance na Cryply naslov</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Pošlji kovance na Urkoin naslov</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Spremeni konfiguracijo nastavitev za Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Spremeni konfiguracijo nastavitev za Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -326,8 +326,8 @@
         <translation>Odpri razhroščevalno in diagnostično konzolo</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -354,8 +354,8 @@
         <translation>Šifiraj zasebne ključe v moji denarnici</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Za dokaz, da ste lastniki sporočil, se podpišite z Cryply naslovom</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Za dokaz, da ste lastniki sporočil, se podpišite z Urkoin naslovom</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -378,12 +378,12 @@
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Jedro Cryplya</translation>
+        <source>Urkoin Core</source>
+        <translation>Jedro Urkoina</translation>
     </message>
     <message>
-        <source>&amp;About Cryply Core</source>
-        <translation>&amp;O jedru Cryplya</translation>
+        <source>&amp;About Urkoin Core</source>
+        <translation>&amp;O jedru Urkoina</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -394,16 +394,16 @@
         <translation>Prikaži seznam uporabljenih sprejemnih naslovov in oznak</translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
-        <translation>Odpri cryply: URI ali zahteva o plačilu</translation>
+        <source>Open a urkoin: URI or payment request</source>
+        <translation>Odpri urkoin: URI ali zahteva o plačilu</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply odjemalec</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin odjemalec</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to cryply network</source>
-        <translation><numerusform>%n aktivna povezava v cryply omrežje</numerusform><numerusform>%n aktivni povezavi v cryply omrežje</numerusform><numerusform>%n aktivnih povezav v cryply omrežje</numerusform><numerusform>%n aktivnih povezav v cryply omrežje</numerusform></translation>
+        <source>%n active connection(s) to urkoin network</source>
+        <translation><numerusform>%n aktivna povezava v urkoin omrežje</numerusform><numerusform>%n aktivni povezavi v urkoin omrežje</numerusform><numerusform>%n aktivnih povezav v urkoin omrežje</numerusform><numerusform>%n aktivnih povezav v urkoin omrežje</numerusform></translation>
     </message>
     <message numerus="yes">
         <source>%n hour(s)</source>
@@ -663,8 +663,8 @@ Naslov: %4
         <translation>Uredi naslov za odlive</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Vnešeni naslov "%1" ni veljaven Cryply naslov.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Vnešeni naslov "%1" ni veljaven Urkoin naslov.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -685,8 +685,8 @@ Naslov: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Jedro Cryplya</translation>
+        <source>Urkoin Core</source>
+        <translation>Jedro Urkoina</translation>
     </message>
     <message>
         <source>version</source>
@@ -720,12 +720,12 @@ Naslov: %4
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Dobrodošli v jedru Cryplya</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Dobrodošli v jedru Urkoina</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -766,12 +766,12 @@ Naslov: %4
         <translation>Nakazilo plačila &amp; provizija</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Po prijavi v sistem samodejno zaženite Cryply.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Po prijavi v sistem samodejno zaženite Urkoin.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;Zaženi Cryply ob prijavi v sistem</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;Zaženi Urkoin ob prijavi v sistem</translation>
     </message>
     <message>
         <source>MB</source>
@@ -786,8 +786,8 @@ Naslov: %4
         <translation>&amp;Denarnica</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Avtomatično odpri vrata Cryply odjemalca na usmerjevalniku. To deluje samo, če vaš usmerjevalnik podpira UPnP in je omogočen.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Avtomatično odpri vrata Urkoin odjemalca na usmerjevalniku. To deluje samo, če vaš usmerjevalnik podpira UPnP in je omogočen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -842,8 +842,8 @@ Naslov: %4
         <translation>Vmesnik uporabnika &amp;jezik:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Tukaj je mogoče nastaviti uporabniški vmesnik za jezike. Ta nastavitev bo prikazana šele, ko boste znova zagnali Cryply.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Tukaj je mogoče nastaviti uporabniški vmesnik za jezike. Ta nastavitev bo prikazana šele, ko boste znova zagnali Urkoin.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -869,8 +869,8 @@ Naslov: %4
         <translation>Oblika</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazanim podatkom je lahko potekel rok. Vaša denarnica bo po vzpostavitvi povezave samodejno sinhronizirana z Cryply omrežjem, ampak ta proces še ni bil zaključen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazanim podatkom je lahko potekel rok. Vaša denarnica bo po vzpostavitvi povezave samodejno sinhronizirana z Urkoin omrežjem, ampak ta proces še ni bil zaključen.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -935,8 +935,8 @@ Naslov: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -947,8 +947,8 @@ Naslov: %4
         <translation>Napaka: Neveljavna kombinacija -regtest and -testnet</translation>
     </message>
     <message>
-        <source>Enter a cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Vnesite cryply naslov (npr.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Vnesite urkoin naslov (npr.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1053,8 +1053,8 @@ Naslov: %4
         <translation>Počisti konzolo</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Dobrodošli na Cryply RPC konzoli.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Dobrodošli na Urkoin RPC konzoli.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1325,8 +1325,8 @@ Naslov: %4
         <translation>Najdena kopija naslova, možnost pošiljanja na vsakega izmed naslov le enkrat ob pošiljanju.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>Opozorilo: Neveljaven Cryply naslov</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>Opozorilo: Neveljaven Urkoin naslov</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1446,8 +1446,8 @@ Naslov: %4
         <translation>Preveri &amp;Sporočilo</translation>
     </message>
     <message>
-        <source>Enter a cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Vnesite cryply naslov (npr.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Vnesite urkoin naslov (npr.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1497,8 +1497,8 @@ Naslov: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Jedro Cryplya</translation>
+        <source>Urkoin Core</source>
+        <translation>Jedro Urkoina</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1912,12 +1912,12 @@ Naslov: %4
         <translation>Možnosti:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Določi datoteko z nastavitvami (privzeta: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Določi datoteko z nastavitvami (privzeta: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Določi pid datoteko (privzeta: cryply.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Določi pid datoteko (privzeta: urkoin.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2020,8 +2020,8 @@ Naslov: %4
         <translation>Informacije</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL možnosti: (glejte Cryply Wiki za navodla, kako nastaviti SSL)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL možnosti: (glejte Urkoin Wiki za navodla, kako nastaviti SSL)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2128,12 +2128,12 @@ Naslov: %4
         <translation>Napaka pri nalaganju wallet.dat: denarnica pokvarjena</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo različico Cryplya</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Napaka pri nalaganju wallet.dat: denarnica zahteva novejšo različico Urkoina</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Denarnica mora biti prepisana: ponovno zaženite Cryply za doknčanje</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Denarnica mora biti prepisana: ponovno zaženite Urkoin za doknčanje</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

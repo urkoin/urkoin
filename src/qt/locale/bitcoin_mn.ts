@@ -107,7 +107,7 @@
         <translation>Түрүйвч цоожлогдлоо</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
         <translation>Цоожлолтын процесыг дуусгахын тулд Биткойн одоо хаагдана. Ѳѳрийн түрүйвчийг цоожлох нь таны биткойнуудыг компьютерийн вирус хулгайлахаас бүрэн сэргийлж чадахгүй гэдгийг санаарай.</translation>
     </message>
     <message>
@@ -170,7 +170,7 @@
         <translation>Програмаас Гарах</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
+        <source>Show information about Urkoin</source>
         <translation>Биткойны мэдээллийг харуулах</translation>
     </message>
     <message>
@@ -206,7 +206,7 @@
         <translation>Оношилгоо ба засварын консолыг онгойлго</translation>
     </message>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>Биткойн</translation>
     </message>
     <message>
@@ -230,11 +230,11 @@
         <translation>&amp;Тусламж</translation>
     </message>
     <message>
-        <source>Cryply client</source>
+        <source>Urkoin client</source>
         <translation>Биткойн клиент</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation><numerusform>Биткойны сүлжээрүү %n идэвхитэй холболт байна </numerusform><numerusform>Биткойны сүлжээрүү %n идэвхитэй холболтууд байна </numerusform></translation>
     </message>
     <message numerus="yes">
@@ -399,7 +399,7 @@ Address: %4
 <context>
     <name>Intro</name>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>Биткойн</translation>
     </message>
     <message>
@@ -421,7 +421,7 @@ Address: %4
         <translation>МБ</translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
         <translation>Биткойны сүлжээрүү SOCKS проксигоор холбогдох.</translation>
     </message>
     <message>
@@ -462,7 +462,7 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
+        <source>Urkoin</source>
         <translation>Биткойн</translation>
     </message>
     </context>
@@ -692,7 +692,7 @@ Address: %4
         <translation>Гүйлгээний тѳлбѳр %1-ийг тооцхоор нийт дүн нь таны балансаас хэтрээд байна.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
+        <source>Warning: Invalid Urkoin address</source>
         <translation>Анхаар:Буруу Биткойны хаяг байна</translation>
     </message>
     <message>
@@ -738,7 +738,7 @@ Address: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
+        <source>Urkoin Core is shutting down...</source>
         <translation>Биткойны цѳм хаагдаж байна...</translation>
     </message>
     <message>
@@ -1095,7 +1095,7 @@ Address: %4
         <translation>wallet.dat-ыг ачааллахад алдаа гарлаа: Түрүйвч эвдэрсэн байна</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
         <translation>wallet.dat-ыг ачааллахад алдаа гарлаа: Түрүйвч Биткойны шинэ хувилбарыг шаардаж байна</translation>
     </message>
     <message>

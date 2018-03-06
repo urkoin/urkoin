@@ -1,9 +1,9 @@
-<TS language="ja" version="2.1">
+﻿<TS language="ja" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply Core&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin Core&lt;/b&gt; version</translation>
     </message>
     <message>
         <source>
@@ -24,8 +24,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Coreの開発者</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Coreの開発者</translation>
     </message>
     </context>
 <context>
@@ -95,8 +95,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>アドレス受信中</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>これらは支払いを送信するためのあなたの Cryply アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>これらは支払いを送信するためのあなたの Urkoin アドレスです。コインを送信する前に、常に額と受信アドレスを確認してください。</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -189,8 +189,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>ウォレットの暗号化を確認する</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR CRYPLYS&lt;/b&gt;!</source>
-        <translation>警告: もしもあなたのウォレットを暗号化してパスフレーズを失ってしまったなら、&lt;b&gt;あなたの Cryply はすべて失われます&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR URKOINS&lt;/b&gt;!</source>
+        <translation>警告: もしもあなたのウォレットを暗号化してパスフレーズを失ってしまったなら、&lt;b&gt;あなたの Urkoin はすべて失われます&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -209,8 +209,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>ウォレットは暗号化されました</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplys from being stolen by malware infecting your computer.</source>
-        <translation>Cryply は暗号化プロセスを終了するために今すぐ終了します。あなたのコンピュータがマルウェアに感染してコインを盗まれることもあるので、暗号化してもあなたのウォレットを完全に保護できないことを覚えていてください。</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your urkoins from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin は暗号化プロセスを終了するために今すぐ終了します。あなたのコンピュータがマルウェアに感染してコインを盗まれることもあるので、暗号化してもあなたのウォレットを完全に保護できないことを覚えていてください。</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -280,8 +280,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>アプリケーションを終了</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Cryplyに関する情報を見る</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Urkoinに関する情報を見る</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -328,12 +328,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>ディスク上のブロックのインデックスを再作成中...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Cryply アドレスにコインを送る</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Urkoin アドレスにコインを送る</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Cryply の設定を変更する</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Urkoin の設定を変更する</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -356,8 +356,8 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>メッセージの検証... (&amp;V)</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -384,12 +384,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>あなたのウォレットの秘密鍵を暗号化します</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>あなたが所有していることを証明するために、あなたの Cryply アドレスでメッセージに署名してください</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>あなたが所有していることを証明するために、あなたの Urkoin アドレスでメッセージに署名してください</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>指定された Cryply アドレスで署名されたことを確認するためにメッセージを検証します</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>指定された Urkoin アドレスで署名されたことを確認するためにメッセージを検証します</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -412,12 +412,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>&amp;About Cryply Core</source>
-        <translation>Cryply Coreについて (&amp;A)</translation>
+        <source>&amp;About Urkoin Core</source>
+        <translation>Urkoin Coreについて (&amp;A)</translation>
     </message>
     <message>
         <source>Show the list of used receiving addresses and labels</source>
@@ -428,12 +428,12 @@ MIT/X11 ソフトウェア ライセンスの下で配布されています。�
         <translation>コマンドラインオプション (&amp;C)</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply client</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin client</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n の Cryply ネットワークへのアクティブな接続</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n の Urkoin ネットワークへのアクティブな接続</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -527,8 +527,8 @@ Address: %4
         <translation>ウォレットは&lt;b&gt;暗号化されて、ロックされています&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>致命的なエラーが発生しました。Cryply は安全に継続することができず終了するでしょう。
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>致命的なエラーが発生しました。Urkoin は安全に継続することができず終了するでしょう。
 </translation>
     </message>
 </context>
@@ -693,8 +693,8 @@ Address: %4
         <translation>入力されたアドレス "%1" は既にアドレス帳にあります。</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>入力されたアドレス "%1" は無効な Cryply アドレスです。</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>入力されたアドレス "%1" は無効な Urkoin アドレスです。</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -731,8 +731,8 @@ Address: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -782,8 +782,8 @@ Address: %4
         <translation>任意のデータ ディレクトリを使用:</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -844,12 +844,12 @@ Address: %4
         <translation>支払う取引手数料 (&amp;f)</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>システムにログインした時に自動的に Cryply を起動します。</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>システムにログインした時に自動的に Urkoin を起動します。</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>システムにログインした時に Cryply を起動 (&amp;S)</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>システムにログインした時に Urkoin を起動 (&amp;S)</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -888,8 +888,8 @@ Address: %4
         <translation>コインコントロール機能を有効化する (&amp;C)</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>自動的にルーター上の Cryply クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>自動的にルーター上の Urkoin クライアントのポートを開きます。あなたのルーターが UPnP に対応していて、それが有効になっている場合に作動します。</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -944,8 +944,8 @@ Address: %4
         <translation>ユーザインターフェースの言語 (&amp;l) :</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>ここでユーザインターフェースの言語を設定できます。設定を反映するには Cryply を再起動します。</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>ここでユーザインターフェースの言語を設定できます。設定を反映するには Urkoin を再起動します。</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -956,8 +956,8 @@ Address: %4
         <translation>インターフェース上の表示とコインの送信で使用する単位を選択します。</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>最近の取引履歴で Cryply アドレスを表示するかしないか。</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>最近の取引履歴で Urkoin アドレスを表示するかしないか。</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -995,8 +995,8 @@ Address: %4
         <translation>フォーム</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは Cryply ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>表示された情報は古いかもしれません。接続が確立されると、あなたのウォレットは Urkoin ネットワークと自動的に同期しますが、このプロセスはまだ完了していません。</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1042,8 +1042,8 @@ Address: %4
         <translation>URI の操作</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>URI を解析できません! これは無効な Cryply アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>URI を解析できません! これは無効な Urkoin アドレスあるいや不正な形式の URI パラメーターによって引き起こされる場合があります。
 </translation>
     </message>
     <message>
@@ -1051,8 +1051,8 @@ Address: %4
         <translation>支払いのリクエストのエラーです</translation>
     </message>
     <message>
-        <source>Cannot start Cryply: click-to-pay handler</source>
-        <translation>Cryply を起動できません: click-to-pay handler</translation>
+        <source>Cannot start Urkoin: click-to-pay handler</source>
+        <translation>Urkoin を起動できません: click-to-pay handler</translation>
     </message>
     <message>
         <source>Error communicating with %1: %2</source>
@@ -1074,8 +1074,8 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1086,8 +1086,8 @@ Address: %4
         <translation>エラー：　-regtestと-testnetは一緒にするのは無効です。</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryplyアドレスを入力します (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Urkoinアドレスを入力します (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1204,16 +1204,16 @@ Address: %4
         <translation>デバッグ用ログファイル</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>現在のデータ ディレクトリから Cryply のデバッグ用ログファイルを開きます。ログファイルが大規模な場合には数秒かかることがあります。</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>現在のデータ ディレクトリから Urkoin のデバッグ用ログファイルを開きます。ログファイルが大規模な場合には数秒かかることがあります。</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>コンソールをクリア</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Cryply RPC コンソールへようこそ。</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Urkoin RPC コンソールへようこそ。</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1605,8 +1605,8 @@ Address: %4
         <translation>現在の署名をシステムのクリップボードにコピーする</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>この Cryply アドレスを所有していることを証明するためにメッセージに署名</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>この Urkoin アドレスを所有していることを証明するためにメッセージに署名</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -1633,8 +1633,8 @@ Address: %4
         <translation>メッセージが署名されたアドレス (例 CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>指定された Cryply アドレスで署名されたことを保証するメッセージを検証</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>指定された Urkoin アドレスで署名されたことを保証するメッセージを検証</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -1645,8 +1645,8 @@ Address: %4
         <translation>入力項目の内容をすべて消去します</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply アドレスを入力します (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Urkoin アドレスを入力します (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -1704,12 +1704,12 @@ Address: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Coreの開発者</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Coreの開発者</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2151,12 +2151,12 @@ Address: %4
         <translation>オプション:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>設定ファイルの指定 (初期値: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>設定ファイルの指定 (初期値: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>pid ファイルの指定 (初期値: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>pid ファイルの指定 (初期値: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2199,8 +2199,8 @@ Address: %4
         <translation>コマンドラインと JSON-RPC コマンドを許可</translation>
     </message>
     <message>
-        <source>Cryply Core RPC client version</source>
-        <translation>Cryply Core RPCクライアントのバージョン</translation>
+        <source>Urkoin Core RPC client version</source>
+        <translation>Urkoin Core RPCクライアントのバージョン</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2218,24 +2218,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s, rpcpassword を設定ファイルで設定してください:
 %s
 下記のランダムなパスワードの使用を推奨します:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (このパスワードを覚える必要はありません)
 ユーザー名とパスワードが同じであってはいけません。
 もしもファイルが存在しないなら、所有者だけが読み取れる権限で作成してください。
 また、問題が通知されるように alertnotify を設定することをお勧めします;
-例えば: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com</translation>
+例えば: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com</translation>
     </message>
     <message>
         <source>An error occurred while setting up the RPC port %u for listening on IPv6, falling back to IPv4: %s</source>
@@ -2270,8 +2270,8 @@ rpcpassword=%s
         <translation>警告: -paytxfee が非常に高く設定されています! これは取引を送信する場合に支払う取引手数料です。</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>警告: あなたのコンピュータの日時が正しいことを確認してください! 時計が間違っていると Cryply は正常に動作しません。</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>警告: あなたのコンピュータの日時が正しいことを確認してください! 時計が間違っていると Urkoin は正常に動作しません。</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2527,16 +2527,16 @@ rpcpassword=%s
         <translation>&lt;net&gt; (IPv4, IPv6, Tor) ネットワーク内のノードだけに接続する</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL オプション: (SSLのセットアップ手順はCryply Wikiを参照してください)</translation>
+        <source>RPC SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>RPC SSL オプション: (SSLのセットアップ手順はUrkoin Wikiを参照してください)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
         <translation>RPCサーバのオプション:</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL オプション: (SSLのセットアップ手順は Cryply Wiki をご覧下さい)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL オプション: (SSLのセットアップ手順は Urkoin Wiki をご覧下さい)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2663,12 +2663,12 @@ rpcpassword=%s
         <translation>wallet.dat 読み込みエラー: ウォレットが壊れました</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>wallet.dat 読み込みエラー: ウォレットは Cryply の最新バージョンを必要とします</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>wallet.dat 読み込みエラー: ウォレットは Urkoin の最新バージョンを必要とします</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>ウォレットが書き直される必要がありました: 完了するために Cryply を再起動します</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>ウォレットが書き直される必要がありました: 完了するために Urkoin を再起動します</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

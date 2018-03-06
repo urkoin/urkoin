@@ -1,4 +1,4 @@
-<TS language="th_TH" version="2.1">
+﻿<TS language="th_TH" version="2.1">
 <context>
     <name>AboutDialog</name>
     </context>
@@ -146,8 +146,8 @@
         <translation>ออกจากโปรแกรม</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>แสดงข้อมูลเกี่ยวกับ Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>แสดงข้อมูลเกี่ยวกับ Urkoin</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
@@ -178,8 +178,8 @@
         <translation>[testnet]</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย Cryply</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n ที่ใช้งานการเชื่อมต่อกับเครือข่าย Urkoin</numerusform></translation>
     </message>
     <message>
         <source>Up to date</source>

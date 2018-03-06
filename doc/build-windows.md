@@ -31,7 +31,7 @@ export PKG_CONFIG=/mxe/usr/bin/i686-w64-mingw32.static-pkg-config
 Configure and build
 ---------
 ```
-cd /cryply
+cd /urkoin
 ./autogen.sh
 ./configure --host=i686-w64-mingw32.static --with-incompatible-bdb --with-boost-system=boost_system-mt --with-boost-filesystem=boost_filesystem-mt --with-boost-program-options=boost_program_options-mt --with-boost-thread=boost_thread_win32-mt --with-boost-chrono=boost_chrono-mt --disable-tests
 make

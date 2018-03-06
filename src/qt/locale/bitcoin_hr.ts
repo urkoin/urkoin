@@ -2,8 +2,8 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>O Cryply Jezrgu</translation>
+        <source>About Urkoin Core</source>
+        <translation>O Urkoin Jezrgu</translation>
     </message>
     <message>
         <source>Copyright</source>
@@ -135,8 +135,8 @@
         <translation>Novčanik šifriran</translation>
     </message>
     <message>
-        <source>cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>cryply će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše cryplye od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
+        <source>urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>urkoin će se sada zatvoriti kako bi dovršio postupak šifriranja. Zapamtite da šifriranje vašeg novčanika ne može u potpunosti zaštititi vaše urkoine od krađe preko zloćudnog softvera koji bi bio na vašem računalu.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -202,8 +202,8 @@
         <translation>Izlazak iz programa</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Prikaži informacije o Cryplyu</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Prikaži informacije o Urkoinu</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -238,12 +238,12 @@
         <translation>Re-indeksiranje blokova na disku...</translation>
     </message>
     <message>
-        <source>Send coins to a cryply address</source>
-        <translation>Slanje novca na cryply adresu</translation>
+        <source>Send coins to a urkoin address</source>
+        <translation>Slanje novca na urkoin adresu</translation>
     </message>
     <message>
-        <source>Modify configuration options for cryply</source>
-        <translation>Promijeni postavke konfiguracije za cryply</translation>
+        <source>Modify configuration options for urkoin</source>
+        <translation>Promijeni postavke konfiguracije za urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -258,8 +258,8 @@
         <translation>&amp;Potvrdite poruku...</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -290,16 +290,16 @@
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Jezgra</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Jezgra</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply klijent</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin klijent</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n aktivna veza na Cryply mrežu</numerusform><numerusform>%n aktivne veze na Cryply mrežu</numerusform><numerusform>%n aktivnih veza na Cryply mrežu</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n aktivna veza na Urkoin mrežu</numerusform><numerusform>%n aktivne veze na Urkoin mrežu</numerusform><numerusform>%n aktivnih veza na Urkoin mrežu</numerusform></translation>
     </message>
     <message>
         <source>Processed %1 blocks of transaction history.</source>
@@ -431,8 +431,8 @@ Adresa:%4
         <translation>Upisana adresa "%1" je već u adresaru.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid cryply address.</source>
-        <translation>Upisana adresa "%1" nije valjana cryply adresa.</translation>
+        <source>The entered address "%1" is not a valid urkoin address.</source>
+        <translation>Upisana adresa "%1" nije valjana urkoin adresa.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -453,8 +453,8 @@ Adresa:%4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Jezgra</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Jezgra</translation>
     </message>
     <message>
         <source>version</source>
@@ -480,8 +480,8 @@ Adresa:%4
         <translation>Dobrodošli</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -510,20 +510,20 @@ Adresa:%4
         <translation>Plati &amp;naknadu za transakciju</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Automatski pokreni Cryply kad se uključi računalo</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Automatski pokreni Urkoin kad se uključi računalo</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;Pokreni Cryply kod pokretanja sustava</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;Pokreni Urkoin kod pokretanja sustava</translation>
     </message>
     <message>
         <source>&amp;Network</source>
         <translation>&amp;Mreža</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatski otvori port Cryply klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatski otvori port Urkoin klijenta na ruteru. To radi samo ako ruter podržava UPnP i ako je omogućen.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -571,7 +571,7 @@ Adresa:%4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Izaberite željeni najmanji dio cryplya koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
+        <translation>Izaberite željeni najmanji dio urkoina koji će biti prikazan u sučelju i koji će se koristiti za plaćanje.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -601,8 +601,8 @@ Adresa:%4
         <translation>Oblik</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Cryply mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Prikazani podatci mogu biti zastarjeli. Vaš novčanik se automatski sinkronizira s Urkoin mrežom kada je veza uspostavljena, ali taj proces još nije završen.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -627,12 +627,12 @@ Adresa:%4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite Cryply adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Unesite Urkoin adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -709,8 +709,8 @@ Adresa:%4
         <translation>Očisti konzolu</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Dobrodošli u Cryply RPC konzolu.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Dobrodošli u Urkoin RPC konzolu.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -911,7 +911,7 @@ Adresa:%4
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite Cryply adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Unesite Urkoin adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -943,11 +943,11 @@ Adresa:%4
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite Cryply adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Unesite Urkoin adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Unesite Cryply adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Unesite Urkoin adresu (npr. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Wallet unlock was cancelled.</source>
@@ -961,8 +961,8 @@ Adresa:%4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Jezgra</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Jezgra</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -1336,12 +1336,12 @@ Adresa:%4
         <translation>Postavke:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Odredi konfiguracijsku datoteku (ugrađeni izbor: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Odredi proces ID datoteku (ugrađeni izbor: cryply.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Odredi proces ID datoteku (ugrađeni izbor: urkoin.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1388,8 +1388,8 @@ Adresa:%4
         <translation>Upozorenje: -paytxfee je podešen na preveliki iznos.  To je iznos koji ćete platiti za obradu transakcije.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, Cryply neće raditi ispravno.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Upozorenje: Molimo provjerite jesu li datum i vrijeme na vašem računalu točni. Ako vaš sat ide krivo, Urkoin neće raditi ispravno.</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -1424,8 +1424,8 @@ Adresa:%4
         <translation>Prihvati samo lance blokova koji se podudaraju sa ugrađenim checkpoint-ovima (default: 1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi Cryply Wiki)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL postavke: (za detalje o podešavanju SSL opcija vidi Urkoin Wiki)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -1524,12 +1524,12 @@ Adresa:%4
         <translation>Greška kod učitavanja wallet.dat: Novčanik pokvaren</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju Cryplya</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Greška kod učitavanja wallet.dat: Novčanik zahtjeva noviju verziju Urkoina</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Novčanik je trebao prepravak: ponovo pokrenite Cryply</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Novčanik je trebao prepravak: ponovo pokrenite Urkoin</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

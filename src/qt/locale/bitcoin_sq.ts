@@ -146,7 +146,7 @@
         <translation>Mbyllni aplikacionin</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
+        <source>Show information about Urkoin</source>
         <translation>Trego informacionin rreth Botkoin-it</translation>
     </message>
     <message>
@@ -178,7 +178,7 @@
         <translation>[testo rrjetin]</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation><numerusform>%n lidhje aktive me rrjetin e Bitkoin</numerusform><numerusform>%n lidhje aktive me rrjetin e Bitkoin</numerusform></translation>
     </message>
     <message>
@@ -307,7 +307,7 @@
 <context>
     <name>QObject</name>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Futni një adresë Bitkoini (p.sh. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
@@ -438,7 +438,7 @@
         <translation>Alt+P</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
         <translation>Futni një adresë Bitkoini (p.sh. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     </context>

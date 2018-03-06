@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>A Cryply Core-ról</translation>
+        <source>About Urkoin Core</source>
+        <translation>A Urkoin Core-ról</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply&lt;/b&gt; verzió</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin&lt;/b&gt; verzió</translation>
     </message>
     <message>
         <source>
@@ -27,8 +27,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Copyright</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>A Cryply Core fejlesztői</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>A Urkoin Core fejlesztői</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -102,12 +102,12 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Fogadó címek</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Ezekkel a Cryply-címekkel küldhetsz kifizetéseket. Mindig ellenőrizd a fogadó címet és a fizetendő összeget, mielőtt elküldöd.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Ezekkel a Urkoin-címekkel küldhetsz kifizetéseket. Mindig ellenőrizd a fogadó címet és a fizetendő összeget, mielőtt elküldöd.</translation>
     </message>
     <message>
-        <source>These are your cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Ezekkel a címekkel fogadhatsz cryplyt. Ajánlott minden tranzakciónál egy új fogadó címet használni.</translation>
+        <source>These are your urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Ezekkel a címekkel fogadhatsz urkoint. Ajánlott minden tranzakciónál egy új fogadó címet használni.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -220,8 +220,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Tárca kódolva</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin will close now to finish the encryption process. Ne feledd, hogy a tárca titkosítása sem nyújt teljes védelmet az adathalász programok fertőzésével szemben.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -291,8 +291,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Kilépés</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Információk a Cryplyról</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Információk a Urkoinról</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -339,12 +339,12 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>A blokkok lemezen történő ujraindexelése...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
+        <source>Send coins to a Urkoin address</source>
         <translation>Érmék küldése megadott címre</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Cryply konfigurációs opciók</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Urkoin konfigurációs opciók</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -367,8 +367,8 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>Üzenet &amp;valódiságának ellenőrzése</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -395,12 +395,12 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>A pénztárcájához tartozó privát kulcsok titkosítása</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Üzenet aláírása a Cryply címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Üzenet aláírása a Urkoin címmel, amivel bizonyítja, hogy a cím az ön tulajdona.</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt Cryply címekkel vannak-e alaírva</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Annak ellenőrzése, hogy az üzenetek valóban a megjelölt Urkoin címekkel vannak-e alaírva</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -423,16 +423,16 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>[teszthálózat]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>urkoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>Kifizetési kérelem (QR-kódot és "cryply:" azonosítót (URI-t) hoz létre)</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>Kifizetési kérelem (QR-kódot és "urkoin:" azonosítót (URI-t) hoz létre)</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
-        <translation>&amp;A Cryply Core-ról</translation>
+        <source>&amp;About urkoin Core</source>
+        <translation>&amp;A Urkoin Core-ról</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -443,24 +443,24 @@ Ez a termék az OpenSSL Project által lett kifejlesztve az OpenSSL Toolkit (htt
         <translation>A használt fogadó címek és címkék megtekintése</translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
-        <translation>"cryply:" URI azonosító vagy fizetési kérelem megnyitása</translation>
+        <source>Open a urkoin: URI or payment request</source>
+        <translation>"urkoin:" URI azonosító vagy fizetési kérelem megnyitása</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Paran&amp;cssor kapcsolók</translation>
     </message>
     <message>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
-        <translation>A Cryply Core súgóüzenet megjelenítése a Cryply lehetséges parancssori kapcsolóival.</translation>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
+        <translation>A Urkoin Core súgóüzenet megjelenítése a Urkoin lehetséges parancssori kapcsolóival.</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply kliens</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin kliens</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n aktív kapcsolat a Cryply-hálózattal</numerusform><numerusform>%n aktív kapcsolat a Cryply-hálózattal</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n aktív kapcsolat a Urkoin-hálózattal</numerusform><numerusform>%n aktív kapcsolat a Urkoin-hálózattal</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -551,8 +551,8 @@ Cím: %4
         <translation>Tárca &lt;b&gt;kódolva&lt;/b&gt; és jelenleg &lt;b&gt;zárva&lt;/b&gt;.</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Végzetes hiba történt. A Cryply működése nem biztonságos és hamarosan leáll.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Végzetes hiba történt. A Urkoin működése nem biztonságos és hamarosan leáll.</translation>
     </message>
 </context>
 <context>
@@ -812,8 +812,8 @@ Cím: %4
         <translation>A megadott "%1" cím már szerepel a címjegyzékben.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>A megadott "%1" cím nem egy érvényes Cryply-cím.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>A megadott "%1" cím nem egy érvényes Urkoin-cím.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -846,8 +846,8 @@ Cím: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -894,12 +894,12 @@ Cím: %4
         <translation>Üdvözlünk</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Üdvözlünk a Cryply Core-ban.</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Üdvözlünk a Urkoin Core-ban.</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -952,11 +952,11 @@ Cím: %4
         <translation>Tranzakciós &amp;díj fizetése</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Induljon el a Cryply a számítógép bekapcsolásakor</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Induljon el a Urkoin a számítógép bekapcsolásakor</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
+        <source>&amp;Start Urkoin on system login</source>
         <translation>&amp;Induljon el a számítógép bekapcsolásakor</translation>
     </message>
     <message>
@@ -964,8 +964,8 @@ Cím: %4
         <translation>MB</translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
-        <translation>SOCKS proxyn keresztüli csatlakozás a Cryply hálózatához.</translation>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
+        <translation>SOCKS proxyn keresztüli csatlakozás a Urkoin hálózatához.</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -980,8 +980,8 @@ Cím: %4
         <translation>&amp;Hálózat</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>A Cryply-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>A Urkoin-kliens portjának automatikus megnyitása a routeren. Ez csak akkor működik, ha a routered támogatja az UPnP-t és az engedélyezve is van rajta.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1036,8 +1036,8 @@ Cím: %4
         <translation>Felhasználófelület nye&amp;lve:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Itt beállíthatod a felhasználófelület nyelvét. Ez a beállítás a Cryply ujraindítása után lép érvénybe.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Itt beállíthatod a felhasználófelület nyelvét. Ez a beállítás a Urkoin ujraindítása után lép érvénybe.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1048,8 +1048,8 @@ Cím: %4
         <translation>Válaszd ki az interfészen és érmék küldésekor megjelenítendő alapértelmezett alegységet.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Mutassa-e a Cryply címeket a tranzakciólistában.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Mutassa-e a Urkoin címeket a tranzakciólistában.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1087,8 +1087,8 @@ Cím: %4
         <translation>Űrlap</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Cryply hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>A kijelzett információ lehet, hogy elavult. A pénztárcája automatikusan szinkronizálja magát a Urkoin hálózattal miután a kapcsolat létrejön, de ez e folyamat még nem fejeződött be.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1142,19 +1142,19 @@ Cím: %4
         <translation>URI kezelés</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
-        <translation>A cryplyt nem lehet elindítani: click-to-pay handler</translation>
+        <source>Cannot start urkoin: click-to-pay handler</source>
+        <translation>A urkoint nem lehet elindítani: click-to-pay handler</translation>
     </message>
     </context>
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Adj meg egy Cryply-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Adj meg egy Urkoin-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
     </message>
 </context>
 <context>
@@ -1271,8 +1271,8 @@ Cím: %4
         <translation>Konzol törlése</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Üdv a Cryply RPC konzoljában!</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Üdv a Urkoin RPC konzoljában!</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1508,7 +1508,7 @@ Cím: %4
     </message>
     <message>
         <source>The amount exceeds your balance.</source>
-        <translation>Nincs ennyi cryply az egyenlegeden.</translation>
+        <translation>Nincs ennyi urkoin az egyenlegeden.</translation>
     </message>
     <message>
         <source>The total exceeds your balance when the %1 transaction fee is included.</source>
@@ -1566,8 +1566,8 @@ Cím: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>A Cryply Core leáll...</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>A Urkoin Core leáll...</translation>
     </message>
     </context>
 <context>
@@ -1586,7 +1586,7 @@ Cím: %4
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Adj meg egy Cryply-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
+        <translation>Adj meg egy Urkoin-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -1613,7 +1613,7 @@ Cím: %4
         <translation>A jelenleg kiválasztott aláírás másolása a rendszer-vágólapra</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
+        <source>Sign the message to prove you own this Urkoin address</source>
         <translation>Üzenet </translation>
     </message>
     <message>
@@ -1634,11 +1634,11 @@ Cím: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Adj meg egy Cryply-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
+        <translation>Adj meg egy Urkoin-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Adj meg egy Cryply-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Adj meg egy Urkoin-címet (pl.: CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L )</translation>
     </message>
     <message>
         <source>The entered address is invalid.</source>
@@ -1680,12 +1680,12 @@ Cím: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>A Cryply Core fejlesztői</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>A Urkoin Core fejlesztői</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2102,13 +2102,13 @@ Cím: %4
 </translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Konfigurációs fájl (alapértelmezett: cryply.conf)
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Konfigurációs fájl (alapértelmezett: urkoin.conf)
 </translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>pid-fájl (alapértelmezett: cryplyd.pid)
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>pid-fájl (alapértelmezett: urkoind.pid)
 </translation>
     </message>
     <message>
@@ -2180,8 +2180,8 @@ Cím: %4
         <translation>Figyelem: a -paytxfee nagyon magas.  Ennyi tranzakciós díjat fogsz fizetni, ha elküldöd a tranzakciót.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A Cryply nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Figyelem: Ellenőrizd, hogy helyesen van-e beállítva a gépeden a dátum és az idő.  A Urkoin nem fog megfelelően működni, ha rosszul van beállítvaaz órád.</translation>
     </message>
     <message>
         <source>Connect only to the specified node(s)</source>
@@ -2332,8 +2332,8 @@ Cím: %4
         <translation>Csak a &lt;net&gt; hálózat csomópontjaihoz kapcsolódjon (IPv4, IPv6 vagy Tor)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL-opciók: (lásd a Cryply Wiki SSL-beállítási instrukcióit)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-opciók: (lásd a Urkoin Wiki SSL-beállítási instrukcióit)</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -2454,12 +2454,12 @@ Cím: %4
         <translation>Hiba a wallet.dat betöltése közben: meghibásodott tárca</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú Cryply-kliens szükséges</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Hiba a wallet.dat betöltése közben: ehhez a tárcához újabb verziójú Urkoin-kliens szükséges</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a Cryply-t</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>A Tárca újraírása szükséges: Indítsa újra a teljesen a Urkoin-t</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>
@@ -2495,7 +2495,7 @@ Cím: %4
     </message>
     <message>
         <source>Insufficient funds</source>
-        <translation>Nincs elég cryplyod.</translation>
+        <translation>Nincs elég urkoinod.</translation>
     </message>
     <message>
         <source>Loading block index...</source>

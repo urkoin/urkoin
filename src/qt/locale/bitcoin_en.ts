@@ -5,12 +5,12 @@
     <name>AboutDialog</name>
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
-        <source>About Cryply Core</source>
+        <source>About Urkoin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+39"/>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -35,7 +35,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+0"/>
-        <source>The Cryply Core developers</source>
+        <source>The Urkoin Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -129,12 +129,12 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</translation>
     </message>
     <message>
         <location line="+4"/>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -282,8 +282,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-56"/>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</translation>
     </message>
     <message>
         <location line="+13"/>
@@ -328,9 +328,9 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
 </context>
 <context>
-    <name>cryplyGUI</name>
+    <name>urkoinGUI</name>
     <message>
-        <location filename="../cryplygui.cpp" line="+294"/>
+        <location filename="../urkoingui.cpp" line="+294"/>
         <source>Sign &amp;message...</source>
         <translation>Sign &amp;message...</translation>
     </message>
@@ -376,8 +376,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Show information about Cryply</source>
-        <translation>Show information about Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Show information about Urkoin</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -437,13 +437,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-405"/>
-        <source>Send coins to a Cryply address</source>
-        <translation>Send coins to a Cryply address</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Send coins to a Urkoin address</translation>
     </message>
     <message>
         <location line="+49"/>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Modify configuration options for Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Modify configuration options for Urkoin</translation>
     </message>
     <message>
         <location line="+12"/>
@@ -472,8 +472,8 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+440"/>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <location line="-652"/>
@@ -508,13 +508,13 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+7"/>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Sign messages with your Cryply addresses to prove you own them</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Sign messages with your Urkoin addresses to prove you own them</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Verify messages to ensure they were signed with specified Cryply addresses</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Verify messages to ensure they were signed with specified Urkoin addresses</translation>
     </message>
     <message>
         <location line="+48"/>
@@ -544,18 +544,18 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="-400"/>
-        <source>Cryply Core</source>
-        <translation type="unfinished">Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation type="unfinished">Urkoin Core</translation>
     </message>
     <message>
         <location line="+162"/>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+29"/>
         <location line="+2"/>
-        <source>&amp;About Cryply Core</source>
+        <source>&amp;About Urkoin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -570,7 +570,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+3"/>
-        <source>Open a cryply: URI or payment request</source>
+        <source>Open a urkoin: URI or payment request</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -580,21 +580,21 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <location line="+1"/>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+159"/>
         <location line="+5"/>
-        <source>Cryply client</source>
-        <translation>Cryply client</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin client</translation>
     </message>
     <message numerus="yes">
         <location line="+142"/>
-        <source>%n active connection(s) to Cryply network</source>
+        <source>%n active connection(s) to Urkoin network</source>
         <translation>
-            <numerusform>%n active connection to Cryply network</numerusform>
-            <numerusform>%n active connections to Cryply network</numerusform>
+            <numerusform>%n active connection to Urkoin network</numerusform>
+            <numerusform>%n active connections to Urkoin network</numerusform>
         </translation>
     </message>
     <message>
@@ -724,9 +724,9 @@ Address: %4
         <translation>Wallet is &lt;b&gt;encrypted&lt;/b&gt; and currently &lt;b&gt;locked&lt;/b&gt;</translation>
     </message>
     <message>
-        <location filename="../cryply.cpp" line="+447"/>
-        <source>A fatal error occurred. cryply can no longer continue safely and will quit.</source>
-        <translation>A fatal error occurred. cryply can no longer continue safely and will quit.</translation>
+        <location filename="../urkoin.cpp" line="+447"/>
+        <source>A fatal error occurred. urkoin can no longer continue safely and will quit.</source>
+        <translation>A fatal error occurred. urkoin can no longer continue safely and will quit.</translation>
     </message>
 </context>
 <context>
@@ -1083,8 +1083,8 @@ Address: %4
     </message>
     <message>
         <location line="-5"/>
-        <source>The entered address &quot;%1&quot; is not a valid Cryply address.</source>
-        <translation>The entered address &quot;%1&quot; is not a valid Cryply address.</translation>
+        <source>The entered address &quot;%1&quot; is not a valid Urkoin address.</source>
+        <translation>The entered address &quot;%1&quot; is not a valid Urkoin address.</translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1129,13 +1129,13 @@ Address: %4
     <name>HelpMessageDialog</name>
     <message>
         <location filename="../forms/helpmessagedialog.ui" line="+19"/>
-        <source>Cryply Core - Command-line options</source>
+        <source>Urkoin Core - Command-line options</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../utilitydialog.cpp" line="+24"/>
-        <source>Cryply Core</source>
-        <translation type="unfinished">Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation type="unfinished">Urkoin Core</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1192,17 +1192,17 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Welcome to Cryply Core.</source>
+        <source>Welcome to Urkoin Core.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+26"/>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location line="+10"/>
-        <source>Cryply Core will download and store a copy of the Cryply block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <source>Urkoin Core will download and store a copy of the Urkoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1217,8 +1217,8 @@ Address: %4
     </message>
     <message>
         <location filename="../intro.cpp" line="+82"/>
-        <source>Cryply</source>
-        <translation type="unfinished">Cryply</translation>
+        <source>Urkoin</source>
+        <translation type="unfinished">Urkoin</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1293,13 +1293,13 @@ Address: %4
     </message>
     <message>
         <location line="-125"/>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Automatically start Cryply after logging in to the system.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Automatically start Urkoin after logging in to the system.</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>&amp;Start Cryply on system login</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>&amp;Start Urkoin on system login</translation>
     </message>
     <message>
         <location line="+9"/>
@@ -1318,7 +1318,7 @@ Address: %4
     </message>
     <message>
         <location line="+160"/>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1394,8 +1394,8 @@ Address: %4
     </message>
     <message>
         <location line="+17"/>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1464,8 +1464,8 @@ Address: %4
     </message>
     <message>
         <location line="+13"/>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>The user interface language can be set here. This setting will take effect after restarting Cryply.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>The user interface language can be set here. This setting will take effect after restarting Urkoin.</translation>
     </message>
     <message>
         <location line="+11"/>
@@ -1479,8 +1479,8 @@ Address: %4
     </message>
     <message>
         <location line="+9"/>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Whether to show Cryply addresses in the transaction list or not.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Whether to show Urkoin addresses in the transaction list or not.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1549,8 +1549,8 @@ Address: %4
     <message>
         <location line="+50"/>
         <location line="+231"/>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</translation>
     </message>
     <message>
         <location line="-238"/>
@@ -1619,8 +1619,8 @@ Address: %4
     </message>
     <message>
         <location line="+1"/>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation type="unfinished">URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation type="unfinished">URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</translation>
     </message>
     <message>
         <location line="+96"/>
@@ -1639,7 +1639,7 @@ Address: %4
     </message>
     <message>
         <location line="-353"/>
-        <source>Cannot start cryply: click-to-pay handler</source>
+        <source>Cannot start urkoin: click-to-pay handler</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -1706,11 +1706,11 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <location filename="../cryply.cpp" line="+71"/>
+        <location filename="../urkoin.cpp" line="+71"/>
         <location line="+7"/>
         <location line="+13"/>
-        <source>cryply</source>
-        <translation>Cryply</translation>
+        <source>urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <location line="-19"/>
@@ -1729,13 +1729,13 @@ Address: %4
     </message>
     <message>
         <location line="+60"/>
-        <source>Cryply Core didn&apos;t yet exit safely...</source>
+        <source>Urkoin Core didn&apos;t yet exit safely...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../guiutil.cpp" line="+89"/>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation type="unfinished">Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation type="unfinished">Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1897,8 +1897,8 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</translation>
     </message>
     <message>
         <location line="+76"/>
@@ -1907,8 +1907,8 @@ Address: %4
     </message>
     <message>
         <location filename="../rpcconsole.cpp" line="-35"/>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Welcome to the Cryply RPC console.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Welcome to the Urkoin RPC console.</translation>
     </message>
     <message>
         <location line="+1"/>
@@ -1986,7 +1986,7 @@ Address: %4
     <message>
         <location line="+14"/>
         <location line="+23"/>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Cryply network.</source>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Urkoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2382,7 +2382,7 @@ Address: %4
     </message>
     <message>
         <location line="+113"/>
-        <source>Warning: Invalid Cryply address</source>
+        <source>Warning: Invalid Urkoin address</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2494,7 +2494,7 @@ Address: %4
     </message>
     <message>
         <location line="+33"/>
-        <source>A message that was attached to the cryply: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the cryply network.</source>
+        <source>A message that was attached to the urkoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the urkoin network.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2519,7 +2519,7 @@ Address: %4
     <name>ShutdownWindow</name>
     <message>
         <location filename="../utilitydialog.cpp" line="+52"/>
-        <source>Cryply Core is shutting down...</source>
+        <source>Urkoin Core is shutting down...</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -2589,8 +2589,8 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Sign the message to prove you own this Cryply address</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Sign the message to prove you own this Urkoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2625,8 +2625,8 @@ Address: %4
     </message>
     <message>
         <location line="+37"/>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Verify the message to ensure it was signed with the specified Cryply address</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Verify the message to ensure it was signed with the specified Urkoin address</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -2640,8 +2640,8 @@ Address: %4
     </message>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+30"/>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -2719,12 +2719,12 @@ Address: %4
     <name>SplashScreen</name>
     <message>
         <location filename="../splashscreen.cpp" line="+32"/>
-        <source>Cryply Core</source>
-        <translation type="unfinished">Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation type="unfinished">Urkoin Core</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>The Cryply Core developers</source>
+        <source>The Urkoin Core developers</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3341,13 +3341,13 @@ Address: %4
     </message>
     <message>
         <location line="+32"/>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Specify configuration file (default: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Specify configuration file (default: urkoin.conf)</translation>
     </message>
     <message>
         <location line="+3"/>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Specify pid file (default: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Specify pid file (default: urkoind.pid)</translation>
     </message>
     <message>
         <location line="-1"/>
@@ -3401,7 +3401,7 @@ Address: %4
     </message>
     <message>
         <location line="+7"/>
-        <source>Cryply Core RPC client version</source>
+        <source>Urkoin Core RPC client version</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3424,24 +3424,24 @@ Address: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Urkoin Alert&quot; admin@foo.com
 </source>
         <translation>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.com
+for example: alertnotify=echo %%s | mail -s &quot;Urkoin Alert&quot; admin@foo.com
 </translation>
     </message>
     <message>
@@ -3531,7 +3531,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Unable to bind to %s on this computer. Cryply Core is probably already running.</source>
+        <source>Unable to bind to %s on this computer. Urkoin Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3546,8 +3546,8 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+3"/>
-        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Cryply will not work properly.</translation>
+        <source>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Warning: Please check that your computer&apos;s date and time are correct! If your clock is wrong Urkoin will not work properly.</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -3591,7 +3591,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Cryply Core Daemon</source>
+        <source>Urkoin Core Daemon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3851,7 +3851,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+10"/>
-        <source>Usage (deprecated, use cryply-cli):</source>
+        <source>Usage (deprecated, use urkoin-cli):</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3896,7 +3896,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="-150"/>
-        <source>Cannot obtain a lock on data directory %s. Cryply Core is probably already running.</source>
+        <source>Cannot obtain a lock on data directory %s. Urkoin Core is probably already running.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -3976,7 +3976,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>RPC SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
+        <source>RPC SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4001,12 +4001,12 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+2"/>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL options: (see the Cryply Wiki for SSL setup instructions)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL options: (see the Urkoin Wiki for SSL setup instructions)</translation>
     </message>
     <message>
         <location line="+2"/>
-        <source>Send command to Cryply Core</source>
+        <source>Send command to Urkoin Core</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4051,7 +4051,7 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+6"/>
-        <source>Start Cryply Core Daemon</source>
+        <source>Start Urkoin Core Daemon</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4196,13 +4196,13 @@ for example: alertnotify=echo %%s | mail -s &quot;Cryply Alert&quot; admin@foo.c
     </message>
     <message>
         <location line="+1"/>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Error loading wallet.dat: Wallet requires newer version of Cryply</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Error loading wallet.dat: Wallet requires newer version of Urkoin</translation>
     </message>
     <message>
         <location line="+113"/>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Wallet needed to be rewritten: restart Cryply to complete</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Wallet needed to be rewritten: restart Urkoin to complete</translation>
     </message>
     <message>
         <location line="-115"/>

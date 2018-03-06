@@ -1,6 +1,6 @@
-Cryply Core is now available from:
+Urkoin Core is now available from:
 
-  https://git.luckypool.org/cryply
+  https://git.luckypool.org/urkoin
 
 This is a new version release.
 
@@ -10,7 +10,7 @@ Upgrading and downgrading
 How to Upgrade
 --------------
 
-Overwrite cryplyd, cryply-cli, or cryply-qt
+Overwrite urkoind, urkoin-cli, or urkoin-qt
 
 If you are upgrading from version earlier, the first time you run
 core your blockchain files will be re-indexed, which will take anywhere from

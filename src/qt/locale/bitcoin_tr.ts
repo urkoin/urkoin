@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Cryply Çekirdeği hakkında</translation>
+        <source>About Urkoin Core</source>
+        <translation>Urkoin Çekirdeği hakkında</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply Çekirdek&lt;/b&gt; sürümü</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin Çekirdek&lt;/b&gt; sürümü</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Telif hakkı</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Çekirdeği geliştiricileri</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Çekirdeği geliştiricileri</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -84,11 +84,11 @@ This product includes software developed by the OpenSSL Project for use in the O
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Cryply yollanacak adresi seç</translation>
+        <translation>Urkoin yollanacak adresi seç</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Cryply alınacak adresi seç</translation>
+        <translation>Urkoin alınacak adresi seç</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -103,12 +103,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Alım adresleri</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Bunlar ödeme yapmak için kullanacağınız Cryply adreslerinizdir. Cryply yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Bunlar ödeme yapmak için kullanacağınız Urkoin adreslerinizdir. Urkoin yollamadan önce meblağı ve alıcı adresini daima kontrol ediniz.</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Bunlar ödeme almak için kullanacağınız Cryply adreslerinizdir. Her muamele için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Bunlar ödeme almak için kullanacağınız Urkoin adreslerinizdir. Her muamele için yeni bir alım adresi kullanmanız tavsiye edilir.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -225,8 +225,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Cüzdan şifrelendi</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Şifreleme işlemini tamamlamak için Cryply şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Cryplylerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Şifreleme işlemini tamamlamak için Urkoin şimdi kapanacaktır. Cüzdanınızı şifrelemenin, Urkoinlerinizin bilgisayara bulaşan kötücül bir yazılım tarafından çalınmaya karşı tamamen koruyamayacağını unutmayınız.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -296,8 +296,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Uygulamadan çık</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Cryply hakkında bilgi göster</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Urkoin hakkında bilgi göster</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Diskteki bloklar yeniden endeksleniyor...</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Bir Cryply adresine Cryply yolla</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Bir Urkoin adresine Urkoin yolla</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Cryply seçeneklerinin yapılandırmasını değiştir</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Urkoin seçeneklerinin yapılandırmasını değiştir</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Mesaj &amp;kontrol et...</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Cüzdanınızın özel anahtarlarını şifrele</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için Cryply adresleri ile imzala</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Mesajları adreslerin size ait olduğunu ispatlamak için Urkoin adresleri ile imzala</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Belirtilen Cryply adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Belirtilen Urkoin adresleri ile imzalandıklarından emin olmak için mesajları kontrol et</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,16 +428,16 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>cryply Çekirdeği</translation>
+        <source>Urkoin Core</source>
+        <translation>urkoin Çekirdeği</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>Ödeme talep et (QR kodu ve cryply URI'si oluşturur)</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>Ödeme talep et (QR kodu ve urkoin URI'si oluşturur)</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
-        <translation>Cryply Çekirdeği &amp;hakkında</translation>
+        <source>&amp;About urkoin Core</source>
+        <translation>Urkoin Çekirdeği &amp;hakkında</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -448,24 +448,24 @@ This product includes software developed by the OpenSSL Project for use in the O
         <translation>Kullanılmış alım adresleri ve etiketlerin listesini göster</translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
-        <translation>Bir cryply: bağlantısı ya da ödeme talebi aç</translation>
+        <source>Open a urkoin: URI or payment request</source>
+        <translation>Bir urkoin: bağlantısı ya da ödeme talebi aç</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>&amp;Komut satırı seçenekleri</translation>
     </message>
     <message>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
-        <translation>Cryply komut satırı seçeneklerinin listesini elde etmek için Cryply Çekirdeği yardım mesajını göster</translation>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
+        <translation>Urkoin komut satırı seçeneklerinin listesini elde etmek için Urkoin Çekirdeği yardım mesajını göster</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply istemcisi</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin istemcisi</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>Cryply şebekesine %n faal bağlantı</numerusform><numerusform>Cryply şebekesine %n faal bağlantı</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>Urkoin şebekesine %n faal bağlantı</numerusform><numerusform>Urkoin şebekesine %n faal bağlantı</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -560,8 +560,8 @@ Adres: %4
         <translation>Cüzdan &lt;b&gt;şifrelenmiştir&lt;/b&gt; ve şu anda &lt;b&gt;kilitlidir&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Ciddi bir hata oluştu. Cryply artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Ciddi bir hata oluştu. Urkoin artık güvenli bir şekilde işlemeye devam edemez ve kapanacaktır.</translation>
     </message>
 </context>
 <context>
@@ -845,8 +845,8 @@ Adres: %4
         <translation>Girilen "%1" adresi hâlihazırda adres defterinde mevcuttur.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Girilen "%1" adresi geçerli bir Cryply adresi değildir.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Girilen "%1" adresi geçerli bir Urkoin adresi değildir.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -883,12 +883,12 @@ Adres: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core - Command-line options</source>
-        <translation>Cryply Çekirdeği - Komut satırı seçenekleri</translation>
+        <source>Urkoin Core - Command-line options</source>
+        <translation>Urkoin Çekirdeği - Komut satırı seçenekleri</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Çekirdeği</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Çekirdeği</translation>
     </message>
     <message>
         <source>version</source>
@@ -934,16 +934,16 @@ Adres: %4
         <translation>Hoş geldiniz</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Cryply Çekirdeğine hoş geldiniz.</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Urkoin Çekirdeğine hoş geldiniz.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
-        <translation>Bu programı ilk kez başlattığınızdan dolayı Cryply Çekirdeğinin verilerini nereye saklayacağını seçebilirsiniz.</translation>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
+        <translation>Bu programı ilk kez başlattığınızdan dolayı Urkoin Çekirdeğinin verilerini nereye saklayacağını seçebilirsiniz.</translation>
     </message>
     <message>
-        <source>Cryply Core will download and store a copy of the Cryply block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Cryply çekirdeği Cryply blok zincirinin bir kopyasını indirip saklayacaktır. Asgari %1GB bouyutunda veri bu klasörde saklanacak ve zamanla bu boyut artacaktır. Cüzdan da bu klasörde saklanacaktır. </translation>
+        <source>Urkoin Core will download and store a copy of the Urkoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Urkoin çekirdeği Urkoin blok zincirinin bir kopyasını indirip saklayacaktır. Asgari %1GB bouyutunda veri bu klasörde saklanacak ve zamanla bu boyut artacaktır. Cüzdan da bu klasörde saklanacaktır. </translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -954,8 +954,8 @@ Adres: %4
         <translation>Özel bir veri klasörü kullan:</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -1016,12 +1016,12 @@ Adres: %4
         <translation>Muamele ücreti &amp;öde</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Sistemde oturum açıldığında Cryply'i otomatik olarak başlat.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Sistemde oturum açıldığında Urkoin'i otomatik olarak başlat.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>Cryply'i sistem oturumuyla &amp;başlat</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>Urkoin'i sistem oturumuyla &amp;başlat</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1036,8 +1036,8 @@ Adres: %4
         <translation>İş parçacıklarını &amp;denetleme betiği sayısı</translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
-        <translation>Cryply şebekesine bir SOCKS vekil sunucusu vasıtasıyla bağlan.</translation>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
+        <translation>Urkoin şebekesine bir SOCKS vekil sunucusu vasıtasıyla bağlan.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1096,8 +1096,8 @@ Adres: %4
         <translation>Teyit edilmemiş para üstünü &amp;harca</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Yönlendiricide Cryply istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Yönlendiricide Urkoin istemci portlarını otomatik olarak açar. Bu, sadece yönlendiricinizin UPnP desteği bulunuyorsa ve etkinse çalışabilir.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1152,8 +1152,8 @@ Adres: %4
         <translation>Kullanıcı arayüzü &amp;lisanı:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Cryply tekrar başlatıldığında etkinleşecektir.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Kullanıcı arayüzünün dili burada belirtilebilir. Bu ayar Urkoin tekrar başlatıldığında etkinleşecektir.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1161,11 +1161,11 @@ Adres: %4
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
-        <translation>Cryply gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
+        <translation>Urkoin gönderildiğinde arayüzde gösterilecek varsayılan alt birimi seçiniz.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Muamele listesinde Cryply adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Muamele listesinde Urkoin adreslerinin gösterilip gösterilmeyeceklerini belirler.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1219,7 +1219,7 @@ Adres: %4
         <translation>Form</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
         <translation>Görüntülenen veriler zaman aşımına uğramış olabilir. Bağlantı kurulduğunda cüzdanınız otomatik olarak şebeke ile eşleşir ancak bu işlem henüz tamamlanmamıştır.</translation>
     </message>
     <message>
@@ -1274,8 +1274,8 @@ Adres: %4
         <translation>URI yönetimi</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>URI okunamadı! Sebebi geçersiz bir Cryply adresi veya hatalı URI parametreleri olabilir.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>URI okunamadı! Sebebi geçersiz bir Urkoin adresi veya hatalı URI parametreleri olabilir.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1286,8 +1286,8 @@ Adres: %4
         <translation>Ödeme talebi hatası</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
-        <translation>cryply başlatılamadı: tıkla-ve-öde yöneticisi</translation>
+        <source>Cannot start urkoin: click-to-pay handler</source>
+        <translation>urkoin başlatılamadı: tıkla-ve-öde yöneticisi</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1341,8 +1341,8 @@ Adres: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1357,12 +1357,12 @@ Adres: %4
         <translation>Hata: -regtest ve -testnet'in geçersiz kombinasyonu.</translation>
     </message>
     <message>
-        <source>Cryply Core didn't yet exit safely...</source>
-        <translation>Cryply Çekirdeği henüz güvenli bir şekilde çıkış yapmamıştır...</translation>
+        <source>Urkoin Core didn't yet exit safely...</source>
+        <translation>Urkoin Çekirdeği henüz güvenli bir şekilde çıkış yapmamıştır...</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply adresi giriniz (mesela CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Urkoin adresi giriniz (mesela CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1483,16 +1483,16 @@ Adres: %4
         <translation>Hata ayıklama kütük dosyası</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Güncel veri klasöründen Cryply hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Güncel veri klasöründen Urkoin hata ayıklama kütük dosyasını açar. Büyük kütük dosyaları için bu birkaç saniye alabilir.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Konsolu temizle</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Cryply RPC konsoluna hoş geldiniz.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Urkoin RPC konsoluna hoş geldiniz.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1554,8 +1554,8 @@ Adres: %4
         <translation>&amp;Hâlihazırda bulunan bir alım adresini kullan (önerilmez)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Cryply network.</source>
-        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir mesaj. Not: Bu mesaj ödeme ile birlikte Cryply şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Urkoin network.</source>
+        <translation>Talep açıldığında gösterilecek, isteğinize dayalı, ödeme talebi ile ilişkilendirilecek bir mesaj. Not: Bu mesaj ödeme ile birlikte Urkoin şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1704,7 +1704,7 @@ Adres: %4
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Cryply yolla</translation>
+        <translation>Urkoin yolla</translation>
     </message>
     <message>
         <source>Coin Control Features</source>
@@ -1867,8 +1867,8 @@ Adres: %4
         <translation>Muamele reddedildi! Cüzdanınızdaki madenî paraların bazıları zaten harcanmış olduğunda bu meydana gelebilir. Örneğin wallet.dat dosyasının bir kopyasını kullandıysanız ve kopyada para harcandığında ancak burada harcandığı işaretlenmediğinde.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>Uyarı: geçersiz Cryply adresi</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>Uyarı: geçersiz Urkoin adresi</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1954,8 +1954,8 @@ Adres: %4
         <translation>Kullanılmış adres listesine eklemek için bu adrese bir etiket girin</translation>
     </message>
     <message>
-        <source>A message that was attached to the cryply: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the cryply network.</source>
-        <translation>cryply: URI'siyle ilişkili ve bilginiz için muameleyle saklanacak bir mesaj. Not: Bu mesaj cryply şebekesi üzerinden gönderilmeyecektir.</translation>
+        <source>A message that was attached to the urkoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the urkoin network.</source>
+        <translation>urkoin: URI'siyle ilişkili ve bilginiz için muameleyle saklanacak bir mesaj. Not: Bu mesaj urkoin şebekesi üzerinden gönderilmeyecektir.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1973,8 +1973,8 @@ Adres: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>Cryply Çekirdeği kapanıyor...</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>Urkoin Çekirdeği kapanıyor...</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -2028,8 +2028,8 @@ Adres: %4
         <translation>Güncel imzayı sistem panosuna kopyala</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Bu Cryply adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Bu Urkoin adresinin sizin olduğunu ispatlamak için mesajı imzalayın</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2056,8 +2056,8 @@ Adres: %4
         <translation>Mesajı imzalamak için kullanılmış olan adres (mesela CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Belirtilen Cryply adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Belirtilen Urkoin adresi ile imzalandığını doğrulamak için mesajı kontrol et</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2068,8 +2068,8 @@ Adres: %4
         <translation>Tüm mesaj kontrolü alanlarını sıfırla</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply adresi giriniz (mesela CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Urkoin adresi giriniz (mesela CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -2127,12 +2127,12 @@ Adres: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Çekirdeği</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Çekirdeği</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Cryply Çekirdeği geliştiricileri</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Urkoin Çekirdeği geliştiricileri</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2246,7 +2246,7 @@ Adres: %4
     </message>
     <message>
         <source>Generated coins must mature %1 blocks before they can be spent. When you generated this block, it was broadcast to the network to be added to the block chain. If it fails to get into the chain, its state will change to "not accepted" and it won't be spendable. This may occasionally happen if another node generates a block within a few seconds of yours.</source>
-        <translation>Oluşturulan cryply'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
+        <translation>Oluşturulan urkoin'lerin harcanabilmelerinden önce %1 blok beklemeleri gerekmektedir. Bu blok, oluşturduğunuzda, blok zincirine eklenmesi için ağda yayınlandı. Zincire eklenmesi başarısız olursa, durumu "kabul edilmedi" olarak değiştirilecek ve harcanamayacaktır. Bu, bazen başka bir düğüm sizden birkaç saniye önce ya da sonra blok oluşturursa meydana gelebilir.</translation>
     </message>
     <message>
         <source>Debug information</source>
@@ -2553,7 +2553,7 @@ Adres: %4
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Cryply yolla</translation>
+        <translation>Urkoin yolla</translation>
     </message>
 </context>
 <context>
@@ -2610,12 +2610,12 @@ Adres: %4
         <translation>Seçenekler:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Yapılandırma dosyası belirt (varsayılan: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Yapılandırma dosyası belirt (varsayılan: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Pid dosyası belirt (varsayılan: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Pid dosyası belirt (varsayılan: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2658,8 +2658,8 @@ Adres: %4
         <translation>Komut satırı ve JSON-RPC komutlarını kabul et</translation>
     </message>
     <message>
-        <source>Cryply Core RPC client version</source>
-        <translation>Cryply Çekirdeği RPC istemci sürümü</translation>
+        <source>Urkoin Core RPC client version</source>
+        <translation>Urkoin Çekirdeği RPC istemci sürümü</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2677,24 +2677,24 @@ Adres: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s, şu yapılandırma dosyasında rpc parolası belirtmeniz gerekir:
 %s
 Aşağıdaki rastgele oluşturulan parolayı kullanmanız tavsiye edilir:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (bu parolayı hatırlamanız gerekli değildir)
 Kullanıcı ismi ile parolanın FARKLI olmaları gerekir.
 Dosya mevcut değilse, sadece sahibi için okumayla sınırlı izin ile oluşturunuz.
 Sorunlar hakkında bildiri almak için alertnotify unsurunu ayarlamanız tavsiye edilir;
-mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+mesela: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2763,11 +2763,11 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
     </message>
     <message>
         <source>This is a pre-release test build - use at your own risk - do not use for mining or merchant applications</source>
-        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - cryply oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
+        <translation>Bu yayın öncesi bir deneme sürümüdür - tüm riski siz üstlenmiş olursunuz - urkoin oluşturmak ya da ticari uygulamalar için kullanmayınız</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. cryply Core is probably already running.</source>
-        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Cryply Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Unable to bind to %s on this computer. urkoin Core is probably already running.</source>
+        <translation>Bu bilgisayarda %s unsuruna bağlanılamadı. Urkoin Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2778,8 +2778,8 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Uyarı: -paytxfee çok yüksek bir değere ayarlanmış! Bu, muamele gönderirseniz ödeyeceğiniz muamele ücretidir.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse Cryply gerektiği gibi çalışamaz.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Uyarı: Lütfen bilgisayarınızın tarih ve saatinin doğru olup olmadığını kontrol ediniz! Saatiniz doğru değilse Urkoin gerektiği gibi çalışamaz.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2814,8 +2814,8 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Bozuk bir wallet.dat dosyasından özel anahtarları geri kazanmayı dene</translation>
     </message>
     <message>
-        <source>Cryply Core Daemon</source>
-        <translation>Cryply Çekirdek servisi</translation>
+        <source>Urkoin Core Daemon</source>
+        <translation>Urkoin Çekirdek servisi</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2955,7 +2955,7 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
     </message>
     <message>
         <source>Generate coins (default: 0)</source>
-        <translation>Cryply oluştur (varsayılan: 0)</translation>
+        <translation>Urkoin oluştur (varsayılan: 0)</translation>
     </message>
     <message>
         <source>How many blocks to check at startup (default: 288, 0 = all)</source>
@@ -3022,8 +3022,8 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Bu, regresyon deneme araçları ve uygulama geliştirmesi için tasarlanmıştır. </translation>
     </message>
     <message>
-        <source>Usage (deprecated, use cryply-cli):</source>
-        <translation>Kullanım (önerilmemektedir, cryply-cli kullanın):</translation>
+        <source>Usage (deprecated, use urkoin-cli):</source>
+        <translation>Kullanım (önerilmemektedir, urkoin-cli kullanın):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -3058,8 +3058,8 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Harici blk000??.dat dosyasından blokları içe aktarır</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Cryply Core is probably already running.</source>
-        <translation>%s veri dizininde kilit elde edilemedi. Cryply Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
+        <source>Cannot obtain a lock on data directory %s. Urkoin Core is probably already running.</source>
+        <translation>%s veri dizininde kilit elde edilemedi. Urkoin Çekirdeği muhtemelen hâlihazırda çalışmaktadır.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3122,8 +3122,8 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Başlangıçta blok ağacını göster (varsayılan: 0)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>RPC SSL seçenekleri: (SSL kurulumu yönergeleri için Cryply vikisine bakınız)</translation>
+        <source>RPC SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>RPC SSL seçenekleri: (SSL kurulumu yönergeleri için Urkoin vikisine bakınız)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3142,12 +3142,12 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Periyodik olarak cüdanı diske yazdırmak için bir iş parçacığı çalıştır (varsayılan: 1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation> SSL seçenekleri: (SSL kurulum bilgisi için Cryply vikisine bakınız)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation> SSL seçenekleri: (SSL kurulum bilgisi için Urkoin vikisine bakınız)</translation>
     </message>
     <message>
-        <source>Send command to Cryply Core</source>
-        <translation>Cryply Çekirdeğine komut yolla</translation>
+        <source>Send command to Urkoin Core</source>
+        <translation>Urkoin Çekirdeğine komut yolla</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3182,8 +3182,8 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Bağlantı zaman aşım süresini milisaniye olarak belirt (varsayılan: 5000)</translation>
     </message>
     <message>
-        <source>Start Cryply Core Daemon</source>
-        <translation>Cryply Çekirdeği servisini başlat</translation>
+        <source>Start Urkoin Core Daemon</source>
+        <translation>Urkoin Çekirdeği servisini başlat</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3298,12 +3298,12 @@ mesela: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: bozuk cüzdan</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir Cryply sürümüne ihtiyacı var</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>wallet.dat dosyasının yüklenmesinde hata oluştu: cüzdanın daha yeni bir Urkoin sürümüne ihtiyacı var</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için Cryply'i yeniden başlatınız</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Cüzdanın tekrar yazılması gerekiyordu: işlemi tamamlamak için Urkoin'i yeniden başlatınız</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

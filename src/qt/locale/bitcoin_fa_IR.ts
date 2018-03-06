@@ -111,8 +111,8 @@
         <translation>تایید رمزگذاری</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin برای اتمام فرایند رمزگذاری بسته خواهد شد. به خاطر داشته باشید که رمزگذاری WALLET شما،  کامپیوتر شما را از آلودگی به بدافزارها مصون نمی دارد.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -174,8 +174,8 @@
         <translation>از "درخواست نامه"/ application خارج شو</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>اطلاعات در مورد Cryply را نشان بده</translation>
+        <source>Show information about Urkoin</source>
+        <translation>اطلاعات در مورد Urkoin را نشان بده</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -202,8 +202,8 @@
         <translation>تغییر رمز/پَس فرِیز</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>اصلاح انتخابها برای پیکربندی Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>اصلاح انتخابها برای پیکربندی Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -214,8 +214,8 @@
         <translation>رمز مربوط به رمزگذاریِ wallet را تغییر دهید</translation>
     </message>
     <message>
-        <source>cryply</source>
-        <translation>cryply</translation>
+        <source>urkoin</source>
+        <translation>urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -250,8 +250,8 @@
         <translation>[testnet]</translation>
     </message>
     <message>
-        <source>cryply client</source>
-        <translation>مشتری cryply</translation>
+        <source>urkoin client</source>
+        <translation>مشتری urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -369,8 +369,8 @@ Address: %4
         <translation>ویرایش حساب ارسال کننده</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid cryply address.</source>
-        <translation>آدرس وارد شده "%1" یک آدرس صحیح برای cryply نسشت</translation>
+        <source>The entered address "%1" is not a valid urkoin address.</source>
+        <translation>آدرس وارد شده "%1" یک آدرس صحیح برای urkoin نسشت</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -398,8 +398,8 @@ Address: %4
 <context>
     <name>Intro</name>
     <message>
-        <source>cryply</source>
-        <translation>cryply</translation>
+        <source>urkoin</source>
+        <translation>urkoin</translation>
     </message>
     <message>
         <source>Error</source>
@@ -439,8 +439,8 @@ Address: %4
         <translation>فرم</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه cryply به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>اطلاعات نمایش داده شده ممکن است روزآمد نباشد. wallet شما به صورت خودکار بعد از برقراری اتصال با شبکه urkoin به روز می شود اما این فرایند هنوز تکمیل نشده است.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -461,12 +461,12 @@ Address: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>cryply</source>
-        <translation>cryply</translation>
+        <source>urkoin</source>
+        <translation>urkoin</translation>
     </message>
     <message>
-        <source>Enter a cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>یک آدرس cryply وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>یک آدرس urkoin وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -499,7 +499,7 @@ Address: %4
         <translation>تعداد زنجیره های حاضر</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
+        <source>Welcome to the Urkoin RPC console.</source>
         <translation>به کنسول آر.پی.سی. BITCOIN خوش آمدید</translation>
     </message>
     </context>
@@ -661,7 +661,7 @@ Address: %4
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>یک آدرس cryply وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>یک آدرس urkoin وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Alt+A</source>
@@ -677,11 +677,11 @@ Address: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>یک آدرس cryply وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>یک آدرس urkoin وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Enter a cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>یک آدرس cryply وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>یک آدرس urkoin وارد کنید (مثال CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     </context>
 <context>
@@ -991,12 +991,12 @@ Address: %4
         <translation>انتخابها:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>فایل پیکربندیِ را مشخص کنید (پیش فرض: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>فایل پیکربندیِ را مشخص کنید (پیش فرض: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>فایل pid  را مشخص کنید (پیش فرض: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>فایل pid  را مشخص کنید (پیش فرض: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -1103,12 +1103,12 @@ Address: %4
         <translation>خطا در هنگام لود شدن wallet.dat: Wallet corrupted</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
         <translation>خطا در هنگام لود شدن wallet.dat.  به نسخه جدید Bitocin برای wallet نیاز است.</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>wallet نیاز به بازنویسی دارد. Cryply را برای تکمیل عملیات دوباره اجرا کنید.</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>wallet نیاز به بازنویسی دارد. Urkoin را برای تکمیل عملیات دوباره اجرا کنید.</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

@@ -140,13 +140,13 @@ vector<unsigned char> ParseHexO(const Object& o, string strKey)
 /// Note: This interface may still be subject to change.
 ///
 
-string CRPCTable::help(string strCommand) const
+string URKCTable::help(string strCommand) const
 {
     string strRet;
     set<rpcfn_type> setDone;
-    for (map<string, const CRPCCommand*>::const_iterator mi = mapCommands.begin(); mi != mapCommands.end(); ++mi)
+    for (map<string, const URKCCommand*>::const_iterator mi = mapCommands.begin(); mi != mapCommands.end(); ++mi)
     {
-        const CRPCCommand *pcmd = mi->second;
+        const URKCCommand *pcmd = mi->second;
         string strMethod = mi->first;
         // We already filter duplicates, but these deprecated screw up the sort order
         if (strMethod.find("label") != string::npos)
@@ -207,10 +207,10 @@ Value stop(const Array& params, bool fHelp)
     if (fHelp || params.size() > 1)
         throw runtime_error(
             "stop\n"
-            "\nStop Cryply server.");
+            "\nStop Urkoin server.");
     // Shutdown will take long enough that the response should get back
     StartShutdown();
-    return "Cryply server stopping";
+    return "Urkoin server stopping";
 }
 
 
@@ -220,7 +220,7 @@ Value stop(const Array& params, bool fHelp)
 //
 
 
-static const CRPCCommand vRPCCommands[] =
+static const URKCCommand vRPCCommands[] =
 { //  name                      actor (function)         okSafeMode threadSafe reqWallet
   //  ------------------------  -----------------------  ---------- ---------- ---------
     /* Overall control/query calls */
@@ -317,21 +317,21 @@ static const CRPCCommand vRPCCommands[] =
 #endif // ENABLE_WALLET
 };
 
-CRPCTable::CRPCTable()
+URKCTable::URKCTable()
 {
     unsigned int vcidx;
     for (vcidx = 0; vcidx < (sizeof(vRPCCommands) / sizeof(vRPCCommands[0])); vcidx++)
     {
-        const CRPCCommand *pcmd;
+        const URKCCommand *pcmd;
 
         pcmd = &vRPCCommands[vcidx];
         mapCommands[pcmd->name] = pcmd;
     }
 }
 
-const CRPCCommand *CRPCTable::operator[](string name) const
+const URKCCommand *URKCTable::operator[](string name) const
 {
-    map<string, const CRPCCommand*>::const_iterator it = mapCommands.find(name);
+    map<string, const URKCCommand*>::const_iterator it = mapCommands.find(name);
     if (it == mapCommands.end())
         return NULL;
     return (*it).second;
@@ -507,7 +507,7 @@ void StartRPCThreads()
     {
         unsigned char rand_pwd[32];
         RAND_bytes(rand_pwd, 32);
-        string strWhatAmI = "To use cryplyd";
+        string strWhatAmI = "To use urkoind";
         if (mapArgs.count("-server"))
             strWhatAmI = strprintf(_("To use the %s option"), "\"-server\"");
         else if (mapArgs.count("-daemon"))
@@ -516,13 +516,13 @@ void StartRPCThreads()
             _("%s, you must set a rpcpassword in the configuration file:\n"
               "%s\n"
               "It is recommended you use the following random password:\n"
-              "rpcuser=cryplyrpc\n"
+              "rpcuser=urkoinrpc\n"
               "rpcpassword=%s\n"
               "(you do not need to remember this password)\n"
               "The username and password MUST NOT be the same.\n"
               "If the file does not exist, create it with owner-readable-only file permissions.\n"
               "It is also recommended to set alertnotify so you are notified of problems;\n"
-              "for example: alertnotify=echo %%s | mail -s \"Cryply Alert\" admin@foo.com\n"),
+              "for example: alertnotify=echo %%s | mail -s \"Urkoin Alert\" admin@foo.com\n"),
                 strWhatAmI,
                 GetConfigFile().string(),
                 EncodeBase58(&rand_pwd[0],&rand_pwd[0]+32)),
@@ -840,10 +840,10 @@ void ServiceConnection(AcceptedConnection *conn)
     }
 }
 
-json_spirit::Value CRPCTable::execute(const std::string &strMethod, const json_spirit::Array &params) const
+json_spirit::Value URKCTable::execute(const std::string &strMethod, const json_spirit::Array &params) const
 {
     // Find method
-    const CRPCCommand *pcmd = tableRPC[strMethod];
+    const URKCCommand *pcmd = tableRPC[strMethod];
     if (!pcmd)
         throw JSONRPCError(RPC_METHOD_NOT_FOUND, "Method not found");
 #ifdef ENABLE_WALLET
@@ -888,7 +888,7 @@ json_spirit::Value CRPCTable::execute(const std::string &strMethod, const json_s
 }
 
 std::string HelpExampleCli(string methodname, string args){
-    return "> cryply-cli " + methodname + " " + args + "\n";
+    return "> urkoin-cli " + methodname + " " + args + "\n";
 }
 
 std::string HelpExampleRpc(string methodname, string args){
@@ -896,4 +896,4 @@ std::string HelpExampleRpc(string methodname, string args){
         "\"method\": \"" + methodname + "\", \"params\": [" + args + "] }' -H 'content-type: text/plain;' http://127.0.0.1:8332/\n";
 }
 
-const CRPCTable tableRPC;
+const URKCTable tableRPC;

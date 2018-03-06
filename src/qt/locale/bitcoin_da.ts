@@ -2,12 +2,12 @@
 <context>
     <name>AboutDialog</name>
     <message>
-        <source>About Cryply Core</source>
-        <translation>Om Cryply Core</translation>
+        <source>About Urkoin Core</source>
+        <translation>Om Urkoin Core</translation>
     </message>
     <message>
-        <source>&lt;b&gt;Cryply Core&lt;/b&gt; version</source>
-        <translation>&lt;b&gt;Cryply Core&lt;/b&gt; version</translation>
+        <source>&lt;b&gt;Urkoin Core&lt;/b&gt; version</source>
+        <translation>&lt;b&gt;Urkoin Core&lt;/b&gt; version</translation>
     </message>
     <message>
         <source>
@@ -28,8 +28,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Ophavsret</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Udviklerne af Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Udviklerne af Urkoin Core</translation>
     </message>
     <message>
         <source>(%1-bit)</source>
@@ -103,12 +103,12 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Modtagelsesadresser</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Disse er dine Cryply-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender cryplies.</translation>
+        <source>These are your Urkoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Disse er dine Urkoin-adresser for at sende betalinger. Tjek altid beløb og modtageradresse, inden du sender cryplies.</translation>
     </message>
     <message>
-        <source>These are your Cryply addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Dette er dine Cryply-adresser til at modtage betalinger med. Det anbefales are bruge en ny modtagelsesadresse for hver transaktion.</translation>
+        <source>These are your Urkoin addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
+        <translation>Dette er dine Urkoin-adresser til at modtage betalinger med. Det anbefales are bruge en ny modtagelsesadresse for hver transaktion.</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -225,8 +225,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Tegnebog krypteret</translation>
     </message>
     <message>
-        <source>Cryply will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
-        <translation>Cryply vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine cryplies fuldt ud mod at blive stjålet af malware på din computer.</translation>
+        <source>Urkoin will close now to finish the encryption process. Remember that encrypting your wallet cannot fully protect your cryplies from being stolen by malware infecting your computer.</source>
+        <translation>Urkoin vil nu lukke for at gennemføre krypteringsprocessen. Husk på, at kryptering af din tegnebog vil ikke beskytte dine cryplies fuldt ud mod at blive stjålet af malware på din computer.</translation>
     </message>
     <message>
         <source>Wallet encryption failed</source>
@@ -296,8 +296,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Afslut program</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Vis informationer om Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Vis informationer om Urkoin</translation>
     </message>
     <message>
         <source>About &amp;Qt</source>
@@ -344,12 +344,12 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Genindekserer blokke på disken …</translation>
     </message>
     <message>
-        <source>Send coins to a Cryply address</source>
-        <translation>Send cryplies til en Cryply-adresse</translation>
+        <source>Send coins to a Urkoin address</source>
+        <translation>Send cryplies til en Urkoin-adresse</translation>
     </message>
     <message>
-        <source>Modify configuration options for Cryply</source>
-        <translation>Redigér konfigurationsindstillinger for Cryply</translation>
+        <source>Modify configuration options for Urkoin</source>
+        <translation>Redigér konfigurationsindstillinger for Urkoin</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -372,8 +372,8 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Verificér besked …</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -400,12 +400,12 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Kryptér de private nøgler, der hører til din tegnebog</translation>
     </message>
     <message>
-        <source>Sign messages with your Cryply addresses to prove you own them</source>
-        <translation>Underskriv beskeder med dine Cryply-adresser for at bevise, at de tilhører dig</translation>
+        <source>Sign messages with your Urkoin addresses to prove you own them</source>
+        <translation>Underskriv beskeder med dine Urkoin-adresser for at bevise, at de tilhører dig</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Cryply addresses</source>
-        <translation>Verificér beskeder for at sikre, at de er underskrevet med de angivne Cryply-adresser</translation>
+        <source>Verify messages to ensure they were signed with specified Urkoin addresses</source>
+        <translation>Verificér beskeder for at sikre, at de er underskrevet med de angivne Urkoin-adresser</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -428,16 +428,16 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>[testnetværk]</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>urkoin Core</translation>
     </message>
     <message>
-        <source>Request payments (generates QR codes and cryply: URIs)</source>
-        <translation>Forespørg betalinger (genererer QR-koder og "cryply:"-URI'er)</translation>
+        <source>Request payments (generates QR codes and urkoin: URIs)</source>
+        <translation>Forespørg betalinger (genererer QR-koder og "urkoin:"-URI'er)</translation>
     </message>
     <message>
-        <source>&amp;About cryply Core</source>
-        <translation>Om Cryply Core</translation>
+        <source>&amp;About urkoin Core</source>
+        <translation>Om Urkoin Core</translation>
     </message>
     <message>
         <source>Show the list of used sending addresses and labels</source>
@@ -448,24 +448,24 @@ Produktet indeholder software som er udviklet af OpenSSL Project til brug i Open
         <translation>Vis listen over brugte modtagelsesadresser og -mærkater</translation>
     </message>
     <message>
-        <source>Open a cryply: URI or payment request</source>
-        <translation>Åbn en "cryply:"-URI eller betalingsforespørgsel</translation>
+        <source>Open a urkoin: URI or payment request</source>
+        <translation>Åbn en "urkoin:"-URI eller betalingsforespørgsel</translation>
     </message>
     <message>
         <source>&amp;Command-line options</source>
         <translation>Tilvalg for kommandolinje</translation>
     </message>
     <message>
-        <source>Show the Cryply Core help message to get a list with possible Cryply command-line options</source>
-        <translation>Vis Cryply Core hjælpebesked for at få en liste over mulige tilvalg for Cryply kommandolinje</translation>
+        <source>Show the Urkoin Core help message to get a list with possible Urkoin command-line options</source>
+        <translation>Vis Urkoin Core hjælpebesked for at få en liste over mulige tilvalg for Urkoin kommandolinje</translation>
     </message>
     <message>
-        <source>Cryply client</source>
-        <translation>Cryply-klient</translation>
+        <source>Urkoin client</source>
+        <translation>Urkoin-klient</translation>
     </message>
     <message numerus="yes">
-        <source>%n active connection(s) to Cryply network</source>
-        <translation><numerusform>%n aktiv forbindelse til Cryply-netværket</numerusform><numerusform>%n aktive forbindelser til Cryply-netværket</numerusform></translation>
+        <source>%n active connection(s) to Urkoin network</source>
+        <translation><numerusform>%n aktiv forbindelse til Urkoin-netværket</numerusform><numerusform>%n aktive forbindelser til Urkoin-netværket</numerusform></translation>
     </message>
     <message>
         <source>No block source available...</source>
@@ -560,8 +560,8 @@ Adresse: %4
         <translation>Tegnebog er &lt;b&gt;krypteret&lt;/b&gt; og i øjeblikket &lt;b&gt;låst&lt;/b&gt;</translation>
     </message>
     <message>
-        <source>A fatal error occurred. Cryply can no longer continue safely and will quit.</source>
-        <translation>Der opstod en fatal fejl. Cryply kan ikke længere fortsætte sikkert og vil afslutte.</translation>
+        <source>A fatal error occurred. Urkoin can no longer continue safely and will quit.</source>
+        <translation>Der opstod en fatal fejl. Urkoin kan ikke længere fortsætte sikkert og vil afslutte.</translation>
     </message>
 </context>
 <context>
@@ -845,8 +845,8 @@ Adresse: %4
         <translation>Den indtastede adresse "%1" er allerede i adressebogen.</translation>
     </message>
     <message>
-        <source>The entered address "%1" is not a valid Cryply address.</source>
-        <translation>Den indtastede adresse "%1" er ikke en gyldig Cryply-adresse.</translation>
+        <source>The entered address "%1" is not a valid Urkoin address.</source>
+        <translation>Den indtastede adresse "%1" er ikke en gyldig Urkoin-adresse.</translation>
     </message>
     <message>
         <source>Could not unlock wallet.</source>
@@ -883,12 +883,12 @@ Adresse: %4
 <context>
     <name>HelpMessageDialog</name>
     <message>
-        <source>Cryply Core - Command-line options</source>
-        <translation>Cryply Core – tilvalg for kommandolinje</translation>
+        <source>Urkoin Core - Command-line options</source>
+        <translation>Urkoin Core – tilvalg for kommandolinje</translation>
     </message>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
         <source>version</source>
@@ -934,16 +934,16 @@ Adresse: %4
         <translation>Velkommen</translation>
     </message>
     <message>
-        <source>Welcome to Cryply Core.</source>
-        <translation>Velkommen til Cryply Core.</translation>
+        <source>Welcome to Urkoin Core.</source>
+        <translation>Velkommen til Urkoin Core.</translation>
     </message>
     <message>
-        <source>As this is the first time the program is launched, you can choose where Cryply Core will store its data.</source>
-        <translation>Siden dette er første gang, programmet startes, kan du vælge, hvor Cryply Core skal gemme sin data.</translation>
+        <source>As this is the first time the program is launched, you can choose where Urkoin Core will store its data.</source>
+        <translation>Siden dette er første gang, programmet startes, kan du vælge, hvor Urkoin Core skal gemme sin data.</translation>
     </message>
     <message>
-        <source>Cryply Core will download and store a copy of the Cryply block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>Cryply Core vil downloade og gemme et kopi af Cryply-blokkæden. Mindst %1 GB data vil blive gemt i denne mappe, og den vil vokse over tid. Tegnebogen vil også blive gemt i denne mappe.</translation>
+        <source>Urkoin Core will download and store a copy of the Urkoin block chain. At least %1GB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
+        <translation>Urkoin Core vil downloade og gemme et kopi af Urkoin-blokkæden. Mindst %1 GB data vil blive gemt i denne mappe, og den vil vokse over tid. Tegnebogen vil også blive gemt i denne mappe.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -954,8 +954,8 @@ Adresse: %4
         <translation>Brug tilpasset mappe for data:</translation>
     </message>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" can not be created.</source>
@@ -1016,12 +1016,12 @@ Adresse: %4
         <translation>Betal transaktionsgebyr</translation>
     </message>
     <message>
-        <source>Automatically start Cryply after logging in to the system.</source>
-        <translation>Start Cryply automatisk, når der logges ind på systemet.</translation>
+        <source>Automatically start Urkoin after logging in to the system.</source>
+        <translation>Start Urkoin automatisk, når der logges ind på systemet.</translation>
     </message>
     <message>
-        <source>&amp;Start Cryply on system login</source>
-        <translation>Start Cryply ved systemlogin</translation>
+        <source>&amp;Start Urkoin on system login</source>
+        <translation>Start Urkoin ved systemlogin</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
@@ -1036,8 +1036,8 @@ Adresse: %4
         <translation>Antallet af scriptverificeringstråde</translation>
     </message>
     <message>
-        <source>Connect to the Cryply network through a SOCKS proxy.</source>
-        <translation>Forbind til Cryply-netværket gennem en SOCKS-proxy.</translation>
+        <source>Connect to the Urkoin network through a SOCKS proxy.</source>
+        <translation>Forbind til Urkoin-netværket gennem en SOCKS-proxy.</translation>
     </message>
     <message>
         <source>&amp;Connect through SOCKS proxy (default proxy):</source>
@@ -1096,8 +1096,8 @@ Adresse: %4
         <translation>Brug ubekræftede byttepenge</translation>
     </message>
     <message>
-        <source>Automatically open the Cryply client port on the router. This only works when your router supports UPnP and it is enabled.</source>
-        <translation>Åbn automatisk Cryply-klientens port på routeren. Dette virker kun, når din router understøtter UPnP, og UPnP er aktiveret.</translation>
+        <source>Automatically open the Urkoin client port on the router. This only works when your router supports UPnP and it is enabled.</source>
+        <translation>Åbn automatisk Urkoin-klientens port på routeren. Dette virker kun, når din router understøtter UPnP, og UPnP er aktiveret.</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
@@ -1152,8 +1152,8 @@ Adresse: %4
         <translation>Sprog for brugergrænseflade:</translation>
     </message>
     <message>
-        <source>The user interface language can be set here. This setting will take effect after restarting Cryply.</source>
-        <translation>Sproget for brugergrænsefladen kan angives her. Denne indstilling træder først i kraft, når Cryply genstartes.</translation>
+        <source>The user interface language can be set here. This setting will take effect after restarting Urkoin.</source>
+        <translation>Sproget for brugergrænsefladen kan angives her. Denne indstilling træder først i kraft, når Urkoin genstartes.</translation>
     </message>
     <message>
         <source>&amp;Unit to show amounts in:</source>
@@ -1164,8 +1164,8 @@ Adresse: %4
         <translation>Vælg standard for underopdeling af enhed, som skal vises i brugergrænsefladen og ved afsendelse af cryplies.</translation>
     </message>
     <message>
-        <source>Whether to show Cryply addresses in the transaction list or not.</source>
-        <translation>Afgør hvorvidt Cryply-adresser skal vises i transaktionslisten eller ej.</translation>
+        <source>Whether to show Urkoin addresses in the transaction list or not.</source>
+        <translation>Afgør hvorvidt Urkoin-adresser skal vises i transaktionslisten eller ej.</translation>
     </message>
     <message>
         <source>&amp;Display addresses in transaction list</source>
@@ -1219,8 +1219,8 @@ Adresse: %4
         <translation>Formular</translation>
     </message>
     <message>
-        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Cryply network after a connection is established, but this process has not completed yet.</source>
-        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med Cryply-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
+        <source>The displayed information may be out of date. Your wallet automatically synchronizes with the Urkoin network after a connection is established, but this process has not completed yet.</source>
+        <translation>Den viste information kan være forældet. Din tegnebog synkroniserer automatisk med Urkoin-netværket, når en forbindelse etableres, men denne proces er ikke gennemført endnu.</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -1274,8 +1274,8 @@ Adresse: %4
         <translation>URI-håndtering</translation>
     </message>
     <message>
-        <source>URI can not be parsed! This can be caused by an invalid Cryply address or malformed URI parameters.</source>
-        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig Cryply-adresse eller misdannede URI-parametre.</translation>
+        <source>URI can not be parsed! This can be caused by an invalid Urkoin address or malformed URI parameters.</source>
+        <translation>URI kan ikke fortolkes! Dette kan skyldes en ugyldig Urkoin-adresse eller misdannede URI-parametre.</translation>
     </message>
     <message>
         <source>Requested payment amount of %1 is too small (considered dust).</source>
@@ -1286,8 +1286,8 @@ Adresse: %4
         <translation>Fejl i betalingsforespørgsel</translation>
     </message>
     <message>
-        <source>Cannot start cryply: click-to-pay handler</source>
-        <translation>Kan ikke starte cryply: click-to-pay-håndtering</translation>
+        <source>Cannot start urkoin: click-to-pay handler</source>
+        <translation>Kan ikke starte urkoin: click-to-pay-håndtering</translation>
     </message>
     <message>
         <source>Net manager warning</source>
@@ -1341,8 +1341,8 @@ Adresse: %4
 <context>
     <name>QObject</name>
     <message>
-        <source>Cryply</source>
-        <translation>Cryply</translation>
+        <source>Urkoin</source>
+        <translation>Urkoin</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" does not exist.</source>
@@ -1357,12 +1357,12 @@ Adresse: %4
         <translation>Fejl: Ugyldig kombination af -regtest og -testnet.</translation>
     </message>
     <message>
-        <source>Cryply Core didn't yet exit safely...</source>
-        <translation>Cryply Core blev ikke afsluttet på sikker vis …</translation>
+        <source>Urkoin Core didn't yet exit safely...</source>
+        <translation>Urkoin Core blev ikke afsluttet på sikker vis …</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Indtast en Cryply-adresse (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Indtast en Urkoin-adresse (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
 </context>
 <context>
@@ -1483,16 +1483,16 @@ Adresse: %4
         <translation>Fejlsøgningslogfil</translation>
     </message>
     <message>
-        <source>Open the Cryply debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Åbn Cryply-fejlsøgningslogfilen fra den nuværende datamappe. Dette kan tage nogle få sekunder for store logfiler.</translation>
+        <source>Open the Urkoin debug log file from the current data directory. This can take a few seconds for large log files.</source>
+        <translation>Åbn Urkoin-fejlsøgningslogfilen fra den nuværende datamappe. Dette kan tage nogle få sekunder for store logfiler.</translation>
     </message>
     <message>
         <source>Clear console</source>
         <translation>Ryd konsol</translation>
     </message>
     <message>
-        <source>Welcome to the Cryply RPC console.</source>
-        <translation>Velkommen til Cryply RPC-konsollen.</translation>
+        <source>Welcome to the Urkoin RPC console.</source>
+        <translation>Velkommen til Urkoin RPC-konsollen.</translation>
     </message>
     <message>
         <source>Use up and down arrows to navigate history, and &lt;b&gt;Ctrl-L&lt;/b&gt; to clear screen.</source>
@@ -1554,8 +1554,8 @@ Adresse: %4
         <translation>Genbrug en eksisterende modtagelsesadresse (anbefales ikke)</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Cryply network.</source>
-        <translation>En valgfri besked, der føjes til betalingsanmodningen, og som vil vises, når anmodningen åbnes. Bemærk: Beskeden vil ikke sendes med betalingen over Cryply-netværket.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Urkoin network.</source>
+        <translation>En valgfri besked, der føjes til betalingsanmodningen, og som vil vises, når anmodningen åbnes. Bemærk: Beskeden vil ikke sendes med betalingen over Urkoin-netværket.</translation>
     </message>
     <message>
         <source>An optional label to associate with the new receiving address.</source>
@@ -1867,8 +1867,8 @@ Adresse: %4
         <translation>Transaktionen blev afvist! Dette kan ske, hvis nogle af dine cryplies i din tegnebog allerede er brugt, som hvis du brugte en kopi af wallet.dat og dine cryplies er blevet brugt i kopien, men ikke er markeret som brugt her.</translation>
     </message>
     <message>
-        <source>Warning: Invalid Cryply address</source>
-        <translation>Advarsel: Ugyldig Cryply-adresse</translation>
+        <source>Warning: Invalid Urkoin address</source>
+        <translation>Advarsel: Ugyldig Urkoin-adresse</translation>
     </message>
     <message>
         <source>(no label)</source>
@@ -1907,7 +1907,7 @@ Adresse: %4
     </message>
     <message>
         <source>The address to send the payment to (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply-adressen som betalingen skal sendes til (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Urkoin-adressen som betalingen skal sendes til (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Enter a label for this address to add it to your address book</source>
@@ -1954,8 +1954,8 @@ Adresse: %4
         <translation>Indtast et mærkat for denne adresse for at føje den til listen over brugte adresser</translation>
     </message>
     <message>
-        <source>A message that was attached to the cryply: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the cryply network.</source>
-        <translation>En besked, som blev føjet til "bitcon:"-URI'en, som vil gemmes med transaktionen til din reference. Bemærk: Denne besked vil ikke blive sendt over cryply-netværket.</translation>
+        <source>A message that was attached to the urkoin: URI which will be stored with the transaction for your reference. Note: This message will not be sent over the urkoin network.</source>
+        <translation>En besked, som blev føjet til "bitcon:"-URI'en, som vil gemmes med transaktionen til din reference. Bemærk: Denne besked vil ikke blive sendt over urkoin-netværket.</translation>
     </message>
     <message>
         <source>This is an unverified payment request.</source>
@@ -1973,8 +1973,8 @@ Adresse: %4
 <context>
     <name>ShutdownWindow</name>
     <message>
-        <source>Cryply Core is shutting down...</source>
-        <translation>Cryply Core lukker ned …</translation>
+        <source>Urkoin Core is shutting down...</source>
+        <translation>Urkoin Core lukker ned …</translation>
     </message>
     <message>
         <source>Do not shut down the computer until this window disappears.</source>
@@ -1993,11 +1993,11 @@ Adresse: %4
     </message>
     <message>
         <source>You can sign messages with your addresses to prove you own them. Be careful not to sign anything vague, as phishing attacks may try to trick you into signing your identity over to them. Only sign fully-detailed statements you agree to.</source>
-        <translation>Du kan underskrive beskeder med dine Cryply-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
+        <translation>Du kan underskrive beskeder med dine Urkoin-adresser for at bevise, at de tilhører dig. Pas på ikke at underskrive noget vagt, da phisingangreb kan narre dig til at overdrage din identitet. Underskriv kun fuldt detaljerede udsagn, du er enig i.</translation>
     </message>
     <message>
         <source>The address to sign the message with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply-adressen som beskeden skal underskrives med (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Urkoin-adressen som beskeden skal underskrives med (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Choose previously used address</source>
@@ -2028,8 +2028,8 @@ Adresse: %4
         <translation>Kopiér den nuværende underskrift til systemets udklipsholder</translation>
     </message>
     <message>
-        <source>Sign the message to prove you own this Cryply address</source>
-        <translation>Underskriv denne besked for at bevise, at Cryply-adressen tilhører dig</translation>
+        <source>Sign the message to prove you own this Urkoin address</source>
+        <translation>Underskriv denne besked for at bevise, at Urkoin-adressen tilhører dig</translation>
     </message>
     <message>
         <source>Sign &amp;Message</source>
@@ -2053,11 +2053,11 @@ Adresse: %4
     </message>
     <message>
         <source>The address the message was signed with (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Cryply-adressen som beskeden er underskrevet med (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <translation>Urkoin-adressen som beskeden er underskrevet med (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
-        <source>Verify the message to ensure it was signed with the specified Cryply address</source>
-        <translation>Verificér beskeden for at sikre, at den er underskrevet med den angivne Cryply-adresse</translation>
+        <source>Verify the message to ensure it was signed with the specified Urkoin address</source>
+        <translation>Verificér beskeden for at sikre, at den er underskrevet med den angivne Urkoin-adresse</translation>
     </message>
     <message>
         <source>Verify &amp;Message</source>
@@ -2068,8 +2068,8 @@ Adresse: %4
         <translation>Nulstil alle "verificér besked"-felter</translation>
     </message>
     <message>
-        <source>Enter a Cryply address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
-        <translation>Indtast en Cryply-adresse (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
+        <source>Enter a Urkoin address (e.g. CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</source>
+        <translation>Indtast en Urkoin-adresse (fx CNS17iag9jJgTHD1VXjvLCEnZuQ3rJDE9L)</translation>
     </message>
     <message>
         <source>Click "Sign Message" to generate signature</source>
@@ -2127,12 +2127,12 @@ Adresse: %4
 <context>
     <name>SplashScreen</name>
     <message>
-        <source>Cryply Core</source>
-        <translation>Cryply Core</translation>
+        <source>Urkoin Core</source>
+        <translation>Urkoin Core</translation>
     </message>
     <message>
-        <source>The Cryply Core developers</source>
-        <translation>Udviklerne af Cryply Core</translation>
+        <source>The Urkoin Core developers</source>
+        <translation>Udviklerne af Urkoin Core</translation>
     </message>
     <message>
         <source>[testnet]</source>
@@ -2610,12 +2610,12 @@ Adresse: %4
         <translation>Indstillinger:</translation>
     </message>
     <message>
-        <source>Specify configuration file (default: cryply.conf)</source>
-        <translation>Angiv konfigurationsfil (standard: cryply.conf)</translation>
+        <source>Specify configuration file (default: urkoin.conf)</source>
+        <translation>Angiv konfigurationsfil (standard: urkoin.conf)</translation>
     </message>
     <message>
-        <source>Specify pid file (default: cryplyd.pid)</source>
-        <translation>Angiv pid-fil (default: cryplyd.pid)</translation>
+        <source>Specify pid file (default: urkoind.pid)</source>
+        <translation>Angiv pid-fil (default: urkoind.pid)</translation>
     </message>
     <message>
         <source>Specify data directory</source>
@@ -2658,8 +2658,8 @@ Adresse: %4
         <translation>Acceptér kommandolinje- og JSON-RPC-kommandoer</translation>
     </message>
     <message>
-        <source>Cryply Core RPC client version</source>
-        <translation>Cryply Core RPC-klient-version</translation>
+        <source>Urkoin Core RPC client version</source>
+        <translation>Urkoin Core RPC-klient-version</translation>
     </message>
     <message>
         <source>Run in the background as a daemon and accept commands</source>
@@ -2677,24 +2677,24 @@ Adresse: %4
         <source>%s, you must set a rpcpassword in the configuration file:
 %s
 It is recommended you use the following random password:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (you do not need to remember this password)
 The username and password MUST NOT be the same.
 If the file does not exist, create it with owner-readable-only file permissions.
 It is also recommended to set alertnotify so you are notified of problems;
-for example: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+for example: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </source>
         <translation>%s, du skal angive en RPC-adgangskode i konfigurationsfilen:
 %s
 Det anbefales, at du bruger nedenstående, tilfældige adgangskode:
-rpcuser=cryplyrpc
+rpcuser=urkoinrpc
 rpcpassword=%s
 (du behøver ikke huske denne adgangskode)
 Brugernavnet og adgangskode MÅ IKKE være det samme.
 Hvis filen ikke eksisterer, opret den og giv ingen andre end ejeren læserettighed.
 Det anbefales også at angive alertnotify, så du påmindes om problemer;
-fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
+fx: alertnotify=echo %%s | mail -s "Urkoin Alert" admin@foo.com
 </translation>
     </message>
     <message>
@@ -2766,8 +2766,8 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Dette er en foreløbig testudgivelse - brug på eget ansvar - brug ikke til udvinding eller handelsprogrammer</translation>
     </message>
     <message>
-        <source>Unable to bind to %s on this computer. Cryply Core is probably already running.</source>
-        <translation>Ikke i stand til at tildele til %s på denne computer. Cryply Core kører sansynligvis allerede.</translation>
+        <source>Unable to bind to %s on this computer. Urkoin Core is probably already running.</source>
+        <translation>Ikke i stand til at tildele til %s på denne computer. Urkoin Core kører sansynligvis allerede.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: -proxy)</source>
@@ -2778,8 +2778,8 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Advarsel: -paytxfee er sat meget højt! Dette er det gebyr du vil betale, hvis du sender en transaktion.</translation>
     </message>
     <message>
-        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Cryply will not work properly.</source>
-        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil Cryply ikke fungere korrekt.</translation>
+        <source>Warning: Please check that your computer's date and time are correct! If your clock is wrong Urkoin will not work properly.</source>
+        <translation>Advarsel: Undersøg venligst, at din computers dato og klokkeslæt er korrekt indstillet! Hvis der er fejl i disse, vil Urkoin ikke fungere korrekt.</translation>
     </message>
     <message>
         <source>Warning: The network does not appear to fully agree! Some miners appear to be experiencing issues.</source>
@@ -2814,8 +2814,8 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Forsøg at genskabe private nøgler fra ødelagt wallet.dat</translation>
     </message>
     <message>
-        <source>Cryply Core Daemon</source>
-        <translation>Cryply Core-tjeneste</translation>
+        <source>Urkoin Core Daemon</source>
+        <translation>Urkoin Core-tjeneste</translation>
     </message>
     <message>
         <source>Block creation options:</source>
@@ -2927,7 +2927,7 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
     </message>
     <message>
         <source>Failed to write to coin database</source>
-        <translation>Skrivning af cryply-database mislykkedes</translation>
+        <translation>Skrivning af urkoin-database mislykkedes</translation>
     </message>
     <message>
         <source>Failed to write transaction index</source>
@@ -3022,8 +3022,8 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>This is intended for regression testing tools and app development.</translation>
     </message>
     <message>
-        <source>Usage (deprecated, use cryply-cli):</source>
-        <translation>Brug (forældet, brug cryply-cli):</translation>
+        <source>Usage (deprecated, use urkoin-cli):</source>
+        <translation>Brug (forældet, brug urkoin-cli):</translation>
     </message>
     <message>
         <source>Verifying blocks...</source>
@@ -3054,8 +3054,8 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Importerer blokke fra ekstern blk000??.dat fil</translation>
     </message>
     <message>
-        <source>Cannot obtain a lock on data directory %s. Cryply Core is probably already running.</source>
-        <translation>Kan ikke opnå en lås på datamappe %s. Cryply Core kører sansynligvis allerede.</translation>
+        <source>Cannot obtain a lock on data directory %s. Urkoin Core is probably already running.</source>
+        <translation>Kan ikke opnå en lås på datamappe %s. Urkoin Core kører sansynligvis allerede.</translation>
     </message>
     <message>
         <source>Execute command when a relevant alert is received or we see a really long fork (%s in cmd is replaced by message)</source>
@@ -3118,8 +3118,8 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Udskriv bloktræ under startop (standard: 0)</translation>
     </message>
     <message>
-        <source>RPC SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>Tilvalg for RPC SSL: (se Cryply Wiki for instruktioner i SSL-opstart)</translation>
+        <source>RPC SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>Tilvalg for RPC SSL: (se Urkoin Wiki for instruktioner i SSL-opstart)</translation>
     </message>
     <message>
         <source>RPC server options:</source>
@@ -3138,12 +3138,12 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Kør en tråd for at rydde tegnebog periodisk (standard: 1)</translation>
     </message>
     <message>
-        <source>SSL options: (see the Cryply Wiki for SSL setup instructions)</source>
-        <translation>SSL-indstillinger: (se Cryply Wiki for SSL-opsætningsinstruktioner)</translation>
+        <source>SSL options: (see the Urkoin Wiki for SSL setup instructions)</source>
+        <translation>SSL-indstillinger: (se Urkoin Wiki for SSL-opsætningsinstruktioner)</translation>
     </message>
     <message>
-        <source>Send command to Cryply Core</source>
-        <translation>Send kommando til Cryply Core</translation>
+        <source>Send command to Urkoin Core</source>
+        <translation>Send kommando til Urkoin Core</translation>
     </message>
     <message>
         <source>Send trace/debug info to console instead of debug.log file</source>
@@ -3178,8 +3178,8 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Angiv tilslutningstimeout i millisekunder (standard: 5000)</translation>
     </message>
     <message>
-        <source>Start Cryply Core Daemon</source>
-        <translation>Start Cryply Core-tjeneste</translation>
+        <source>Start Urkoin Core Daemon</source>
+        <translation>Start Urkoin Core-tjeneste</translation>
     </message>
     <message>
         <source>System error: </source>
@@ -3294,12 +3294,12 @@ fx: alertnotify=echo %%s | mail -s "Cryply Alert" admin@foo.com
         <translation>Fejl ved indlæsning af wallet.dat: Tegnebog ødelagt</translation>
     </message>
     <message>
-        <source>Error loading wallet.dat: Wallet requires newer version of Cryply</source>
-        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af Cryply</translation>
+        <source>Error loading wallet.dat: Wallet requires newer version of Urkoin</source>
+        <translation>Fejl ved indlæsning af wallet.dat: Tegnebog kræver en nyere version af Urkoin</translation>
     </message>
     <message>
-        <source>Wallet needed to be rewritten: restart Cryply to complete</source>
-        <translation>Det var nødvendigt at genskrive tegnebogen: genstart Cryply for at gennemføre</translation>
+        <source>Wallet needed to be rewritten: restart Urkoin to complete</source>
+        <translation>Det var nødvendigt at genskrive tegnebogen: genstart Urkoin for at gennemføre</translation>
     </message>
     <message>
         <source>Error loading wallet.dat</source>

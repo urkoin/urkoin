@@ -138,8 +138,8 @@
         <translation>Gadael rhaglen</translation>
     </message>
     <message>
-        <source>Show information about Cryply</source>
-        <translation>Dangos gwybodaeth am Cryply</translation>
+        <source>Show information about Urkoin</source>
+        <translation>Dangos gwybodaeth am Urkoin</translation>
     </message>
     <message>
         <source>&amp;Options...</source>
